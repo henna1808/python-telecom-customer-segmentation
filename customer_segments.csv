@@ -1,0 +1,3001 @@
+customer_id,segment,segment_name,monthly_charge,data_usage_gb,total_revenue,churned,contract_type
+CUST00001,2,📊 Standard Users,48.59,16.73,1872.19,Yes,Quarterly
+CUST00002,2,📊 Standard Users,37.98,15.45,1885.03,No,Monthly
+CUST00003,1,📊 Standard Users,61.71,32.81,1830.59,No,Monthly
+CUST00004,0,💰 Budget-Conscious,15.82,3.39,698.36,No,Monthly
+CUST00005,1,📊 Standard Users,61.97,50.15,2396.11,No,Monthly
+CUST00006,2,📊 Standard Users,39.33,5.81,1475.05,No,Quarterly
+CUST00007,2,📊 Standard Users,46.93,13.46,2744.08,No,Monthly
+CUST00008,0,💰 Budget-Conscious,30.82,13.34,1103.4,No,Monthly
+CUST00009,2,📊 Standard Users,21.86,6.71,1215.4,No,Quarterly
+CUST00010,3,⚠️ At-Risk,41.08,21.18,206.75,No,Quarterly
+CUST00011,0,💰 Budget-Conscious,45.51,13.87,752.5,No,Quarterly
+CUST00012,1,📊 Standard Users,55.54,36.93,2347.51,No,Monthly
+CUST00013,1,📊 Standard Users,53.92,37.78,647.06,No,Monthly
+CUST00014,1,📊 Standard Users,50.52,45.53,2546.33,No,Monthly
+CUST00015,0,💰 Budget-Conscious,31.14,20.16,121.46,Yes,Monthly
+CUST00016,2,📊 Standard Users,47.67,12.31,2266.14,No,Quarterly
+CUST00017,0,💰 Budget-Conscious,26.72,5.88,1026.75,No,Annual
+CUST00018,1,📊 Standard Users,51.07,38.83,1533.82,No,Quarterly
+CUST00019,2,📊 Standard Users,39.16,14.42,2241.27,No,Quarterly
+CUST00020,0,💰 Budget-Conscious,44.24,16.87,235.94,No,Monthly
+CUST00021,2,📊 Standard Users,48.66,15.1,2781.69,No,Quarterly
+CUST00022,1,📊 Standard Users,60.02,36.58,2725.0,No,Monthly
+CUST00023,1,📊 Standard Users,56.56,21.44,1506.37,No,Monthly
+CUST00024,0,💰 Budget-Conscious,32.69,10.41,406.48,No,Monthly
+CUST00025,1,📊 Standard Users,56.44,43.18,2906.66,No,Monthly
+CUST00026,2,📊 Standard Users,32.78,8.95,1602.85,No,Monthly
+CUST00027,2,📊 Standard Users,41.3,17.35,1149.61,No,Annual
+CUST00028,0,💰 Budget-Conscious,23.62,4.84,326.78,Yes,Monthly
+CUST00029,2,📊 Standard Users,43.59,20.15,1809.18,No,Monthly
+CUST00030,2,📊 Standard Users,32.69,18.24,1073.21,Yes,Monthly
+CUST00031,0,💰 Budget-Conscious,48.7,12.73,496.73,No,Quarterly
+CUST00032,2,📊 Standard Users,51.15,32.77,2069.94,No,Quarterly
+CUST00033,0,💰 Budget-Conscious,41.99,5.07,684.44,No,Quarterly
+CUST00034,2,📊 Standard Users,47.49,14.35,2164.04,No,Monthly
+CUST00035,3,⚠️ At-Risk,47.04,8.65,79.97,No,Quarterly
+CUST00036,1,📊 Standard Users,61.82,32.81,581.08,No,Monthly
+CUST00037,0,💰 Budget-Conscious,35.3,11.81,914.23,No,Annual
+CUST00038,0,💰 Budget-Conscious,35.0,10.62,1033.76,No,Quarterly
+CUST00039,1,📊 Standard Users,54.71,46.88,2943.34,No,Monthly
+CUST00040,0,💰 Budget-Conscious,17.12,2.45,287.6,No,Monthly
+CUST00041,1,📊 Standard Users,58.64,25.37,2173.77,No,Monthly
+CUST00042,0,💰 Budget-Conscious,34.35,11.51,618.25,No,Monthly
+CUST00043,2,📊 Standard Users,41.4,12.59,2394.1,No,Monthly
+CUST00044,2,📊 Standard Users,49.16,10.62,2505.55,No,Quarterly
+CUST00045,0,💰 Budget-Conscious,38.77,13.2,942.05,No,Monthly
+CUST00046,1,📊 Standard Users,54.71,38.02,1832.82,No,Monthly
+CUST00047,1,📊 Standard Users,62.08,41.7,453.21,Yes,Monthly
+CUST00048,2,📊 Standard Users,46.65,18.11,1534.8,No,Monthly
+CUST00049,0,💰 Budget-Conscious,37.49,5.46,894.8,No,Annual
+CUST00050,2,📊 Standard Users,43.21,16.9,1421.56,No,Monthly
+CUST00051,0,💰 Budget-Conscious,41.16,17.21,812.14,No,Quarterly
+CUST00052,2,📊 Standard Users,26.07,3.68,1407.71,No,Annual
+CUST00053,2,📊 Standard Users,37.06,23.34,1602.34,Yes,Quarterly
+CUST00054,0,💰 Budget-Conscious,24.69,7.18,708.73,No,Annual
+CUST00055,2,📊 Standard Users,31.52,14.08,1636.86,No,Monthly
+CUST00056,0,💰 Budget-Conscious,18.98,3.81,748.94,No,Annual
+CUST00057,2,📊 Standard Users,48.96,23.26,2509.96,No,Monthly
+CUST00058,1,📊 Standard Users,70.37,34.81,1585.76,No,Monthly
+CUST00059,0,💰 Budget-Conscious,35.44,15.43,59.06,No,Quarterly
+CUST00060,2,📊 Standard Users,42.72,15.36,1238.91,No,Annual
+CUST00061,0,💰 Budget-Conscious,44.01,26.52,287.5,No,Annual
+CUST00062,0,💰 Budget-Conscious,27.01,4.57,1194.87,No,Monthly
+CUST00063,0,💰 Budget-Conscious,30.24,14.88,420.38,No,Monthly
+CUST00064,0,💰 Budget-Conscious,42.93,10.84,901.45,No,Annual
+CUST00065,0,💰 Budget-Conscious,43.61,13.05,501.57,No,Monthly
+CUST00066,0,💰 Budget-Conscious,27.09,2.94,38.83,No,Quarterly
+CUST00067,0,💰 Budget-Conscious,29.91,3.38,270.14,No,Annual
+CUST00068,1,📊 Standard Users,51.29,16.9,1378.12,No,Monthly
+CUST00069,2,📊 Standard Users,33.09,19.41,1543.14,Yes,Monthly
+CUST00070,0,💰 Budget-Conscious,15.0,5.31,297.0,No,Monthly
+CUST00071,2,📊 Standard Users,40.17,16.2,1241.25,No,Monthly
+CUST00072,2,📊 Standard Users,33.07,14.74,1535.65,No,Annual
+CUST00073,0,💰 Budget-Conscious,45.14,15.36,182.06,No,Monthly
+CUST00074,2,📊 Standard Users,45.07,23.1,2133.36,No,Annual
+CUST00075,2,📊 Standard Users,45.8,11.16,1503.86,No,Monthly
+CUST00076,2,📊 Standard Users,36.94,16.39,1857.03,No,Annual
+CUST00077,1,📊 Standard Users,60.83,37.73,3003.13,No,Monthly
+CUST00078,0,💰 Budget-Conscious,45.16,20.71,809.78,No,Monthly
+CUST00079,1,📊 Standard Users,77.05,39.39,2067.45,No,Monthly
+CUST00080,3,⚠️ At-Risk,27.36,5.98,58.37,No,Quarterly
+CUST00081,0,💰 Budget-Conscious,30.66,8.71,240.16,No,Quarterly
+CUST00082,2,📊 Standard Users,39.91,10.96,1508.66,No,Annual
+CUST00083,1,📊 Standard Users,63.81,23.33,3435.36,No,Monthly
+CUST00084,2,📊 Standard Users,41.99,2.62,2016.83,No,Monthly
+CUST00085,0,💰 Budget-Conscious,29.84,5.79,1049.4,No,Monthly
+CUST00086,1,📊 Standard Users,71.41,32.38,2501.9,No,Monthly
+CUST00087,2,📊 Standard Users,33.11,17.0,1592.81,No,Monthly
+CUST00088,0,💰 Budget-Conscious,37.71,15.18,747.96,No,Annual
+CUST00089,2,📊 Standard Users,45.51,16.2,1758.33,No,Annual
+CUST00090,2,📊 Standard Users,31.47,21.69,1604.83,No,Annual
+CUST00091,0,💰 Budget-Conscious,33.78,15.04,824.2,No,Quarterly
+CUST00092,0,💰 Budget-Conscious,36.69,18.34,527.18,Yes,Monthly
+CUST00093,1,📊 Standard Users,58.52,31.98,1480.64,No,Monthly
+CUST00094,1,📊 Standard Users,60.9,43.25,3266.39,No,Monthly
+CUST00095,0,💰 Budget-Conscious,35.27,8.8,224.55,No,Annual
+CUST00096,1,📊 Standard Users,73.25,16.62,564.0,Yes,Monthly
+CUST00097,2,📊 Standard Users,45.48,25.53,1553.88,No,Monthly
+CUST00098,1,📊 Standard Users,64.38,53.36,641.7,Yes,Monthly
+CUST00099,0,💰 Budget-Conscious,38.52,5.27,1084.98,No,Monthly
+CUST00100,1,📊 Standard Users,53.67,34.64,2368.64,No,Annual
+CUST00101,1,📊 Standard Users,55.7,36.5,900.5,No,Quarterly
+CUST00102,2,📊 Standard Users,43.08,18.61,2175.56,No,Monthly
+CUST00103,2,📊 Standard Users,46.48,23.7,2757.6,No,Annual
+CUST00104,1,📊 Standard Users,53.84,24.39,2342.03,No,Quarterly
+CUST00105,1,📊 Standard Users,68.3,24.92,2381.24,No,Monthly
+CUST00106,0,💰 Budget-Conscious,15.0,5.0,877.5,No,Monthly
+CUST00107,1,📊 Standard Users,55.79,25.36,604.39,No,Monthly
+CUST00108,1,📊 Standard Users,53.13,7.86,3149.1,No,Monthly
+CUST00109,0,💰 Budget-Conscious,38.77,13.86,967.92,No,Annual
+CUST00110,2,📊 Standard Users,48.28,19.29,2899.73,Yes,Monthly
+CUST00111,0,💰 Budget-Conscious,36.98,14.9,452.42,No,Annual
+CUST00112,1,📊 Standard Users,64.25,41.24,1944.55,No,Monthly
+CUST00113,1,📊 Standard Users,53.09,39.81,1957.33,No,Monthly
+CUST00114,2,📊 Standard Users,48.25,9.87,1320.54,No,Monthly
+CUST00115,1,📊 Standard Users,62.09,35.68,509.14,No,Monthly
+CUST00116,1,📊 Standard Users,51.27,19.75,1355.25,No,Monthly
+CUST00117,0,💰 Budget-Conscious,39.11,12.44,282.89,Yes,Annual
+CUST00118,1,📊 Standard Users,73.01,35.5,995.31,No,Monthly
+CUST00119,0,💰 Budget-Conscious,35.66,14.99,620.4,No,Quarterly
+CUST00120,0,💰 Budget-Conscious,22.26,2.42,811.91,No,Monthly
+CUST00121,2,📊 Standard Users,46.09,9.56,1858.78,No,Monthly
+CUST00122,3,⚠️ At-Risk,48.22,16.45,70.72,No,Monthly
+CUST00123,3,⚠️ At-Risk,47.22,19.14,147.94,Yes,Quarterly
+CUST00124,0,💰 Budget-Conscious,46.61,13.97,854.51,No,Monthly
+CUST00125,1,📊 Standard Users,56.33,32.43,2622.95,No,Monthly
+CUST00126,1,📊 Standard Users,65.05,44.31,2562.82,No,Quarterly
+CUST00127,1,📊 Standard Users,57.02,27.28,1286.81,No,Monthly
+CUST00128,1,📊 Standard Users,59.66,52.27,3032.7,No,Monthly
+CUST00129,2,📊 Standard Users,43.06,8.27,1601.72,No,Monthly
+CUST00130,0,💰 Budget-Conscious,23.92,7.1,950.34,No,Annual
+CUST00131,0,💰 Budget-Conscious,17.02,6.08,880.44,No,Quarterly
+CUST00132,0,💰 Budget-Conscious,37.22,27.05,771.69,Yes,Monthly
+CUST00133,0,💰 Budget-Conscious,15.0,2.76,210.5,No,Monthly
+CUST00134,2,📊 Standard Users,39.11,3.33,2252.64,No,Annual
+CUST00135,0,💰 Budget-Conscious,36.17,21.25,540.17,No,Quarterly
+CUST00136,0,💰 Budget-Conscious,25.3,2.06,268.17,No,Monthly
+CUST00137,0,💰 Budget-Conscious,36.05,18.08,490.24,No,Annual
+CUST00138,2,📊 Standard Users,33.92,20.91,1744.65,No,Monthly
+CUST00139,1,📊 Standard Users,51.76,38.8,448.6,Yes,Monthly
+CUST00140,2,📊 Standard Users,47.08,16.16,1642.96,No,Quarterly
+CUST00141,3,⚠️ At-Risk,34.47,17.0,80.44,No,Monthly
+CUST00142,2,📊 Standard Users,33.1,19.19,1192.77,No,Annual
+CUST00143,0,💰 Budget-Conscious,42.15,17.94,230.41,No,Quarterly
+CUST00144,0,💰 Budget-Conscious,25.93,2.57,198.79,No,Quarterly
+CUST00145,2,📊 Standard Users,48.22,24.12,1300.39,No,Monthly
+CUST00146,0,💰 Budget-Conscious,23.53,5.1,752.33,No,Monthly
+CUST00147,1,📊 Standard Users,53.49,40.18,1936.18,No,Monthly
+CUST00148,2,📊 Standard Users,35.65,18.55,1308.29,Yes,Quarterly
+CUST00149,0,💰 Budget-Conscious,23.45,7.31,415.88,No,Monthly
+CUST00150,0,💰 Budget-Conscious,36.3,20.26,527.57,No,Monthly
+CUST00151,2,📊 Standard Users,34.62,15.66,1877.73,Yes,Quarterly
+CUST00152,1,📊 Standard Users,61.03,35.67,3623.02,No,Monthly
+CUST00153,0,💰 Budget-Conscious,41.73,17.04,1160.18,No,Quarterly
+CUST00154,0,💰 Budget-Conscious,30.66,20.5,130.8,Yes,Monthly
+CUST00155,2,📊 Standard Users,48.19,9.44,1145.38,No,Annual
+CUST00156,1,📊 Standard Users,54.4,41.44,1369.0,No,Monthly
+CUST00157,2,📊 Standard Users,39.96,10.57,2130.94,Yes,Monthly
+CUST00158,0,💰 Budget-Conscious,21.69,8.7,715.85,No,Monthly
+CUST00159,2,📊 Standard Users,38.63,16.84,2307.56,No,Monthly
+CUST00160,0,💰 Budget-Conscious,37.79,12.92,808.81,No,Quarterly
+CUST00161,2,📊 Standard Users,43.69,17.14,2206.36,No,Quarterly
+CUST00162,2,📊 Standard Users,46.07,15.05,1032.03,No,Quarterly
+CUST00163,1,📊 Standard Users,57.1,33.4,3467.8,No,Monthly
+CUST00164,0,💰 Budget-Conscious,20.83,1.38,734.53,No,Monthly
+CUST00165,2,📊 Standard Users,48.13,9.88,2039.0,No,Monthly
+CUST00166,0,💰 Budget-Conscious,38.4,14.3,681.03,No,Quarterly
+CUST00167,1,📊 Standard Users,56.42,18.12,1497.11,No,Annual
+CUST00168,0,💰 Budget-Conscious,45.97,12.06,654.31,No,Monthly
+CUST00169,0,💰 Budget-Conscious,35.66,12.5,1069.81,No,Monthly
+CUST00170,0,💰 Budget-Conscious,41.1,11.1,1128.98,No,Quarterly
+CUST00171,0,💰 Budget-Conscious,34.93,18.86,491.37,No,Annual
+CUST00172,0,💰 Budget-Conscious,20.11,3.24,158.2,No,Quarterly
+CUST00173,2,📊 Standard Users,38.27,15.44,1362.29,No,Annual
+CUST00174,2,📊 Standard Users,40.34,13.23,2160.97,No,Monthly
+CUST00175,2,📊 Standard Users,44.6,14.41,1369.21,No,Monthly
+CUST00176,2,📊 Standard Users,28.01,8.21,1413.64,No,Annual
+CUST00177,2,📊 Standard Users,29.06,5.36,1689.4,No,Quarterly
+CUST00178,1,📊 Standard Users,58.18,38.73,3157.41,Yes,Monthly
+CUST00179,1,📊 Standard Users,51.08,27.35,1520.62,No,Quarterly
+CUST00180,0,💰 Budget-Conscious,38.34,18.13,986.74,No,Annual
+CUST00181,0,💰 Budget-Conscious,21.89,6.17,944.28,Yes,Quarterly
+CUST00182,0,💰 Budget-Conscious,44.83,17.44,886.15,No,Quarterly
+CUST00183,0,💰 Budget-Conscious,18.06,2.58,632.13,Yes,Monthly
+CUST00184,0,💰 Budget-Conscious,35.08,12.07,146.18,No,Monthly
+CUST00185,1,📊 Standard Users,57.98,49.34,3453.88,No,Monthly
+CUST00186,0,💰 Budget-Conscious,40.26,11.56,689.8,No,Annual
+CUST00187,2,📊 Standard Users,38.66,22.85,1881.25,No,Annual
+CUST00188,0,💰 Budget-Conscious,45.5,12.27,394.36,No,Annual
+CUST00189,1,📊 Standard Users,53.4,36.48,1384.85,No,Monthly
+CUST00190,0,💰 Budget-Conscious,19.81,4.63,1127.84,No,Quarterly
+CUST00191,2,📊 Standard Users,36.3,10.78,1481.23,No,Quarterly
+CUST00192,0,💰 Budget-Conscious,39.58,10.85,752.09,No,Quarterly
+CUST00193,2,📊 Standard Users,38.41,11.48,1394.38,No,Quarterly
+CUST00194,0,💰 Budget-Conscious,30.06,15.74,555.16,No,Annual
+CUST00195,0,💰 Budget-Conscious,29.55,6.78,1194.71,No,Monthly
+CUST00196,1,📊 Standard Users,81.01,35.83,4731.05,No,Monthly
+CUST00197,2,📊 Standard Users,39.17,14.83,1692.09,No,Monthly
+CUST00198,1,📊 Standard Users,80.27,47.1,3047.74,No,Monthly
+CUST00199,0,💰 Budget-Conscious,28.59,5.08,578.41,No,Quarterly
+CUST00200,2,📊 Standard Users,46.57,12.29,1103.72,No,Quarterly
+CUST00201,0,💰 Budget-Conscious,48.44,10.01,946.28,Yes,Monthly
+CUST00202,2,📊 Standard Users,31.17,21.35,1690.49,No,Monthly
+CUST00203,2,📊 Standard Users,35.32,13.35,1226.94,No,Quarterly
+CUST00204,0,💰 Budget-Conscious,44.77,12.11,1007.39,No,Monthly
+CUST00205,0,💰 Budget-Conscious,32.34,11.67,889.3,No,Monthly
+CUST00206,2,📊 Standard Users,41.16,21.07,1483.06,Yes,Monthly
+CUST00207,0,💰 Budget-Conscious,15.0,3.85,836.5,No,Monthly
+CUST00208,1,📊 Standard Users,55.67,44.9,2985.91,Yes,Monthly
+CUST00209,1,📊 Standard Users,63.41,32.7,2944.21,No,Monthly
+CUST00210,2,📊 Standard Users,51.82,22.92,2390.42,No,Monthly
+CUST00211,1,📊 Standard Users,53.11,31.68,2997.4,No,Annual
+CUST00212,1,📊 Standard Users,55.23,34.67,2870.19,No,Monthly
+CUST00213,1,📊 Standard Users,51.43,33.85,2401.69,Yes,Quarterly
+CUST00214,1,📊 Standard Users,63.58,33.6,3233.87,Yes,Monthly
+CUST00215,0,💰 Budget-Conscious,15.0,4.36,642.0,No,Monthly
+CUST00216,0,💰 Budget-Conscious,44.24,11.07,322.93,No,Quarterly
+CUST00217,0,💰 Budget-Conscious,24.26,5.02,1033.3,No,Monthly
+CUST00218,0,💰 Budget-Conscious,27.29,6.08,1307.93,No,Monthly
+CUST00219,2,📊 Standard Users,29.93,2.07,1426.68,No,Quarterly
+CUST00220,2,📊 Standard Users,36.87,21.5,1642.07,No,Quarterly
+CUST00221,2,📊 Standard Users,54.76,0.5,1208.3,No,Monthly
+CUST00222,1,📊 Standard Users,51.51,35.75,1128.07,Yes,Monthly
+CUST00223,2,📊 Standard Users,39.87,17.33,1331.8,No,Quarterly
+CUST00224,1,📊 Standard Users,55.84,28.97,3346.69,No,Monthly
+CUST00225,2,📊 Standard Users,47.83,4.37,2091.98,No,Quarterly
+CUST00226,2,📊 Standard Users,44.43,14.52,2091.0,No,Quarterly
+CUST00227,0,💰 Budget-Conscious,21.2,5.34,522.32,No,Annual
+CUST00228,2,📊 Standard Users,33.91,9.26,1705.67,No,Monthly
+CUST00229,2,📊 Standard Users,35.21,10.85,1718.28,No,Annual
+CUST00230,1,📊 Standard Users,56.0,44.63,1265.64,No,Monthly
+CUST00231,0,💰 Budget-Conscious,25.07,5.24,289.99,No,Monthly
+CUST00232,2,📊 Standard Users,44.83,7.46,2585.19,No,Monthly
+CUST00233,0,💰 Budget-Conscious,24.34,5.9,1037.04,No,Quarterly
+CUST00234,1,📊 Standard Users,60.39,25.69,2590.68,Yes,Monthly
+CUST00235,2,📊 Standard Users,48.64,11.13,1155.9,No,Monthly
+CUST00236,0,💰 Budget-Conscious,24.81,5.4,573.06,No,Monthly
+CUST00237,0,💰 Budget-Conscious,24.18,5.21,1150.08,No,Annual
+CUST00238,2,📊 Standard Users,43.87,12.99,2522.77,No,Quarterly
+CUST00239,1,📊 Standard Users,53.75,29.96,2975.85,No,Quarterly
+CUST00240,2,📊 Standard Users,28.55,4.5,1451.2,No,Monthly
+CUST00241,1,📊 Standard Users,56.8,27.19,2434.79,No,Monthly
+CUST00242,2,📊 Standard Users,34.58,20.45,2011.27,No,Quarterly
+CUST00243,2,📊 Standard Users,57.35,19.31,2228.92,No,Monthly
+CUST00244,1,📊 Standard Users,55.25,32.59,2854.47,No,Monthly
+CUST00245,0,💰 Budget-Conscious,41.55,7.7,652.38,No,Quarterly
+CUST00246,0,💰 Budget-Conscious,20.32,6.87,401.75,No,Annual
+CUST00247,2,📊 Standard Users,46.81,13.79,2061.28,No,Quarterly
+CUST00248,2,📊 Standard Users,45.02,9.72,2345.55,No,Quarterly
+CUST00249,2,📊 Standard Users,38.28,18.43,1836.33,No,Annual
+CUST00250,2,📊 Standard Users,47.94,3.54,2300.89,No,Monthly
+CUST00251,2,📊 Standard Users,31.21,16.4,1213.11,Yes,Quarterly
+CUST00252,2,📊 Standard Users,43.66,20.76,2424.79,No,Annual
+CUST00253,1,📊 Standard Users,58.47,36.8,3270.54,No,Monthly
+CUST00254,0,💰 Budget-Conscious,29.25,3.99,956.34,Yes,Quarterly
+CUST00255,1,📊 Standard Users,53.14,22.58,2008.8,Yes,Quarterly
+CUST00256,2,📊 Standard Users,41.32,20.41,1002.62,No,Quarterly
+CUST00257,0,💰 Budget-Conscious,41.29,19.64,195.45,No,Quarterly
+CUST00258,3,⚠️ At-Risk,33.59,11.77,34.71,No,Annual
+CUST00259,0,💰 Budget-Conscious,39.22,11.91,877.22,No,Quarterly
+CUST00260,1,📊 Standard Users,65.56,46.87,544.18,No,Monthly
+CUST00261,2,📊 Standard Users,43.26,17.66,2334.85,No,Annual
+CUST00262,1,📊 Standard Users,60.18,17.13,1773.24,No,Monthly
+CUST00263,2,📊 Standard Users,47.77,14.02,2848.59,No,Monthly
+CUST00264,1,📊 Standard Users,58.34,32.67,2485.18,No,Monthly
+CUST00265,0,💰 Budget-Conscious,32.49,16.24,448.3,No,Monthly
+CUST00266,1,📊 Standard Users,53.75,35.06,2608.75,No,Monthly
+CUST00267,2,📊 Standard Users,33.77,12.44,1903.62,No,Annual
+CUST00268,0,💰 Budget-Conscious,19.4,5.36,765.08,No,Quarterly
+CUST00269,0,💰 Budget-Conscious,24.14,4.1,889.92,No,Quarterly
+CUST00270,2,📊 Standard Users,35.06,32.07,2029.7,No,Monthly
+CUST00271,0,💰 Budget-Conscious,38.32,15.61,969.53,No,Annual
+CUST00272,2,📊 Standard Users,29.7,4.97,1707.94,No,Annual
+CUST00273,2,📊 Standard Users,34.09,24.21,2003.29,No,Quarterly
+CUST00274,1,📊 Standard Users,56.45,21.36,2764.12,Yes,Monthly
+CUST00275,0,💰 Budget-Conscious,36.67,14.45,337.41,No,Monthly
+CUST00276,1,📊 Standard Users,64.96,25.5,1873.07,Yes,Monthly
+CUST00277,1,📊 Standard Users,62.48,41.35,3107.18,No,Monthly
+CUST00278,0,💰 Budget-Conscious,45.33,12.53,350.54,No,Monthly
+CUST00279,2,📊 Standard Users,41.03,17.9,1691.71,No,Annual
+CUST00280,1,📊 Standard Users,54.26,40.08,274.91,No,Monthly
+CUST00281,0,💰 Budget-Conscious,41.32,18.9,592.18,No,Monthly
+CUST00282,1,📊 Standard Users,57.92,40.25,1536.93,No,Monthly
+CUST00283,1,📊 Standard Users,60.13,32.76,647.44,No,Monthly
+CUST00284,0,💰 Budget-Conscious,30.71,8.01,316.35,No,Monthly
+CUST00285,2,📊 Standard Users,47.3,20.05,1439.59,Yes,Monthly
+CUST00286,2,📊 Standard Users,47.14,22.05,2612.99,No,Monthly
+CUST00287,0,💰 Budget-Conscious,48.5,10.31,366.95,No,Quarterly
+CUST00288,2,📊 Standard Users,31.45,18.68,1059.84,No,Annual
+CUST00289,2,📊 Standard Users,36.03,9.15,1878.55,No,Monthly
+CUST00290,2,📊 Standard Users,47.53,16.02,1237.49,Yes,Monthly
+CUST00291,0,💰 Budget-Conscious,44.45,17.05,256.33,Yes,Annual
+CUST00292,0,💰 Budget-Conscious,27.01,4.15,574.4,Yes,Monthly
+CUST00293,2,📊 Standard Users,29.63,5.19,1238.45,No,Monthly
+CUST00294,2,📊 Standard Users,30.84,19.24,1209.8,No,Annual
+CUST00295,0,💰 Budget-Conscious,39.86,14.45,287.0,No,Monthly
+CUST00296,0,💰 Budget-Conscious,22.34,3.65,1027.09,No,Quarterly
+CUST00297,1,📊 Standard Users,54.98,22.76,903.54,No,Quarterly
+CUST00298,2,📊 Standard Users,43.05,13.05,2011.66,No,Monthly
+CUST00299,2,📊 Standard Users,40.8,9.13,2480.54,No,Monthly
+CUST00300,1,📊 Standard Users,56.23,31.23,1291.33,No,Quarterly
+CUST00301,1,📊 Standard Users,55.77,30.35,1474.11,No,Monthly
+CUST00302,2,📊 Standard Users,36.97,19.02,1212.57,No,Monthly
+CUST00303,0,💰 Budget-Conscious,41.65,15.37,599.7,Yes,Quarterly
+CUST00304,2,📊 Standard Users,44.37,27.74,2069.3,No,Monthly
+CUST00305,1,📊 Standard Users,66.73,14.86,3478.61,No,Monthly
+CUST00306,0,💰 Budget-Conscious,33.66,16.57,197.48,No,Annual
+CUST00307,0,💰 Budget-Conscious,23.37,4.1,935.54,No,Monthly
+CUST00308,0,💰 Budget-Conscious,19.98,3.09,594.8,No,Annual
+CUST00309,1,📊 Standard Users,54.75,34.7,3219.39,No,Quarterly
+CUST00310,0,💰 Budget-Conscious,32.11,14.48,554.5,No,Quarterly
+CUST00311,1,📊 Standard Users,55.05,45.78,1758.03,No,Monthly
+CUST00312,2,📊 Standard Users,35.57,15.46,2007.57,No,Annual
+CUST00313,0,💰 Budget-Conscious,38.75,11.54,749.17,No,Monthly
+CUST00314,0,💰 Budget-Conscious,37.4,16.67,457.55,No,Quarterly
+CUST00315,1,📊 Standard Users,68.75,32.7,2064.81,No,Monthly
+CUST00316,0,💰 Budget-Conscious,23.28,2.75,519.9,Yes,Monthly
+CUST00317,0,💰 Budget-Conscious,39.2,13.76,656.0,No,Monthly
+CUST00318,0,💰 Budget-Conscious,42.25,16.15,253.52,No,Annual
+CUST00319,0,💰 Budget-Conscious,24.73,5.14,1210.36,No,Annual
+CUST00320,1,📊 Standard Users,64.76,38.3,2916.32,No,Monthly
+CUST00321,1,📊 Standard Users,58.38,29.74,3238.35,No,Monthly
+CUST00322,0,💰 Budget-Conscious,42.72,16.59,415.79,No,Quarterly
+CUST00323,2,📊 Standard Users,37.45,15.6,2268.38,No,Monthly
+CUST00324,0,💰 Budget-Conscious,23.83,5.26,137.4,No,Monthly
+CUST00325,0,💰 Budget-Conscious,47.07,15.16,588.38,No,Quarterly
+CUST00326,1,📊 Standard Users,86.23,56.76,1876.93,Yes,Monthly
+CUST00327,2,📊 Standard Users,36.17,20.55,1261.03,No,Annual
+CUST00328,0,💰 Budget-Conscious,17.61,5.59,953.84,No,Monthly
+CUST00329,1,📊 Standard Users,51.86,27.0,1573.17,Yes,Monthly
+CUST00330,3,⚠️ At-Risk,57.9,32.08,59.83,No,Monthly
+CUST00331,0,💰 Budget-Conscious,30.82,23.08,951.36,No,Quarterly
+CUST00332,2,📊 Standard Users,35.32,12.19,1597.52,No,Monthly
+CUST00333,0,💰 Budget-Conscious,32.53,14.17,306.83,No,Quarterly
+CUST00334,2,📊 Standard Users,37.03,13.89,2104.51,No,Monthly
+CUST00335,0,💰 Budget-Conscious,33.62,16.84,540.2,No,Annual
+CUST00336,0,💰 Budget-Conscious,32.09,12.82,1165.81,No,Monthly
+CUST00337,0,💰 Budget-Conscious,26.46,5.35,1069.96,No,Monthly
+CUST00338,2,📊 Standard Users,41.74,12.93,1452.68,No,Quarterly
+CUST00339,3,⚠️ At-Risk,42.26,21.57,53.53,Yes,Monthly
+CUST00340,2,📊 Standard Users,38.46,11.57,1648.5,No,Monthly
+CUST00341,2,📊 Standard Users,35.67,19.89,1369.56,No,Annual
+CUST00342,2,📊 Standard Users,22.2,3.83,1266.73,No,Monthly
+CUST00343,2,📊 Standard Users,42.63,10.73,1200.8,No,Quarterly
+CUST00344,0,💰 Budget-Conscious,38.76,11.5,306.24,Yes,Monthly
+CUST00345,2,📊 Standard Users,42.39,6.44,1673.19,No,Quarterly
+CUST00346,1,📊 Standard Users,50.99,39.39,736.02,No,Monthly
+CUST00347,1,📊 Standard Users,61.97,23.36,373.87,No,Monthly
+CUST00348,3,⚠️ At-Risk,35.82,13.21,99.11,No,Annual
+CUST00349,1,📊 Standard Users,50.67,42.62,1981.09,Yes,Quarterly
+CUST00350,2,📊 Standard Users,40.17,18.65,2311.19,Yes,Monthly
+CUST00351,0,💰 Budget-Conscious,40.89,7.84,895.43,No,Monthly
+CUST00352,0,💰 Budget-Conscious,34.27,16.55,703.73,No,Annual
+CUST00353,1,📊 Standard Users,56.61,46.4,3166.49,No,Monthly
+CUST00354,2,📊 Standard Users,46.31,11.82,2273.8,No,Quarterly
+CUST00355,2,📊 Standard Users,41.35,17.57,2033.08,No,Quarterly
+CUST00356,0,💰 Budget-Conscious,26.58,2.71,117.86,No,Monthly
+CUST00357,1,📊 Standard Users,54.2,38.86,511.25,No,Monthly
+CUST00358,2,📊 Standard Users,31.39,15.66,1339.13,No,Quarterly
+CUST00359,2,📊 Standard Users,31.26,18.31,1213.99,No,Monthly
+CUST00360,0,💰 Budget-Conscious,27.92,6.2,501.68,No,Monthly
+CUST00361,2,📊 Standard Users,34.33,8.23,1746.49,No,Annual
+CUST00362,1,📊 Standard Users,52.12,36.37,222.37,No,Quarterly
+CUST00363,0,💰 Budget-Conscious,30.35,22.26,184.1,No,Quarterly
+CUST00364,2,📊 Standard Users,56.79,13.15,1784.97,No,Quarterly
+CUST00365,2,📊 Standard Users,49.1,19.83,1484.4,No,Quarterly
+CUST00366,0,💰 Budget-Conscious,23.03,8.2,281.75,No,Monthly
+CUST00367,2,📊 Standard Users,39.26,7.58,2301.85,No,Monthly
+CUST00368,0,💰 Budget-Conscious,29.4,3.66,833.87,No,Monthly
+CUST00369,1,📊 Standard Users,54.97,40.18,2228.29,No,Monthly
+CUST00370,2,📊 Standard Users,30.12,10.57,1780.0,No,Quarterly
+CUST00371,0,💰 Budget-Conscious,20.68,7.73,679.79,No,Monthly
+CUST00372,2,📊 Standard Users,40.11,20.29,2318.6,No,Monthly
+CUST00373,1,📊 Standard Users,62.54,21.15,396.09,No,Monthly
+CUST00374,2,📊 Standard Users,42.11,11.28,2292.31,No,Monthly
+CUST00375,1,📊 Standard Users,50.98,42.7,1410.35,Yes,Monthly
+CUST00376,1,📊 Standard Users,51.56,42.31,733.85,No,Monthly
+CUST00377,0,💰 Budget-Conscious,22.32,9.44,989.34,No,Monthly
+CUST00378,0,💰 Budget-Conscious,31.51,10.6,887.51,No,Monthly
+CUST00379,2,📊 Standard Users,45.1,22.3,2340.53,No,Monthly
+CUST00380,2,📊 Standard Users,34.43,10.43,1658.21,No,Quarterly
+CUST00381,1,📊 Standard Users,70.57,40.0,2794.45,No,Monthly
+CUST00382,0,💰 Budget-Conscious,26.58,6.78,1105.53,No,Monthly
+CUST00383,0,💰 Budget-Conscious,30.91,0.5,443.01,Yes,Quarterly
+CUST00384,2,📊 Standard Users,49.36,19.56,1100.69,No,Monthly
+CUST00385,0,💰 Budget-Conscious,29.98,7.77,1085.16,No,Annual
+CUST00386,0,💰 Budget-Conscious,15.0,7.19,358.5,No,Monthly
+CUST00387,1,📊 Standard Users,74.02,55.53,1206.53,No,Monthly
+CUST00388,0,💰 Budget-Conscious,29.26,6.93,959.63,No,Quarterly
+CUST00389,1,📊 Standard Users,53.41,29.63,888.44,No,Monthly
+CUST00390,2,📊 Standard Users,27.47,7.48,1307.39,Yes,Quarterly
+CUST00391,0,💰 Budget-Conscious,32.05,12.03,1148.62,No,Monthly
+CUST00392,0,💰 Budget-Conscious,22.02,5.16,571.7,No,Annual
+CUST00393,2,📊 Standard Users,33.88,19.16,1945.96,No,Monthly
+CUST00394,0,💰 Budget-Conscious,35.34,17.24,78.92,No,Monthly
+CUST00395,0,💰 Budget-Conscious,38.67,21.76,333.89,Yes,Quarterly
+CUST00396,2,📊 Standard Users,39.41,27.44,1862.85,No,Monthly
+CUST00397,0,💰 Budget-Conscious,23.38,2.73,461.31,No,Monthly
+CUST00398,0,💰 Budget-Conscious,34.76,13.36,541.11,No,Quarterly
+CUST00399,2,📊 Standard Users,46.58,16.58,2074.19,No,Annual
+CUST00400,1,📊 Standard Users,64.93,30.37,121.19,No,Monthly
+CUST00401,0,💰 Budget-Conscious,44.56,14.62,378.73,No,Quarterly
+CUST00402,2,📊 Standard Users,40.3,18.88,1786.85,No,Annual
+CUST00403,1,📊 Standard Users,51.49,41.43,1419.31,No,Annual
+CUST00404,1,📊 Standard Users,53.57,37.47,2967.71,No,Monthly
+CUST00405,0,💰 Budget-Conscious,46.44,15.74,484.54,No,Quarterly
+CUST00406,0,💰 Budget-Conscious,21.53,4.55,651.68,No,Monthly
+CUST00407,0,💰 Budget-Conscious,26.1,7.81,860.4,No,Annual
+CUST00408,2,📊 Standard Users,44.51,23.32,2275.93,No,Monthly
+CUST00409,0,💰 Budget-Conscious,32.89,20.09,528.41,No,Monthly
+CUST00410,0,💰 Budget-Conscious,30.02,9.25,1049.71,No,Quarterly
+CUST00411,0,💰 Budget-Conscious,31.76,13.69,894.66,No,Monthly
+CUST00412,0,💰 Budget-Conscious,23.61,5.4,541.49,No,Annual
+CUST00413,2,📊 Standard Users,28.67,3.12,1499.38,No,Annual
+CUST00414,0,💰 Budget-Conscious,43.39,15.4,833.17,No,Quarterly
+CUST00415,1,📊 Standard Users,71.94,35.22,2985.71,No,Monthly
+CUST00416,2,📊 Standard Users,47.97,20.42,1762.09,No,Quarterly
+CUST00417,1,📊 Standard Users,54.54,30.02,2845.29,No,Monthly
+CUST00418,3,⚠️ At-Risk,20.65,7.33,31.66,Yes,Monthly
+CUST00419,2,📊 Standard Users,35.95,10.21,1468.14,No,Annual
+CUST00420,2,📊 Standard Users,44.0,10.91,1866.88,No,Monthly
+CUST00421,0,💰 Budget-Conscious,49.36,13.1,307.68,No,Monthly
+CUST00422,0,💰 Budget-Conscious,32.11,15.24,541.66,No,Annual
+CUST00423,1,📊 Standard Users,69.93,10.83,2561.81,No,Monthly
+CUST00424,2,📊 Standard Users,45.79,17.3,2176.63,No,Monthly
+CUST00425,0,💰 Budget-Conscious,36.2,23.55,660.08,No,Annual
+CUST00426,0,💰 Budget-Conscious,15.56,6.3,66.4,No,Monthly
+CUST00427,2,📊 Standard Users,38.93,13.95,2333.4,No,Quarterly
+CUST00428,2,📊 Standard Users,44.19,9.58,1605.72,No,Annual
+CUST00429,0,💰 Budget-Conscious,39.44,5.93,406.28,No,Annual
+CUST00430,0,💰 Budget-Conscious,18.44,1.71,861.95,No,Quarterly
+CUST00431,0,💰 Budget-Conscious,38.25,14.35,670.74,Yes,Monthly
+CUST00432,1,📊 Standard Users,70.98,56.07,783.13,No,Monthly
+CUST00433,0,💰 Budget-Conscious,33.79,1.41,236.56,No,Annual
+CUST00434,0,💰 Budget-Conscious,37.58,18.5,796.68,No,Annual
+CUST00435,1,📊 Standard Users,69.29,28.22,2660.55,No,Monthly
+CUST00436,0,💰 Budget-Conscious,42.68,13.32,1037.14,No,Monthly
+CUST00437,1,📊 Standard Users,56.87,25.62,1937.22,No,Monthly
+CUST00438,1,📊 Standard Users,51.17,21.33,1993.96,No,Monthly
+CUST00439,0,💰 Budget-Conscious,46.25,15.63,339.18,No,Quarterly
+CUST00440,1,📊 Standard Users,50.69,37.63,476.47,Yes,Monthly
+CUST00441,0,💰 Budget-Conscious,30.62,18.34,1030.84,No,Annual
+CUST00442,0,💰 Budget-Conscious,35.52,6.57,1133.15,No,Quarterly
+CUST00443,2,📊 Standard Users,32.18,19.37,1302.27,No,Monthly
+CUST00444,0,💰 Budget-Conscious,23.6,6.78,1029.87,No,Quarterly
+CUST00445,1,📊 Standard Users,63.67,39.24,2920.24,No,Monthly
+CUST00446,0,💰 Budget-Conscious,40.1,12.9,209.86,No,Quarterly
+CUST00447,3,⚠️ At-Risk,51.94,38.08,81.38,No,Quarterly
+CUST00448,2,📊 Standard Users,47.52,14.2,2832.37,No,Annual
+CUST00449,0,💰 Budget-Conscious,35.43,19.84,702.64,No,Annual
+CUST00450,0,💰 Budget-Conscious,25.3,4.27,505.11,No,Monthly
+CUST00451,2,📊 Standard Users,42.06,15.54,1929.02,No,Monthly
+CUST00452,0,💰 Budget-Conscious,33.29,6.31,793.38,No,Quarterly
+CUST00453,0,💰 Budget-Conscious,15.3,5.61,334.0,No,Monthly
+CUST00454,2,📊 Standard Users,37.47,11.25,1675.09,No,Monthly
+CUST00455,2,📊 Standard Users,43.93,17.56,1292.92,No,Monthly
+CUST00456,2,📊 Standard Users,33.57,18.94,1920.02,No,Quarterly
+CUST00457,0,💰 Budget-Conscious,33.43,11.95,1104.2,No,Monthly
+CUST00458,2,📊 Standard Users,27.22,5.06,1535.47,Yes,Quarterly
+CUST00459,0,💰 Budget-Conscious,36.57,15.87,224.28,No,Annual
+CUST00460,1,📊 Standard Users,73.04,38.68,1263.58,Yes,Monthly
+CUST00461,1,📊 Standard Users,64.18,42.9,3078.47,No,Monthly
+CUST00462,1,📊 Standard Users,54.8,41.59,1487.03,No,Monthly
+CUST00463,2,📊 Standard Users,40.4,13.1,1558.22,No,Annual
+CUST00464,2,📊 Standard Users,43.01,22.99,2073.1,No,Monthly
+CUST00465,0,💰 Budget-Conscious,17.93,6.5,164.38,No,Monthly
+CUST00466,2,📊 Standard Users,39.46,22.03,1616.48,No,Monthly
+CUST00467,0,💰 Budget-Conscious,30.31,16.73,1103.18,No,Quarterly
+CUST00468,2,📊 Standard Users,47.32,17.03,2413.34,No,Monthly
+CUST00469,1,📊 Standard Users,52.33,33.83,3026.54,No,Quarterly
+CUST00470,1,📊 Standard Users,50.79,30.56,1334.01,No,Annual
+CUST00471,0,💰 Budget-Conscious,45.97,19.88,868.82,No,Monthly
+CUST00472,0,💰 Budget-Conscious,21.66,5.53,685.99,No,Annual
+CUST00473,0,💰 Budget-Conscious,45.94,14.34,669.19,No,Monthly
+CUST00474,0,💰 Budget-Conscious,35.72,9.89,659.61,No,Annual
+CUST00475,1,📊 Standard Users,46.79,22.78,1336.59,No,Quarterly
+CUST00476,2,📊 Standard Users,34.85,15.56,1810.85,No,Annual
+CUST00477,2,📊 Standard Users,46.0,8.87,1429.0,No,Monthly
+CUST00478,3,⚠️ At-Risk,35.52,15.41,76.96,No,Monthly
+CUST00479,0,💰 Budget-Conscious,40.32,14.0,959.65,No,Monthly
+CUST00480,3,⚠️ At-Risk,52.7,32.58,86.07,No,Monthly
+CUST00481,0,💰 Budget-Conscious,15.0,6.15,175.0,No,Monthly
+CUST00482,0,💰 Budget-Conscious,40.24,14.0,725.67,No,Monthly
+CUST00483,1,📊 Standard Users,55.32,31.95,791.05,No,Monthly
+CUST00484,1,📊 Standard Users,69.61,48.62,1584.81,No,Monthly
+CUST00485,0,💰 Budget-Conscious,31.81,6.3,1061.5,No,Annual
+CUST00486,1,📊 Standard Users,62.78,34.49,1046.34,No,Monthly
+CUST00487,1,📊 Standard Users,70.35,44.29,2804.63,No,Monthly
+CUST00488,2,📊 Standard Users,39.22,18.13,1496.87,No,Monthly
+CUST00489,2,📊 Standard Users,36.63,20.1,1717.8,No,Monthly
+CUST00490,2,📊 Standard Users,33.54,25.11,964.93,No,Annual
+CUST00491,0,💰 Budget-Conscious,43.77,23.49,1103.02,No,Monthly
+CUST00492,2,📊 Standard Users,50.91,23.44,1498.4,No,Quarterly
+CUST00493,0,💰 Budget-Conscious,28.81,1.78,76.83,No,Annual
+CUST00494,2,📊 Standard Users,47.3,16.63,2708.97,No,Annual
+CUST00495,2,📊 Standard Users,31.99,8.23,1867.29,Yes,Quarterly
+CUST00496,0,💰 Budget-Conscious,24.88,1.15,501.01,No,Annual
+CUST00497,2,📊 Standard Users,39.19,16.58,1623.78,No,Annual
+CUST00498,1,📊 Standard Users,52.31,40.67,2053.87,No,Quarterly
+CUST00499,0,💰 Budget-Conscious,41.79,23.56,249.33,No,Quarterly
+CUST00500,0,💰 Budget-Conscious,44.35,18.84,507.08,No,Quarterly
+CUST00501,1,📊 Standard Users,74.31,54.2,1483.81,No,Monthly
+CUST00502,1,📊 Standard Users,52.45,38.56,2438.76,No,Quarterly
+CUST00503,0,💰 Budget-Conscious,45.46,9.32,506.16,No,Monthly
+CUST00504,2,📊 Standard Users,38.53,19.11,2241.32,No,Monthly
+CUST00505,1,📊 Standard Users,61.43,48.34,1455.79,Yes,Monthly
+CUST00506,1,📊 Standard Users,57.44,38.91,1659.99,No,Monthly
+CUST00507,1,📊 Standard Users,51.28,49.51,1892.18,No,Monthly
+CUST00508,2,📊 Standard Users,40.09,14.38,1379.26,No,Monthly
+CUST00509,0,💰 Budget-Conscious,39.24,17.73,618.62,No,Quarterly
+CUST00510,0,💰 Budget-Conscious,42.79,14.13,915.65,No,Monthly
+CUST00511,2,📊 Standard Users,32.52,26.9,1107.75,No,Annual
+CUST00512,0,💰 Budget-Conscious,35.98,19.21,351.43,No,Monthly
+CUST00513,2,📊 Standard Users,48.98,9.42,1805.65,No,Monthly
+CUST00514,2,📊 Standard Users,33.54,24.26,1816.58,No,Quarterly
+CUST00515,2,📊 Standard Users,41.77,11.33,1438.41,No,Quarterly
+CUST00516,0,💰 Budget-Conscious,15.0,5.03,836.5,No,Monthly
+CUST00517,0,💰 Budget-Conscious,30.2,17.34,34.23,No,Annual
+CUST00518,2,📊 Standard Users,43.79,17.75,1687.24,No,Annual
+CUST00519,2,📊 Standard Users,31.49,17.42,1311.18,No,Monthly
+CUST00520,1,📊 Standard Users,53.88,23.67,1442.23,No,Monthly
+CUST00521,0,💰 Budget-Conscious,28.46,5.97,859.54,No,Annual
+CUST00522,2,📊 Standard Users,47.76,20.5,1625.36,No,Quarterly
+CUST00523,2,📊 Standard Users,40.54,20.36,1233.87,No,Monthly
+CUST00524,2,📊 Standard Users,32.31,8.49,1510.88,No,Annual
+CUST00525,3,⚠️ At-Risk,45.82,11.72,116.07,No,Monthly
+CUST00526,0,💰 Budget-Conscious,24.85,2.91,742.14,No,Monthly
+CUST00527,1,📊 Standard Users,59.58,38.4,1692.11,No,Monthly
+CUST00528,2,📊 Standard Users,53.03,19.48,1705.94,No,Quarterly
+CUST00529,0,💰 Budget-Conscious,36.4,9.39,831.13,Yes,Quarterly
+CUST00530,0,💰 Budget-Conscious,45.24,11.67,449.4,No,Quarterly
+CUST00531,1,📊 Standard Users,56.68,17.03,753.89,No,Monthly
+CUST00532,0,💰 Budget-Conscious,43.63,14.86,967.16,No,Monthly
+CUST00533,0,💰 Budget-Conscious,28.38,0.79,1096.27,No,Monthly
+CUST00534,1,📊 Standard Users,55.94,39.85,3212.87,No,Quarterly
+CUST00535,2,📊 Standard Users,39.11,13.01,2232.0,No,Monthly
+CUST00536,0,💰 Budget-Conscious,35.86,11.88,820.07,No,Monthly
+CUST00537,0,💰 Budget-Conscious,48.11,12.7,238.95,No,Annual
+CUST00538,1,📊 Standard Users,54.15,34.4,1552.33,No,Monthly
+CUST00539,2,📊 Standard Users,37.06,17.96,2046.92,No,Annual
+CUST00540,0,💰 Budget-Conscious,30.44,21.59,1127.24,No,Monthly
+CUST00541,2,📊 Standard Users,48.03,20.07,2239.71,No,Quarterly
+CUST00542,1,📊 Standard Users,88.45,57.32,2270.16,No,Monthly
+CUST00543,2,📊 Standard Users,42.04,18.38,2140.04,No,Annual
+CUST00544,1,📊 Standard Users,52.44,36.4,255.21,No,Monthly
+CUST00545,1,📊 Standard Users,55.82,30.43,1525.65,No,Monthly
+CUST00546,2,📊 Standard Users,40.08,12.88,1576.41,No,Monthly
+CUST00547,2,📊 Standard Users,39.94,17.7,1924.88,No,Monthly
+CUST00548,2,📊 Standard Users,39.74,10.0,1380.42,Yes,Monthly
+CUST00549,2,📊 Standard Users,30.4,16.14,1716.61,No,Annual
+CUST00550,2,📊 Standard Users,39.71,14.91,1470.72,No,Monthly
+CUST00551,0,💰 Budget-Conscious,36.43,11.36,805.08,No,Quarterly
+CUST00552,0,💰 Budget-Conscious,37.55,9.74,678.46,Yes,Quarterly
+CUST00553,2,📊 Standard Users,37.27,27.62,2241.36,No,Quarterly
+CUST00554,2,📊 Standard Users,48.65,8.02,1347.47,No,Monthly
+CUST00555,2,📊 Standard Users,46.18,14.66,1768.77,No,Monthly
+CUST00556,2,📊 Standard Users,41.67,21.11,2349.0,No,Quarterly
+CUST00557,2,📊 Standard Users,47.18,17.65,1841.53,No,Annual
+CUST00558,0,💰 Budget-Conscious,46.15,12.63,906.1,No,Monthly
+CUST00559,1,📊 Standard Users,78.16,23.08,4309.41,No,Monthly
+CUST00560,1,📊 Standard Users,50.29,36.3,866.67,Yes,Monthly
+CUST00561,2,📊 Standard Users,31.42,1.8,1351.14,No,Annual
+CUST00562,1,📊 Standard Users,65.24,36.7,2013.86,No,Monthly
+CUST00563,2,📊 Standard Users,43.81,15.17,1934.81,No,Monthly
+CUST00564,0,💰 Budget-Conscious,15.85,7.14,656.21,No,Annual
+CUST00565,2,📊 Standard Users,44.94,9.28,1098.03,No,Monthly
+CUST00566,2,📊 Standard Users,41.26,13.38,2063.12,No,Monthly
+CUST00567,1,📊 Standard Users,56.07,39.37,1140.0,No,Quarterly
+CUST00568,0,💰 Budget-Conscious,27.82,5.41,759.47,No,Annual
+CUST00569,2,📊 Standard Users,40.01,8.29,1186.97,No,Monthly
+CUST00570,1,📊 Standard Users,64.01,28.52,588.93,No,Monthly
+CUST00571,1,📊 Standard Users,50.92,49.0,1916.14,No,Monthly
+CUST00572,0,💰 Budget-Conscious,42.43,16.3,258.81,Yes,Monthly
+CUST00573,2,📊 Standard Users,32.44,6.68,1847.72,No,Quarterly
+CUST00574,1,📊 Standard Users,50.28,43.83,2493.7,Yes,Monthly
+CUST00575,2,📊 Standard Users,44.56,7.0,1523.97,No,Monthly
+CUST00576,2,📊 Standard Users,33.48,13.46,1271.22,No,Monthly
+CUST00577,0,💰 Budget-Conscious,32.84,17.82,794.77,Yes,Quarterly
+CUST00578,2,📊 Standard Users,32.78,21.07,1462.12,No,Monthly
+CUST00579,0,💰 Budget-Conscious,27.06,0.5,1148.23,No,Annual
+CUST00580,1,📊 Standard Users,59.01,42.12,2206.99,No,Monthly
+CUST00581,2,📊 Standard Users,41.4,19.31,1517.82,No,Annual
+CUST00582,2,📊 Standard Users,42.49,12.21,1469.99,No,Annual
+CUST00583,0,💰 Budget-Conscious,45.07,15.45,184.78,No,Monthly
+CUST00584,2,📊 Standard Users,41.36,0.5,2485.77,No,Monthly
+CUST00585,2,📊 Standard Users,41.63,1.26,1369.77,Yes,Monthly
+CUST00586,1,📊 Standard Users,60.32,46.09,2092.98,No,Monthly
+CUST00587,0,💰 Budget-Conscious,17.7,3.92,284.34,No,Monthly
+CUST00588,2,📊 Standard Users,37.28,13.27,1562.15,Yes,Monthly
+CUST00589,2,📊 Standard Users,31.69,16.17,994.0,No,Monthly
+CUST00590,0,💰 Budget-Conscious,45.88,13.17,377.74,No,Annual
+CUST00591,0,💰 Budget-Conscious,37.84,12.71,634.42,No,Monthly
+CUST00592,0,💰 Budget-Conscious,21.91,5.79,336.72,No,Annual
+CUST00593,0,💰 Budget-Conscious,48.35,7.52,596.33,No,Monthly
+CUST00594,0,💰 Budget-Conscious,32.04,20.8,619.42,No,Annual
+CUST00595,2,📊 Standard Users,34.43,13.85,1910.9,No,Quarterly
+CUST00596,2,📊 Standard Users,35.1,9.97,1570.12,Yes,Monthly
+CUST00597,2,📊 Standard Users,33.01,9.3,1437.92,No,Quarterly
+CUST00598,1,📊 Standard Users,55.63,35.43,3313.6,No,Monthly
+CUST00599,0,💰 Budget-Conscious,48.36,13.47,622.19,No,Monthly
+CUST00600,3,⚠️ At-Risk,33.42,7.26,57.92,No,Annual
+CUST00601,2,📊 Standard Users,28.53,3.8,1725.85,Yes,Monthly
+CUST00602,0,💰 Budget-Conscious,42.47,10.95,779.97,No,Monthly
+CUST00603,2,📊 Standard Users,42.61,21.31,2572.0,No,Quarterly
+CUST00604,2,📊 Standard Users,37.39,15.65,1436.99,No,Annual
+CUST00605,2,📊 Standard Users,41.61,22.85,1152.56,No,Quarterly
+CUST00606,0,💰 Budget-Conscious,31.16,11.45,1280.72,No,Monthly
+CUST00607,0,💰 Budget-Conscious,15.97,4.42,679.18,No,Quarterly
+CUST00608,1,📊 Standard Users,71.99,38.87,1898.25,Yes,Monthly
+CUST00609,2,📊 Standard Users,26.9,6.21,1535.3,No,Quarterly
+CUST00610,0,💰 Budget-Conscious,19.28,6.44,302.7,No,Annual
+CUST00611,2,📊 Standard Users,41.31,10.56,2286.93,No,Quarterly
+CUST00612,0,💰 Budget-Conscious,21.33,3.28,567.43,No,Annual
+CUST00613,0,💰 Budget-Conscious,32.93,13.22,1146.99,No,Monthly
+CUST00614,2,📊 Standard Users,45.49,22.4,2089.44,No,Quarterly
+CUST00615,0,💰 Budget-Conscious,49.18,10.0,893.46,No,Annual
+CUST00616,1,📊 Standard Users,50.81,29.73,1810.63,No,Monthly
+CUST00617,0,💰 Budget-Conscious,31.49,18.65,861.69,No,Annual
+CUST00618,0,💰 Budget-Conscious,44.23,18.38,538.12,No,Monthly
+CUST00619,2,📊 Standard Users,21.91,6.11,1323.61,No,Quarterly
+CUST00620,0,💰 Budget-Conscious,31.39,15.4,300.34,No,Annual
+CUST00621,0,💰 Budget-Conscious,35.5,9.67,622.47,No,Quarterly
+CUST00622,2,📊 Standard Users,47.3,11.55,1458.41,No,Monthly
+CUST00623,1,📊 Standard Users,59.42,46.26,374.36,No,Quarterly
+CUST00624,0,💰 Budget-Conscious,15.95,6.55,812.29,Yes,Monthly
+CUST00625,0,💰 Budget-Conscious,31.74,8.33,932.06,No,Annual
+CUST00626,0,💰 Budget-Conscious,17.5,6.74,1001.43,No,Monthly
+CUST00627,0,💰 Budget-Conscious,37.45,21.54,897.54,No,Monthly
+CUST00628,2,📊 Standard Users,31.35,15.27,1805.99,No,Quarterly
+CUST00629,0,💰 Budget-Conscious,22.58,5.85,307.91,No,Monthly
+CUST00630,2,📊 Standard Users,49.13,20.06,2617.04,No,Quarterly
+CUST00631,2,📊 Standard Users,42.56,11.52,1398.69,No,Quarterly
+CUST00632,2,📊 Standard Users,41.37,26.65,992.8,No,Annual
+CUST00633,2,📊 Standard Users,34.68,21.12,1711.05,No,Quarterly
+CUST00634,2,📊 Standard Users,43.94,17.62,2440.09,No,Monthly
+CUST00635,1,📊 Standard Users,68.92,34.65,3034.76,No,Monthly
+CUST00636,2,📊 Standard Users,44.96,17.47,2442.78,No,Monthly
+CUST00637,1,📊 Standard Users,57.12,19.4,2798.85,No,Monthly
+CUST00638,2,📊 Standard Users,35.74,25.41,1454.54,No,Monthly
+CUST00639,2,📊 Standard Users,47.16,20.64,1722.92,No,Quarterly
+CUST00640,2,📊 Standard Users,34.51,22.32,1850.93,No,Quarterly
+CUST00641,0,💰 Budget-Conscious,16.55,5.06,173.26,No,Monthly
+CUST00642,0,💰 Budget-Conscious,34.94,13.2,496.14,No,Annual
+CUST00643,3,⚠️ At-Risk,31.24,11.63,42.69,No,Annual
+CUST00644,2,📊 Standard Users,22.0,6.63,1217.43,No,Annual
+CUST00645,2,📊 Standard Users,41.91,12.44,1893.16,No,Quarterly
+CUST00646,2,📊 Standard Users,31.6,14.06,1375.53,No,Monthly
+CUST00647,1,📊 Standard Users,91.39,40.46,1608.46,No,Monthly
+CUST00648,0,💰 Budget-Conscious,23.03,3.68,601.17,No,Monthly
+CUST00649,0,💰 Budget-Conscious,26.81,7.09,57.19,No,Monthly
+CUST00650,2,📊 Standard Users,41.96,14.91,1057.3,No,Annual
+CUST00651,0,💰 Budget-Conscious,33.94,7.46,993.19,No,Annual
+CUST00652,3,⚠️ At-Risk,57.74,28.3,229.03,No,Monthly
+CUST00653,1,📊 Standard Users,50.71,48.08,1360.61,No,Monthly
+CUST00654,0,💰 Budget-Conscious,30.34,10.31,641.22,No,Annual
+CUST00655,0,💰 Budget-Conscious,24.31,6.79,809.64,Yes,Monthly
+CUST00656,1,📊 Standard Users,61.07,36.22,3368.82,No,Monthly
+CUST00657,0,💰 Budget-Conscious,24.69,4.66,865.06,No,Annual
+CUST00658,1,📊 Standard Users,53.38,60.13,795.42,No,Monthly
+CUST00659,1,📊 Standard Users,58.78,22.16,282.17,No,Monthly
+CUST00660,0,💰 Budget-Conscious,43.1,11.3,928.01,Yes,Monthly
+CUST00661,2,📊 Standard Users,32.57,14.88,1355.87,No,Annual
+CUST00662,0,💰 Budget-Conscious,30.16,27.08,859.64,No,Quarterly
+CUST00663,1,📊 Standard Users,51.94,34.79,2690.55,No,Monthly
+CUST00664,0,💰 Budget-Conscious,15.0,5.55,839.5,No,Monthly
+CUST00665,1,📊 Standard Users,55.74,31.64,2872.26,No,Monthly
+CUST00666,2,📊 Standard Users,41.19,16.79,1548.92,No,Quarterly
+CUST00667,0,💰 Budget-Conscious,37.77,13.63,556.51,No,Quarterly
+CUST00668,2,📊 Standard Users,48.63,18.48,2316.62,No,Monthly
+CUST00669,0,💰 Budget-Conscious,24.01,6.55,1178.97,No,Annual
+CUST00670,0,💰 Budget-Conscious,15.0,4.53,379.0,No,Monthly
+CUST00671,1,📊 Standard Users,52.03,23.75,2306.6,Yes,Monthly
+CUST00672,1,📊 Standard Users,64.75,35.94,2266.19,No,Monthly
+CUST00673,0,💰 Budget-Conscious,18.91,7.8,497.94,No,Monthly
+CUST00674,0,💰 Budget-Conscious,29.21,3.35,686.5,No,Monthly
+CUST00675,1,📊 Standard Users,56.28,38.34,2714.81,Yes,Monthly
+CUST00676,1,📊 Standard Users,50.38,22.94,816.21,No,Monthly
+CUST00677,1,📊 Standard Users,69.63,24.6,2202.66,No,Quarterly
+CUST00678,1,📊 Standard Users,61.13,48.0,450.36,No,Monthly
+CUST00679,2,📊 Standard Users,48.35,18.46,1237.87,No,Quarterly
+CUST00680,2,📊 Standard Users,28.89,5.7,1677.53,No,Annual
+CUST00681,2,📊 Standard Users,52.87,11.78,2030.29,No,Monthly
+CUST00682,1,📊 Standard Users,67.43,29.47,3598.58,No,Monthly
+CUST00683,2,📊 Standard Users,42.53,18.03,1427.73,No,Monthly
+CUST00684,2,📊 Standard Users,43.24,7.75,1496.17,No,Monthly
+CUST00685,3,⚠️ At-Risk,47.12,13.23,196.33,No,Monthly
+CUST00686,2,📊 Standard Users,33.36,18.83,1909.02,No,Quarterly
+CUST00687,0,💰 Budget-Conscious,42.69,7.44,984.71,No,Quarterly
+CUST00688,2,📊 Standard Users,48.66,6.6,2016.13,No,Monthly
+CUST00689,2,📊 Standard Users,46.84,7.53,2793.22,No,Annual
+CUST00690,3,⚠️ At-Risk,42.16,16.67,92.75,No,Monthly
+CUST00691,2,📊 Standard Users,40.4,12.22,1914.86,No,Annual
+CUST00692,2,📊 Standard Users,38.4,19.39,2237.69,No,Quarterly
+CUST00693,2,📊 Standard Users,46.4,15.61,2440.51,No,Quarterly
+CUST00694,0,💰 Budget-Conscious,41.25,24.4,423.49,No,Monthly
+CUST00695,1,📊 Standard Users,53.6,22.63,439.54,No,Monthly
+CUST00696,2,📊 Standard Users,40.83,16.66,1219.33,No,Annual
+CUST00697,0,💰 Budget-Conscious,29.0,3.41,871.94,No,Monthly
+CUST00698,2,📊 Standard Users,43.82,18.0,1936.8,No,Annual
+CUST00699,3,⚠️ At-Risk,42.5,15.6,128.93,No,Monthly
+CUST00700,0,💰 Budget-Conscious,37.95,10.03,790.69,No,Monthly
+CUST00701,0,💰 Budget-Conscious,34.35,14.21,867.91,No,Monthly
+CUST00702,2,📊 Standard Users,49.47,15.37,2300.49,No,Monthly
+CUST00703,0,💰 Budget-Conscious,34.96,12.0,496.47,No,Annual
+CUST00704,1,📊 Standard Users,50.56,42.27,1226.97,No,Monthly
+CUST00705,1,📊 Standard Users,50.85,24.69,1817.16,No,Monthly
+CUST00706,1,📊 Standard Users,54.13,55.91,371.68,No,Monthly
+CUST00707,1,📊 Standard Users,86.64,44.54,4808.76,No,Monthly
+CUST00708,0,💰 Budget-Conscious,45.6,16.74,645.93,No,Monthly
+CUST00709,0,💰 Budget-Conscious,33.98,29.23,536.91,No,Monthly
+CUST00710,0,💰 Budget-Conscious,18.84,4.38,807.67,No,Annual
+CUST00711,0,💰 Budget-Conscious,27.07,6.22,94.75,No,Monthly
+CUST00712,1,📊 Standard Users,63.53,37.23,622.6,Yes,Monthly
+CUST00713,1,📊 Standard Users,55.8,42.97,900.22,No,Monthly
+CUST00714,0,💰 Budget-Conscious,24.75,7.99,616.28,No,Monthly
+CUST00715,1,📊 Standard Users,54.71,40.49,1393.38,No,Annual
+CUST00716,2,📊 Standard Users,49.9,20.21,2390.28,No,Monthly
+CUST00717,1,📊 Standard Users,51.9,29.5,2797.67,No,Monthly
+CUST00718,1,📊 Standard Users,62.44,32.94,1831.64,Yes,Quarterly
+CUST00719,1,📊 Standard Users,71.09,51.38,3694.41,No,Monthly
+CUST00720,1,📊 Standard Users,56.72,40.97,2684.61,Yes,Monthly
+CUST00721,0,💰 Budget-Conscious,41.63,16.24,240.09,No,Annual
+CUST00722,2,📊 Standard Users,49.23,11.23,1499.81,No,Quarterly
+CUST00723,2,📊 Standard Users,33.07,19.83,1236.9,No,Annual
+CUST00724,2,📊 Standard Users,49.3,11.09,1893.19,No,Monthly
+CUST00725,1,📊 Standard Users,53.61,24.24,759.54,No,Monthly
+CUST00726,2,📊 Standard Users,43.1,15.57,1548.66,No,Monthly
+CUST00727,0,💰 Budget-Conscious,30.52,2.99,993.89,No,Monthly
+CUST00728,0,💰 Budget-Conscious,32.87,18.06,1008.04,No,Annual
+CUST00729,2,📊 Standard Users,30.18,16.88,1531.18,No,Monthly
+CUST00730,2,📊 Standard Users,35.51,13.24,1819.55,No,Annual
+CUST00731,0,💰 Budget-Conscious,22.2,4.48,1197.07,No,Quarterly
+CUST00732,1,📊 Standard Users,50.12,33.81,2011.31,No,Monthly
+CUST00733,0,💰 Budget-Conscious,20.53,3.42,819.18,No,Monthly
+CUST00734,0,💰 Budget-Conscious,35.97,15.92,716.91,No,Quarterly
+CUST00735,1,📊 Standard Users,52.56,32.51,1913.24,No,Monthly
+CUST00736,0,💰 Budget-Conscious,41.33,15.56,190.11,No,Annual
+CUST00737,1,📊 Standard Users,55.09,33.44,3205.97,No,Monthly
+CUST00738,2,📊 Standard Users,49.8,13.24,1817.55,Yes,Monthly
+CUST00739,0,💰 Budget-Conscious,28.81,5.56,1189.74,No,Quarterly
+CUST00740,2,📊 Standard Users,42.84,18.91,1376.75,No,Annual
+CUST00741,0,💰 Budget-Conscious,28.55,3.95,406.42,No,Monthly
+CUST00742,2,📊 Standard Users,43.76,16.98,1861.11,No,Annual
+CUST00743,1,📊 Standard Users,54.42,40.19,1202.58,No,Monthly
+CUST00744,2,📊 Standard Users,53.59,22.16,2118.55,No,Quarterly
+CUST00745,2,📊 Standard Users,40.25,19.88,1631.41,No,Quarterly
+CUST00746,2,📊 Standard Users,32.72,25.28,1382.9,No,Monthly
+CUST00747,0,💰 Budget-Conscious,25.61,4.82,650.5,No,Monthly
+CUST00748,0,💰 Budget-Conscious,28.18,4.66,248.02,Yes,Quarterly
+CUST00749,0,💰 Budget-Conscious,20.45,4.57,468.27,No,Monthly
+CUST00750,2,📊 Standard Users,49.42,18.1,1284.92,No,Quarterly
+CUST00751,1,📊 Standard Users,61.01,40.11,1254.8,No,Monthly
+CUST00752,2,📊 Standard Users,39.43,7.05,1395.81,No,Annual
+CUST00753,2,📊 Standard Users,39.67,10.67,1490.25,No,Quarterly
+CUST00754,1,📊 Standard Users,51.49,40.07,1687.08,No,Annual
+CUST00755,0,💰 Budget-Conscious,43.53,14.27,755.93,No,Monthly
+CUST00756,2,📊 Standard Users,42.21,9.17,1325.37,No,Quarterly
+CUST00757,2,📊 Standard Users,39.52,22.5,1720.5,No,Quarterly
+CUST00758,2,📊 Standard Users,39.93,11.0,1707.48,No,Monthly
+CUST00759,1,📊 Standard Users,54.46,35.36,2853.95,Yes,Monthly
+CUST00760,2,📊 Standard Users,35.5,14.14,1451.85,No,Monthly
+CUST00761,2,📊 Standard Users,32.99,9.61,1876.27,Yes,Quarterly
+CUST00762,1,📊 Standard Users,55.22,36.85,2247.54,No,Monthly
+CUST00763,0,💰 Budget-Conscious,37.54,16.96,248.99,No,Monthly
+CUST00764,2,📊 Standard Users,41.33,12.66,1992.34,No,Quarterly
+CUST00765,2,📊 Standard Users,39.88,13.32,1296.1,Yes,Monthly
+CUST00766,2,📊 Standard Users,44.83,18.0,1231.24,No,Monthly
+CUST00767,0,💰 Budget-Conscious,29.61,1.05,654.46,No,Annual
+CUST00768,0,💰 Budget-Conscious,29.88,3.31,1241.82,No,Annual
+CUST00769,2,📊 Standard Users,32.7,16.07,1711.51,Yes,Monthly
+CUST00770,3,⚠️ At-Risk,57.65,29.73,111.46,Yes,Monthly
+CUST00771,2,📊 Standard Users,41.72,12.29,1693.79,No,Quarterly
+CUST00772,1,📊 Standard Users,58.78,44.02,2889.93,No,Monthly
+CUST00773,1,📊 Standard Users,60.38,28.67,740.67,No,Monthly
+CUST00774,2,📊 Standard Users,38.1,24.9,2160.34,No,Monthly
+CUST00775,2,📊 Standard Users,58.22,17.45,3006.29,No,Monthly
+CUST00776,2,📊 Standard Users,39.86,3.94,1883.99,No,Quarterly
+CUST00777,2,📊 Standard Users,42.62,19.39,1981.83,No,Monthly
+CUST00778,2,📊 Standard Users,52.52,25.16,926.17,No,Quarterly
+CUST00779,2,📊 Standard Users,39.43,10.16,2247.52,No,Annual
+CUST00780,0,💰 Budget-Conscious,39.71,19.92,714.85,No,Monthly
+CUST00781,2,📊 Standard Users,44.89,12.51,2064.84,No,Quarterly
+CUST00782,0,💰 Budget-Conscious,24.87,6.82,203.97,No,Annual
+CUST00783,2,📊 Standard Users,48.71,11.95,2198.43,No,Monthly
+CUST00784,0,💰 Budget-Conscious,22.51,5.73,888.99,No,Monthly
+CUST00785,0,💰 Budget-Conscious,30.16,12.44,1128.84,Yes,Quarterly
+CUST00786,2,📊 Standard Users,45.85,10.4,1994.32,No,Quarterly
+CUST00787,0,💰 Budget-Conscious,15.0,8.46,734.0,No,Annual
+CUST00788,1,📊 Standard Users,72.04,46.16,1138.2,No,Monthly
+CUST00789,2,📊 Standard Users,41.68,11.37,1257.22,No,Annual
+CUST00790,0,💰 Budget-Conscious,17.42,4.64,717.21,No,Monthly
+CUST00791,1,📊 Standard Users,80.98,49.76,529.05,Yes,Monthly
+CUST00792,3,⚠️ At-Risk,66.74,25.12,266.96,No,Quarterly
+CUST00793,0,💰 Budget-Conscious,42.29,10.33,1047.45,No,Monthly
+CUST00794,2,📊 Standard Users,31.1,17.35,1642.22,No,Monthly
+CUST00795,1,📊 Standard Users,70.29,57.7,159.33,No,Monthly
+CUST00796,2,📊 Standard Users,39.84,15.27,1565.84,Yes,Monthly
+CUST00797,2,📊 Standard Users,47.42,20.25,2377.1,No,Monthly
+CUST00798,0,💰 Budget-Conscious,44.74,9.91,301.24,No,Annual
+CUST00799,0,💰 Budget-Conscious,42.7,16.81,970.65,No,Monthly
+CUST00800,0,💰 Budget-Conscious,37.59,13.2,981.08,Yes,Quarterly
+CUST00801,0,💰 Budget-Conscious,27.28,8.73,1157.41,No,Quarterly
+CUST00802,2,📊 Standard Users,29.96,8.2,1688.5,No,Annual
+CUST00803,2,📊 Standard Users,41.09,26.4,1521.64,Yes,Monthly
+CUST00804,2,📊 Standard Users,25.09,3.61,1432.72,No,Annual
+CUST00805,0,💰 Budget-Conscious,27.78,5.07,467.65,No,Monthly
+CUST00806,0,💰 Budget-Conscious,40.34,16.88,652.1,No,Quarterly
+CUST00807,0,💰 Budget-Conscious,21.5,3.69,614.98,No,Quarterly
+CUST00808,0,💰 Budget-Conscious,27.97,5.26,861.37,No,Annual
+CUST00809,1,📊 Standard Users,74.17,44.09,3495.83,No,Monthly
+CUST00810,2,📊 Standard Users,36.55,12.25,1283.96,No,Quarterly
+CUST00811,0,💰 Budget-Conscious,37.94,11.48,526.09,Yes,Monthly
+CUST00812,0,💰 Budget-Conscious,36.5,11.15,458.69,No,Quarterly
+CUST00813,0,💰 Budget-Conscious,32.33,8.28,235.99,No,Annual
+CUST00814,1,📊 Standard Users,53.62,43.54,954.49,No,Monthly
+CUST00815,2,📊 Standard Users,39.04,11.47,1618.81,No,Annual
+CUST00816,2,📊 Standard Users,39.14,10.94,2036.51,No,Monthly
+CUST00817,2,📊 Standard Users,41.79,17.65,1980.96,No,Monthly
+CUST00818,1,📊 Standard Users,64.69,34.89,3152.64,No,Monthly
+CUST00819,0,💰 Budget-Conscious,22.35,3.95,635.36,No,Monthly
+CUST00820,2,📊 Standard Users,39.42,19.05,1258.95,No,Quarterly
+CUST00821,2,📊 Standard Users,47.03,12.17,1509.62,No,Monthly
+CUST00822,2,📊 Standard Users,33.35,4.12,1300.64,No,Monthly
+CUST00823,0,💰 Budget-Conscious,34.08,21.67,185.16,No,Annual
+CUST00824,3,⚠️ At-Risk,27.71,3.34,80.35,No,Annual
+CUST00825,2,📊 Standard Users,40.1,11.41,2150.55,No,Annual
+CUST00826,0,💰 Budget-Conscious,24.29,3.57,578.21,No,Annual
+CUST00827,1,📊 Standard Users,50.62,35.6,1182.9,Yes,Quarterly
+CUST00828,0,💰 Budget-Conscious,43.9,13.63,295.6,No,Monthly
+CUST00829,2,📊 Standard Users,38.28,19.94,1076.93,No,Monthly
+CUST00830,0,💰 Budget-Conscious,29.95,8.29,1200.12,No,Quarterly
+CUST00831,1,📊 Standard Users,60.46,28.21,219.67,No,Monthly
+CUST00832,0,💰 Budget-Conscious,33.48,10.31,1021.18,No,Quarterly
+CUST00833,0,💰 Budget-Conscious,27.49,3.96,1160.13,Yes,Monthly
+CUST00834,1,📊 Standard Users,60.77,39.39,469.97,No,Monthly
+CUST00835,0,💰 Budget-Conscious,31.44,14.42,830.94,Yes,Monthly
+CUST00836,2,📊 Standard Users,39.06,12.5,1668.96,No,Quarterly
+CUST00837,2,📊 Standard Users,48.19,8.51,2777.24,Yes,Quarterly
+CUST00838,2,📊 Standard Users,41.58,3.96,1774.06,Yes,Quarterly
+CUST00839,1,📊 Standard Users,70.96,24.95,4049.61,No,Monthly
+CUST00840,2,📊 Standard Users,32.48,21.32,1715.8,No,Monthly
+CUST00841,2,📊 Standard Users,33.32,17.18,1659.13,No,Annual
+CUST00842,2,📊 Standard Users,38.67,14.04,1875.41,No,Quarterly
+CUST00843,1,📊 Standard Users,54.32,42.3,137.61,No,Monthly
+CUST00844,2,📊 Standard Users,45.31,8.56,1942.25,No,Annual
+CUST00845,2,📊 Standard Users,46.1,15.28,2086.99,No,Monthly
+CUST00846,2,📊 Standard Users,42.94,6.07,2259.81,No,Monthly
+CUST00847,0,💰 Budget-Conscious,22.76,5.69,907.17,No,Monthly
+CUST00848,2,📊 Standard Users,41.12,16.3,2012.33,No,Quarterly
+CUST00849,2,📊 Standard Users,33.5,16.42,1748.54,No,Quarterly
+CUST00850,1,📊 Standard Users,54.28,46.68,2579.95,No,Monthly
+CUST00851,2,📊 Standard Users,31.72,18.88,1711.96,No,Annual
+CUST00852,2,📊 Standard Users,41.39,8.96,1810.14,No,Monthly
+CUST00853,0,💰 Budget-Conscious,23.1,7.37,527.36,No,Monthly
+CUST00854,0,💰 Budget-Conscious,17.83,4.58,297.14,No,Monthly
+CUST00855,1,📊 Standard Users,72.91,15.3,2430.49,No,Monthly
+CUST00856,2,📊 Standard Users,46.95,14.46,1666.56,No,Monthly
+CUST00857,2,📊 Standard Users,44.04,18.24,2030.4,No,Quarterly
+CUST00858,0,💰 Budget-Conscious,27.7,2.97,706.39,No,Annual
+CUST00859,1,📊 Standard Users,58.13,48.33,1575.4,No,Monthly
+CUST00860,1,📊 Standard Users,55.43,25.77,1842.03,No,Monthly
+CUST00861,0,💰 Budget-Conscious,32.96,12.59,425.23,No,Monthly
+CUST00862,0,💰 Budget-Conscious,29.11,3.67,971.22,No,Monthly
+CUST00863,2,📊 Standard Users,34.01,6.46,1656.39,Yes,Monthly
+CUST00864,0,💰 Budget-Conscious,39.72,10.03,922.76,No,Quarterly
+CUST00865,0,💰 Budget-Conscious,47.51,11.44,636.59,Yes,Monthly
+CUST00866,2,📊 Standard Users,40.38,14.35,1428.25,No,Quarterly
+CUST00867,2,📊 Standard Users,45.39,0.5,1777.77,No,Annual
+CUST00868,2,📊 Standard Users,34.28,18.58,1600.67,No,Monthly
+CUST00869,0,💰 Budget-Conscious,26.31,6.41,618.21,No,Annual
+CUST00870,0,💰 Budget-Conscious,40.0,20.91,158.67,No,Quarterly
+CUST00871,2,📊 Standard Users,23.07,2.02,1308.02,No,Quarterly
+CUST00872,1,📊 Standard Users,55.44,32.07,1343.4,No,Monthly
+CUST00873,2,📊 Standard Users,46.47,19.71,2120.56,No,Monthly
+CUST00874,2,📊 Standard Users,39.93,20.14,1638.44,No,Monthly
+CUST00875,0,💰 Budget-Conscious,39.1,22.39,741.53,No,Monthly
+CUST00876,1,📊 Standard Users,58.65,36.03,1487.75,No,Monthly
+CUST00877,2,📊 Standard Users,48.78,14.72,1460.19,No,Quarterly
+CUST00878,0,💰 Budget-Conscious,41.3,7.21,96.38,No,Monthly
+CUST00879,0,💰 Budget-Conscious,39.73,20.32,1018.52,No,Annual
+CUST00880,2,📊 Standard Users,48.63,12.7,2848.31,No,Quarterly
+CUST00881,1,📊 Standard Users,50.03,35.34,885.58,No,Monthly
+CUST00882,2,📊 Standard Users,41.92,14.84,1380.5,No,Monthly
+CUST00883,2,📊 Standard Users,38.05,3.03,1519.44,No,Annual
+CUST00884,0,💰 Budget-Conscious,26.69,3.38,1115.53,No,Annual
+CUST00885,2,📊 Standard Users,40.71,17.27,1300.04,No,Quarterly
+CUST00886,2,📊 Standard Users,41.5,14.76,2458.37,No,Monthly
+CUST00887,0,💰 Budget-Conscious,39.15,17.31,639.48,No,Monthly
+CUST00888,0,💰 Budget-Conscious,19.1,6.57,484.56,No,Monthly
+CUST00889,0,💰 Budget-Conscious,29.59,3.35,770.22,No,Monthly
+CUST00890,2,📊 Standard Users,35.14,12.42,1117.49,No,Quarterly
+CUST00891,2,📊 Standard Users,48.95,14.29,1530.52,No,Quarterly
+CUST00892,2,📊 Standard Users,42.86,18.87,2301.49,Yes,Quarterly
+CUST00893,2,📊 Standard Users,42.52,13.83,2267.59,No,Annual
+CUST00894,2,📊 Standard Users,52.43,17.19,2282.41,No,Quarterly
+CUST00895,0,💰 Budget-Conscious,49.94,14.01,697.49,No,Monthly
+CUST00896,2,📊 Standard Users,47.1,18.67,2586.03,No,Monthly
+CUST00897,0,💰 Budget-Conscious,27.22,7.71,827.37,No,Annual
+CUST00898,1,📊 Standard Users,74.8,37.81,710.6,No,Monthly
+CUST00899,0,💰 Budget-Conscious,23.66,2.03,581.97,No,Annual
+CUST00900,0,💰 Budget-Conscious,35.95,12.97,574.0,No,Annual
+CUST00901,3,⚠️ At-Risk,57.49,39.75,74.74,No,Monthly
+CUST00902,2,📊 Standard Users,48.47,19.33,1378.09,No,Quarterly
+CUST00903,0,💰 Budget-Conscious,25.76,6.01,710.1,No,Annual
+CUST00904,2,📊 Standard Users,35.8,13.74,1545.41,No,Quarterly
+CUST00905,0,💰 Budget-Conscious,28.61,6.72,1243.51,No,Annual
+CUST00906,0,💰 Budget-Conscious,19.16,3.72,578.53,No,Annual
+CUST00907,2,📊 Standard Users,46.95,15.92,1655.94,No,Monthly
+CUST00908,2,📊 Standard Users,34.24,18.75,1337.48,No,Monthly
+CUST00909,2,📊 Standard Users,47.04,17.88,1638.69,No,Annual
+CUST00910,0,💰 Budget-Conscious,46.15,18.0,619.97,No,Quarterly
+CUST00911,2,📊 Standard Users,45.62,17.87,1700.14,No,Monthly
+CUST00912,0,💰 Budget-Conscious,37.91,9.76,221.14,No,Monthly
+CUST00913,0,💰 Budget-Conscious,41.15,15.09,347.04,No,Quarterly
+CUST00914,2,📊 Standard Users,32.95,10.45,1419.18,No,Annual
+CUST00915,3,⚠️ At-Risk,35.56,13.55,244.15,No,Annual
+CUST00916,1,📊 Standard Users,59.02,23.31,1735.08,No,Quarterly
+CUST00917,0,💰 Budget-Conscious,29.03,5.69,1291.78,No,Monthly
+CUST00918,3,⚠️ At-Risk,42.47,5.17,130.24,No,Monthly
+CUST00919,2,📊 Standard Users,40.65,18.09,1720.9,No,Annual
+CUST00920,2,📊 Standard Users,39.0,15.08,1112.74,No,Monthly
+CUST00921,1,📊 Standard Users,68.71,54.02,1887.18,No,Monthly
+CUST00922,1,📊 Standard Users,55.18,32.95,1320.57,No,Monthly
+CUST00923,2,📊 Standard Users,32.81,13.98,1655.87,Yes,Quarterly
+CUST00924,2,📊 Standard Users,36.63,18.41,2030.66,No,Annual
+CUST00925,0,💰 Budget-Conscious,34.43,14.27,153.79,No,Monthly
+CUST00926,2,📊 Standard Users,33.05,16.37,1269.12,No,Monthly
+CUST00927,0,💰 Budget-Conscious,38.6,19.97,694.76,No,Quarterly
+CUST00928,0,💰 Budget-Conscious,45.11,13.66,622.52,No,Annual
+CUST00929,1,📊 Standard Users,56.18,46.95,812.76,No,Monthly
+CUST00930,2,📊 Standard Users,44.66,6.6,1268.38,No,Monthly
+CUST00931,1,📊 Standard Users,56.72,51.03,1034.15,No,Monthly
+CUST00932,0,💰 Budget-Conscious,37.15,6.06,625.34,No,Annual
+CUST00933,0,💰 Budget-Conscious,27.45,7.7,675.31,No,Monthly
+CUST00934,2,📊 Standard Users,42.82,5.67,2423.78,No,Monthly
+CUST00935,0,💰 Budget-Conscious,39.27,24.9,1047.16,No,Quarterly
+CUST00936,2,📊 Standard Users,47.62,15.8,2364.97,No,Quarterly
+CUST00937,2,📊 Standard Users,36.5,10.28,1309.24,No,Monthly
+CUST00938,0,💰 Budget-Conscious,27.7,8.73,947.29,No,Annual
+CUST00939,2,📊 Standard Users,44.32,9.56,2390.15,No,Monthly
+CUST00940,0,💰 Budget-Conscious,33.55,13.86,789.44,Yes,Quarterly
+CUST00941,2,📊 Standard Users,40.15,28.02,994.32,No,Monthly
+CUST00942,2,📊 Standard Users,39.19,16.98,1973.93,No,Quarterly
+CUST00943,0,💰 Budget-Conscious,39.25,4.87,146.55,No,Monthly
+CUST00944,2,📊 Standard Users,42.71,13.63,1705.37,No,Annual
+CUST00945,1,📊 Standard Users,54.14,31.38,2053.82,No,Quarterly
+CUST00946,2,📊 Standard Users,48.63,15.94,1833.32,No,Quarterly
+CUST00947,0,💰 Budget-Conscious,22.29,4.91,361.07,No,Quarterly
+CUST00948,3,⚠️ At-Risk,33.58,17.73,33.58,No,Quarterly
+CUST00949,0,💰 Budget-Conscious,42.32,7.36,112.85,No,Monthly
+CUST00950,0,💰 Budget-Conscious,17.31,3.9,411.88,No,Monthly
+CUST00951,0,💰 Budget-Conscious,27.99,5.62,696.09,No,Annual
+CUST00952,2,📊 Standard Users,42.13,11.19,2105.02,Yes,Monthly
+CUST00953,0,💰 Budget-Conscious,35.51,20.48,565.8,Yes,Quarterly
+CUST00954,0,💰 Budget-Conscious,35.07,11.29,1063.77,No,Annual
+CUST00955,0,💰 Budget-Conscious,24.29,5.29,418.56,No,Monthly
+CUST00956,3,⚠️ At-Risk,35.4,14.48,74.33,Yes,Quarterly
+CUST00957,2,📊 Standard Users,47.28,9.93,2207.91,No,Monthly
+CUST00958,0,💰 Budget-Conscious,40.1,15.3,165.75,No,Quarterly
+CUST00959,2,📊 Standard Users,51.7,21.88,1938.88,No,Monthly
+CUST00960,1,📊 Standard Users,50.83,30.56,2717.64,No,Monthly
+CUST00961,0,💰 Budget-Conscious,35.93,15.15,219.17,No,Quarterly
+CUST00962,0,💰 Budget-Conscious,35.96,7.86,334.44,No,Annual
+CUST00963,0,💰 Budget-Conscious,32.0,18.12,749.87,No,Quarterly
+CUST00964,0,💰 Budget-Conscious,40.95,16.3,637.4,No,Monthly
+CUST00965,0,💰 Budget-Conscious,29.17,6.06,142.91,Yes,Monthly
+CUST00966,1,📊 Standard Users,50.65,35.02,1350.78,No,Quarterly
+CUST00967,2,📊 Standard Users,40.9,9.25,1852.66,No,Monthly
+CUST00968,0,💰 Budget-Conscious,43.51,15.0,430.76,No,Annual
+CUST00969,2,📊 Standard Users,37.49,18.12,1383.45,No,Annual
+CUST00970,0,💰 Budget-Conscious,31.14,9.05,275.1,No,Quarterly
+CUST00971,0,💰 Budget-Conscious,37.01,9.45,515.66,No,Annual
+CUST00972,1,📊 Standard Users,57.15,32.54,1941.05,No,Monthly
+CUST00973,2,📊 Standard Users,39.22,13.14,2336.45,No,Quarterly
+CUST00974,0,💰 Budget-Conscious,46.11,14.92,1217.32,No,Monthly
+CUST00975,0,💰 Budget-Conscious,30.59,13.54,438.43,No,Annual
+CUST00976,2,📊 Standard Users,45.36,15.8,987.37,No,Monthly
+CUST00977,2,📊 Standard Users,42.38,21.11,1124.46,No,Quarterly
+CUST00978,2,📊 Standard Users,30.37,17.69,1372.7,No,Annual
+CUST00979,0,💰 Budget-Conscious,28.81,5.11,910.41,No,Monthly
+CUST00980,1,📊 Standard Users,64.32,23.93,2701.42,No,Monthly
+CUST00981,2,📊 Standard Users,46.04,11.39,1967.49,No,Quarterly
+CUST00982,0,💰 Budget-Conscious,36.79,19.21,1081.48,Yes,Monthly
+CUST00983,2,📊 Standard Users,48.29,12.66,977.17,No,Monthly
+CUST00984,0,💰 Budget-Conscious,22.82,3.06,79.11,Yes,Monthly
+CUST00985,0,💰 Budget-Conscious,15.34,9.2,237.32,No,Monthly
+CUST00986,3,⚠️ At-Risk,43.67,22.62,192.16,No,Annual
+CUST00987,2,📊 Standard Users,42.3,14.38,2079.53,No,Quarterly
+CUST00988,2,📊 Standard Users,44.28,9.59,2593.59,No,Monthly
+CUST00989,2,📊 Standard Users,48.49,18.62,1281.75,No,Monthly
+CUST00990,1,📊 Standard Users,93.39,30.1,2387.72,No,Monthly
+CUST00991,1,📊 Standard Users,58.04,43.89,1615.35,No,Monthly
+CUST00992,0,💰 Budget-Conscious,29.32,4.02,1328.12,No,Monthly
+CUST00993,0,💰 Budget-Conscious,19.79,8.29,83.8,Yes,Monthly
+CUST00994,1,📊 Standard Users,60.82,29.81,1676.55,No,Monthly
+CUST00995,2,📊 Standard Users,48.56,26.82,2246.75,No,Quarterly
+CUST00996,1,📊 Standard Users,53.63,36.95,1587.33,No,Monthly
+CUST00997,0,💰 Budget-Conscious,31.87,21.92,492.94,No,Quarterly
+CUST00998,0,💰 Budget-Conscious,43.63,12.3,692.31,Yes,Quarterly
+CUST00999,2,📊 Standard Users,32.77,8.44,1486.51,No,Quarterly
+CUST01000,0,💰 Budget-Conscious,46.63,3.47,432.08,No,Quarterly
+CUST01001,1,📊 Standard Users,59.74,47.77,388.31,Yes,Monthly
+CUST01002,2,📊 Standard Users,30.65,15.34,1567.35,No,Annual
+CUST01003,1,📊 Standard Users,51.32,22.52,1732.84,No,Quarterly
+CUST01004,2,📊 Standard Users,46.72,21.59,2161.71,No,Monthly
+CUST01005,2,📊 Standard Users,38.93,20.78,1361.43,No,Annual
+CUST01006,0,💰 Budget-Conscious,26.9,7.76,512.07,No,Quarterly
+CUST01007,2,📊 Standard Users,48.48,8.3,1273.49,No,Monthly
+CUST01008,2,📊 Standard Users,34.87,21.23,1347.0,Yes,Monthly
+CUST01009,1,📊 Standard Users,52.12,38.84,2807.5,No,Monthly
+CUST01010,0,💰 Budget-Conscious,46.74,22.14,171.37,No,Annual
+CUST01011,3,⚠️ At-Risk,42.9,17.71,231.63,No,Quarterly
+CUST01012,0,💰 Budget-Conscious,27.79,5.35,765.24,No,Annual
+CUST01013,2,📊 Standard Users,46.26,21.3,1432.66,No,Quarterly
+CUST01014,1,📊 Standard Users,51.03,43.52,284.05,No,Monthly
+CUST01015,1,📊 Standard Users,75.88,45.82,538.74,No,Monthly
+CUST01016,2,📊 Standard Users,42.54,12.56,2061.76,No,Quarterly
+CUST01017,2,📊 Standard Users,34.15,14.14,1574.1,No,Quarterly
+CUST01018,0,💰 Budget-Conscious,41.17,6.33,1116.95,No,Annual
+CUST01019,2,📊 Standard Users,43.08,12.2,2241.85,No,Monthly
+CUST01020,2,📊 Standard Users,46.2,18.95,1560.15,No,Monthly
+CUST01021,3,⚠️ At-Risk,30.72,17.82,100.34,No,Quarterly
+CUST01022,0,💰 Budget-Conscious,38.78,10.1,743.2,Yes,Quarterly
+CUST01023,0,💰 Budget-Conscious,40.31,21.41,110.18,Yes,Quarterly
+CUST01024,2,📊 Standard Users,38.72,29.87,1939.7,No,Quarterly
+CUST01025,0,💰 Budget-Conscious,36.14,10.49,281.87,No,Monthly
+CUST01026,0,💰 Budget-Conscious,42.88,13.97,221.56,No,Quarterly
+CUST01027,2,📊 Standard Users,30.77,11.89,1845.92,Yes,Quarterly
+CUST01028,0,💰 Budget-Conscious,25.73,4.81,61.75,No,Annual
+CUST01029,2,📊 Standard Users,40.68,16.37,2447.36,No,Annual
+CUST01030,1,📊 Standard Users,54.27,28.03,253.24,No,Monthly
+CUST01031,0,💰 Budget-Conscious,25.39,4.45,668.5,No,Monthly
+CUST01032,0,💰 Budget-Conscious,20.36,5.17,1164.8,No,Annual
+CUST01033,0,💰 Budget-Conscious,29.87,5.94,1230.6,No,Monthly
+CUST01034,2,📊 Standard Users,33.97,22.33,993.16,No,Annual
+CUST01035,1,📊 Standard Users,62.32,34.86,257.57,No,Monthly
+CUST01036,2,📊 Standard Users,38.47,12.19,1830.01,No,Quarterly
+CUST01037,2,📊 Standard Users,28.85,6.39,1512.45,No,Annual
+CUST01038,0,💰 Budget-Conscious,36.19,17.0,1120.64,No,Annual
+CUST01039,0,💰 Budget-Conscious,43.29,14.04,561.32,No,Monthly
+CUST01040,0,💰 Budget-Conscious,26.19,5.97,811.01,No,Quarterly
+CUST01041,2,📊 Standard Users,24.37,4.23,1421.01,Yes,Monthly
+CUST01042,0,💰 Budget-Conscious,24.78,3.94,256.03,No,Monthly
+CUST01043,1,📊 Standard Users,64.8,16.01,2695.62,No,Quarterly
+CUST01044,2,📊 Standard Users,48.6,13.36,2021.75,No,Quarterly
+CUST01045,0,💰 Budget-Conscious,30.25,6.19,701.81,No,Annual
+CUST01046,1,📊 Standard Users,61.62,28.61,250.6,No,Monthly
+CUST01047,0,💰 Budget-Conscious,36.48,17.9,852.4,Yes,Monthly
+CUST01048,3,⚠️ At-Risk,61.13,19.95,183.38,No,Monthly
+CUST01049,0,💰 Budget-Conscious,46.2,14.05,1021.12,Yes,Monthly
+CUST01050,2,📊 Standard Users,35.12,15.33,1292.31,No,Monthly
+CUST01051,2,📊 Standard Users,46.8,13.81,2271.27,No,Quarterly
+CUST01052,2,📊 Standard Users,47.06,12.59,1659.75,No,Monthly
+CUST01053,2,📊 Standard Users,38.19,16.63,1933.49,No,Annual
+CUST01054,0,💰 Budget-Conscious,36.72,17.32,774.88,No,Annual
+CUST01055,0,💰 Budget-Conscious,42.05,15.01,996.59,No,Quarterly
+CUST01056,0,💰 Budget-Conscious,41.4,12.87,777.02,No,Annual
+CUST01057,1,📊 Standard Users,65.84,43.65,3199.73,No,Quarterly
+CUST01058,1,📊 Standard Users,63.73,21.89,1841.85,No,Monthly
+CUST01059,2,📊 Standard Users,48.29,18.44,2520.98,No,Monthly
+CUST01060,0,💰 Budget-Conscious,40.34,17.1,906.33,No,Monthly
+CUST01061,0,💰 Budget-Conscious,37.99,16.0,331.8,No,Quarterly
+CUST01062,0,💰 Budget-Conscious,24.95,4.98,459.93,No,Annual
+CUST01063,0,💰 Budget-Conscious,54.97,16.1,687.1,No,Monthly
+CUST01064,0,💰 Budget-Conscious,26.88,7.77,984.73,No,Annual
+CUST01065,0,💰 Budget-Conscious,36.28,19.19,695.28,No,Quarterly
+CUST01066,1,📊 Standard Users,55.06,25.39,2075.58,No,Monthly
+CUST01067,2,📊 Standard Users,33.1,18.79,1967.33,No,Annual
+CUST01068,2,📊 Standard Users,37.62,15.94,1411.84,No,Monthly
+CUST01069,0,💰 Budget-Conscious,27.04,3.83,741.74,Yes,Monthly
+CUST01070,1,📊 Standard Users,52.05,46.92,482.36,No,Quarterly
+CUST01071,0,💰 Budget-Conscious,32.5,12.85,82.34,No,Monthly
+CUST01072,2,📊 Standard Users,34.14,21.78,1336.06,Yes,Quarterly
+CUST01073,0,💰 Budget-Conscious,18.12,6.07,146.8,Yes,Monthly
+CUST01074,0,💰 Budget-Conscious,44.7,19.78,399.34,No,Monthly
+CUST01075,2,📊 Standard Users,32.33,17.9,1195.27,No,Annual
+CUST01076,0,💰 Budget-Conscious,47.73,17.66,602.96,No,Monthly
+CUST01077,0,💰 Budget-Conscious,27.38,5.43,124.13,Yes,Monthly
+CUST01078,1,📊 Standard Users,56.01,27.73,1605.7,No,Monthly
+CUST01079,3,⚠️ At-Risk,20.29,5.13,52.07,No,Annual
+CUST01080,2,📊 Standard Users,43.62,19.58,2364.06,No,Monthly
+CUST01081,0,💰 Budget-Conscious,46.73,18.6,570.13,No,Monthly
+CUST01082,2,📊 Standard Users,45.87,17.51,1649.67,No,Monthly
+CUST01083,2,📊 Standard Users,47.37,4.52,1315.2,No,Monthly
+CUST01084,2,📊 Standard Users,41.31,13.93,1803.84,No,Annual
+CUST01085,3,⚠️ At-Risk,53.25,31.82,65.67,No,Quarterly
+CUST01086,0,💰 Budget-Conscious,42.67,9.48,930.12,No,Monthly
+CUST01087,2,📊 Standard Users,30.32,19.52,1320.0,No,Quarterly
+CUST01088,2,📊 Standard Users,53.41,14.75,3106.73,No,Monthly
+CUST01089,0,💰 Budget-Conscious,32.76,19.18,816.77,No,Annual
+CUST01090,0,💰 Budget-Conscious,45.12,21.65,499.29,Yes,Annual
+CUST01091,0,💰 Budget-Conscious,35.97,13.95,800.94,No,Monthly
+CUST01092,3,⚠️ At-Risk,28.14,4.85,79.72,No,Annual
+CUST01093,2,📊 Standard Users,41.44,19.84,1042.85,No,Quarterly
+CUST01094,0,💰 Budget-Conscious,18.89,3.47,349.53,No,Monthly
+CUST01095,0,💰 Budget-Conscious,37.99,18.3,636.94,Yes,Monthly
+CUST01096,0,💰 Budget-Conscious,40.05,10.41,76.1,Yes,Monthly
+CUST01097,0,💰 Budget-Conscious,42.2,8.91,150.53,Yes,Quarterly
+CUST01098,0,💰 Budget-Conscious,27.03,5.59,1143.36,No,Annual
+CUST01099,2,📊 Standard Users,31.2,14.87,1496.8,No,Quarterly
+CUST01100,0,💰 Budget-Conscious,44.26,6.39,581.22,No,Annual
+CUST01101,2,📊 Standard Users,39.87,22.08,923.55,No,Quarterly
+CUST01102,0,💰 Budget-Conscious,41.92,12.93,775.47,Yes,Annual
+CUST01103,0,💰 Budget-Conscious,34.58,17.55,839.19,No,Quarterly
+CUST01104,2,📊 Standard Users,44.18,23.03,2010.34,No,Monthly
+CUST01105,2,📊 Standard Users,42.15,16.24,1281.22,No,Quarterly
+CUST01106,2,📊 Standard Users,48.98,21.37,1730.64,No,Annual
+CUST01107,2,📊 Standard Users,41.74,10.68,1469.1,No,Monthly
+CUST01108,2,📊 Standard Users,33.67,22.1,1881.02,No,Annual
+CUST01109,1,📊 Standard Users,61.47,26.74,1942.52,No,Monthly
+CUST01110,0,💰 Budget-Conscious,39.3,12.14,1020.56,Yes,Monthly
+CUST01111,0,💰 Budget-Conscious,37.28,7.73,487.09,No,Annual
+CUST01112,1,📊 Standard Users,60.16,37.68,3617.89,No,Monthly
+CUST01113,2,📊 Standard Users,36.36,18.15,1892.06,No,Monthly
+CUST01114,1,📊 Standard Users,50.11,42.67,2216.4,No,Monthly
+CUST01115,2,📊 Standard Users,48.96,7.84,2544.52,No,Annual
+CUST01116,1,📊 Standard Users,58.82,38.75,1637.15,No,Monthly
+CUST01117,0,💰 Budget-Conscious,37.28,17.06,954.35,No,Annual
+CUST01118,2,📊 Standard Users,41.64,18.07,1482.21,No,Monthly
+CUST01119,2,📊 Standard Users,30.17,11.14,1251.87,No,Annual
+CUST01120,2,📊 Standard Users,27.09,0.5,1520.91,No,Annual
+CUST01121,1,📊 Standard Users,67.64,42.06,1158.97,No,Monthly
+CUST01122,3,⚠️ At-Risk,64.73,33.54,122.99,No,Monthly
+CUST01123,0,💰 Budget-Conscious,35.14,16.4,870.38,No,Monthly
+CUST01124,2,📊 Standard Users,43.38,14.53,1578.92,No,Quarterly
+CUST01125,2,📊 Standard Users,46.67,16.17,2062.81,No,Monthly
+CUST01126,1,📊 Standard Users,62.77,42.37,2686.39,No,Monthly
+CUST01127,3,⚠️ At-Risk,50.74,16.43,194.51,Yes,Monthly
+CUST01128,2,📊 Standard Users,44.66,20.71,2273.08,No,Monthly
+CUST01129,0,💰 Budget-Conscious,36.87,14.09,190.52,No,Monthly
+CUST01130,2,📊 Standard Users,43.41,23.14,1216.89,No,Quarterly
+CUST01131,0,💰 Budget-Conscious,32.21,12.7,607.78,No,Annual
+CUST01132,0,💰 Budget-Conscious,48.31,11.59,280.2,Yes,Monthly
+CUST01133,2,📊 Standard Users,39.24,14.26,2064.04,No,Quarterly
+CUST01134,2,📊 Standard Users,39.41,17.5,1661.9,No,Monthly
+CUST01135,3,⚠️ At-Risk,27.22,4.45,48.99,No,Annual
+CUST01136,2,📊 Standard Users,39.11,17.86,2129.08,No,Annual
+CUST01137,2,📊 Standard Users,35.34,13.06,1704.59,No,Annual
+CUST01138,0,💰 Budget-Conscious,49.3,15.17,157.76,No,Annual
+CUST01139,0,💰 Budget-Conscious,29.51,9.47,257.76,Yes,Monthly
+CUST01140,0,💰 Budget-Conscious,40.0,16.79,184.01,No,Annual
+CUST01141,2,📊 Standard Users,39.17,17.19,1565.64,No,Quarterly
+CUST01142,1,📊 Standard Users,76.5,20.27,356.98,Yes,Monthly
+CUST01143,0,💰 Budget-Conscious,39.39,21.77,337.46,No,Annual
+CUST01144,0,💰 Budget-Conscious,49.87,20.33,232.73,No,Monthly
+CUST01145,2,📊 Standard Users,39.2,11.43,1990.0,No,Quarterly
+CUST01146,3,⚠️ At-Risk,34.45,20.23,72.35,Yes,Monthly
+CUST01147,2,📊 Standard Users,49.67,16.65,1079.51,No,Monthly
+CUST01148,0,💰 Budget-Conscious,26.18,5.09,1240.79,No,Quarterly
+CUST01149,0,💰 Budget-Conscious,26.64,7.58,689.9,No,Quarterly
+CUST01150,1,📊 Standard Users,60.19,29.88,1251.88,No,Monthly
+CUST01151,0,💰 Budget-Conscious,18.57,3.56,994.63,No,Monthly
+CUST01152,0,💰 Budget-Conscious,32.44,16.04,490.98,No,Annual
+CUST01153,0,💰 Budget-Conscious,29.26,6.06,626.23,No,Monthly
+CUST01154,2,📊 Standard Users,38.96,19.83,2040.36,No,Monthly
+CUST01155,0,💰 Budget-Conscious,36.48,14.25,876.65,No,Annual
+CUST01156,2,📊 Standard Users,42.88,10.75,1908.0,No,Annual
+CUST01157,1,📊 Standard Users,63.26,60.29,2895.41,No,Monthly
+CUST01158,2,📊 Standard Users,30.81,9.57,1839.38,No,Quarterly
+CUST01159,2,📊 Standard Users,31.27,15.28,1559.45,No,Annual
+CUST01160,1,📊 Standard Users,67.42,42.8,773.09,No,Annual
+CUST01161,2,📊 Standard Users,41.25,20.76,1245.74,No,Monthly
+CUST01162,2,📊 Standard Users,31.77,12.16,1899.66,No,Monthly
+CUST01163,2,📊 Standard Users,34.26,5.63,1633.2,No,Monthly
+CUST01164,2,📊 Standard Users,41.34,12.05,1849.18,Yes,Monthly
+CUST01165,2,📊 Standard Users,36.07,19.31,1791.61,No,Quarterly
+CUST01166,0,💰 Budget-Conscious,41.48,18.19,955.53,No,Monthly
+CUST01167,0,💰 Budget-Conscious,39.79,18.35,405.81,Yes,Quarterly
+CUST01168,2,📊 Standard Users,44.57,18.56,2619.46,No,Monthly
+CUST01169,2,📊 Standard Users,30.67,21.7,1671.39,No,Monthly
+CUST01170,2,📊 Standard Users,37.95,11.12,1968.58,No,Annual
+CUST01171,0,💰 Budget-Conscious,46.82,9.01,1019.02,No,Monthly
+CUST01172,1,📊 Standard Users,52.45,38.7,952.82,No,Monthly
+CUST01173,0,💰 Budget-Conscious,21.28,2.9,995.4,No,Annual
+CUST01174,2,📊 Standard Users,47.35,8.7,1376.38,No,Monthly
+CUST01175,0,💰 Budget-Conscious,20.14,7.45,1006.53,No,Quarterly
+CUST01176,0,💰 Budget-Conscious,38.24,16.25,483.15,Yes,Quarterly
+CUST01177,1,📊 Standard Users,54.87,35.28,3036.09,No,Monthly
+CUST01178,2,📊 Standard Users,43.37,15.25,2481.99,No,Annual
+CUST01179,1,📊 Standard Users,50.02,33.94,1420.48,No,Monthly
+CUST01180,1,📊 Standard Users,55.13,47.17,2186.86,No,Monthly
+CUST01181,0,💰 Budget-Conscious,40.51,7.43,1064.19,No,Monthly
+CUST01182,0,💰 Budget-Conscious,37.36,7.22,1155.75,No,Monthly
+CUST01183,1,📊 Standard Users,56.54,25.64,512.65,No,Annual
+CUST01184,1,📊 Standard Users,57.41,37.89,1094.57,No,Monthly
+CUST01185,0,💰 Budget-Conscious,27.41,8.61,998.46,No,Monthly
+CUST01186,0,💰 Budget-Conscious,18.98,6.74,163.23,No,Monthly
+CUST01187,0,💰 Budget-Conscious,35.35,17.96,679.88,No,Quarterly
+CUST01188,1,📊 Standard Users,62.88,34.2,1989.04,No,Monthly
+CUST01189,2,📊 Standard Users,45.73,8.34,1945.1,No,Monthly
+CUST01190,3,⚠️ At-Risk,17.76,6.03,20.72,No,Quarterly
+CUST01191,2,📊 Standard Users,42.34,25.13,1940.61,No,Monthly
+CUST01192,0,💰 Budget-Conscious,44.96,13.8,744.9,No,Monthly
+CUST01193,0,💰 Budget-Conscious,15.0,3.88,892.5,No,Monthly
+CUST01194,0,💰 Budget-Conscious,45.36,13.82,157.26,No,Monthly
+CUST01195,3,⚠️ At-Risk,26.89,6.2,29.58,No,Annual
+CUST01196,0,💰 Budget-Conscious,17.47,5.22,393.0,No,Monthly
+CUST01197,1,📊 Standard Users,69.07,44.1,338.43,No,Monthly
+CUST01198,0,💰 Budget-Conscious,29.14,4.93,883.79,No,Monthly
+CUST01199,2,📊 Standard Users,33.33,13.79,1842.99,No,Quarterly
+CUST01200,0,💰 Budget-Conscious,33.19,16.15,589.75,No,Quarterly
+CUST01201,2,📊 Standard Users,45.03,12.3,1465.09,No,Monthly
+CUST01202,1,📊 Standard Users,57.66,52.41,1159.03,No,Quarterly
+CUST01203,2,📊 Standard Users,28.04,6.65,1396.3,No,Quarterly
+CUST01204,0,💰 Budget-Conscious,32.55,9.5,241.92,No,Annual
+CUST01205,2,📊 Standard Users,35.97,11.27,1050.23,No,Annual
+CUST01206,0,💰 Budget-Conscious,31.97,17.83,792.81,No,Monthly
+CUST01207,2,📊 Standard Users,40.16,15.92,1934.21,No,Monthly
+CUST01208,1,📊 Standard Users,53.92,38.03,1939.23,No,Monthly
+CUST01209,2,📊 Standard Users,33.66,14.04,1669.76,Yes,Monthly
+CUST01210,0,💰 Budget-Conscious,32.29,17.28,217.43,No,Annual
+CUST01211,2,📊 Standard Users,38.53,14.16,1737.69,No,Monthly
+CUST01212,2,📊 Standard Users,43.44,17.82,2458.87,No,Monthly
+CUST01213,0,💰 Budget-Conscious,42.43,18.87,502.11,No,Quarterly
+CUST01214,1,📊 Standard Users,53.8,51.07,2623.57,No,Monthly
+CUST01215,1,📊 Standard Users,74.06,29.85,2890.94,No,Monthly
+CUST01216,0,💰 Budget-Conscious,15.0,4.98,432.5,No,Monthly
+CUST01217,0,💰 Budget-Conscious,42.49,8.91,1066.48,No,Monthly
+CUST01218,0,💰 Budget-Conscious,26.36,8.65,223.14,No,Quarterly
+CUST01219,0,💰 Budget-Conscious,39.22,5.12,733.4,No,Monthly
+CUST01220,1,📊 Standard Users,58.21,51.83,275.54,No,Monthly
+CUST01221,1,📊 Standard Users,62.97,35.93,354.71,No,Monthly
+CUST01222,1,📊 Standard Users,63.67,39.18,1247.95,Yes,Monthly
+CUST01223,3,⚠️ At-Risk,52.35,33.34,52.35,No,Quarterly
+CUST01224,3,⚠️ At-Risk,42.39,15.16,168.15,No,Monthly
+CUST01225,1,📊 Standard Users,65.98,40.88,1502.1,No,Monthly
+CUST01226,0,💰 Budget-Conscious,47.77,6.82,555.78,No,Annual
+CUST01227,2,📊 Standard Users,41.39,11.74,2211.5,No,Quarterly
+CUST01228,1,📊 Standard Users,62.66,26.55,350.89,No,Monthly
+CUST01229,2,📊 Standard Users,40.41,17.24,2106.83,Yes,Quarterly
+CUST01230,1,📊 Standard Users,54.1,35.04,1576.18,Yes,Quarterly
+CUST01231,0,💰 Budget-Conscious,38.38,18.09,368.48,No,Quarterly
+CUST01232,2,📊 Standard Users,35.86,15.82,2062.98,No,Monthly
+CUST01233,0,💰 Budget-Conscious,26.04,7.12,808.11,No,Annual
+CUST01234,0,💰 Budget-Conscious,42.4,11.3,1016.08,No,Monthly
+CUST01235,3,⚠️ At-Risk,46.27,15.29,60.15,No,Monthly
+CUST01236,0,💰 Budget-Conscious,30.81,20.55,297.85,Yes,Monthly
+CUST01237,2,📊 Standard Users,41.25,19.55,2341.53,No,Monthly
+CUST01238,0,💰 Budget-Conscious,30.79,7.6,206.28,No,Annual
+CUST01239,0,💰 Budget-Conscious,28.85,2.96,891.32,No,Monthly
+CUST01240,3,⚠️ At-Risk,60.54,34.18,84.75,Yes,Monthly
+CUST01241,2,📊 Standard Users,44.7,13.83,1819.1,No,Annual
+CUST01242,1,📊 Standard Users,60.47,34.35,3416.64,No,Monthly
+CUST01243,2,📊 Standard Users,43.74,18.98,2404.11,No,Monthly
+CUST01244,0,💰 Budget-Conscious,44.66,16.45,521.08,Yes,Monthly
+CUST01245,2,📊 Standard Users,29.05,5.7,1328.66,No,Monthly
+CUST01246,1,📊 Standard Users,51.22,41.71,2844.39,No,Monthly
+CUST01247,0,💰 Budget-Conscious,41.7,20.37,497.58,No,Quarterly
+CUST01248,1,📊 Standard Users,87.66,4.44,2378.49,No,Monthly
+CUST01249,1,📊 Standard Users,61.31,31.13,1647.1,Yes,Monthly
+CUST01250,2,📊 Standard Users,43.15,10.59,1352.11,No,Quarterly
+CUST01251,2,📊 Standard Users,39.58,17.38,2115.1,No,Quarterly
+CUST01252,1,📊 Standard Users,60.02,30.38,2944.96,No,Monthly
+CUST01253,2,📊 Standard Users,31.26,15.38,1728.89,No,Monthly
+CUST01254,1,📊 Standard Users,62.09,43.52,2376.15,Yes,Monthly
+CUST01255,2,📊 Standard Users,28.69,3.79,1562.8,No,Monthly
+CUST01256,0,💰 Budget-Conscious,36.58,16.81,423.08,No,Monthly
+CUST01257,0,💰 Budget-Conscious,17.43,8.11,153.94,No,Monthly
+CUST01258,0,💰 Budget-Conscious,39.91,19.16,482.94,No,Annual
+CUST01259,0,💰 Budget-Conscious,48.75,7.07,658.11,No,Monthly
+CUST01260,2,📊 Standard Users,34.39,13.54,1733.01,No,Quarterly
+CUST01261,2,📊 Standard Users,31.06,16.78,1232.16,No,Monthly
+CUST01262,1,📊 Standard Users,53.79,40.53,1106.22,No,Quarterly
+CUST01263,2,📊 Standard Users,38.66,13.74,2062.08,No,Quarterly
+CUST01264,0,💰 Budget-Conscious,28.86,3.72,521.43,No,Annual
+CUST01265,1,📊 Standard Users,73.83,35.68,3319.84,No,Monthly
+CUST01266,2,📊 Standard Users,33.43,9.57,1529.95,No,Quarterly
+CUST01267,1,📊 Standard Users,62.08,46.0,1959.64,No,Monthly
+CUST01268,2,📊 Standard Users,28.49,8.74,1543.21,Yes,Quarterly
+CUST01269,2,📊 Standard Users,39.68,16.97,1854.18,No,Monthly
+CUST01270,1,📊 Standard Users,52.53,32.68,1579.53,No,Monthly
+CUST01271,2,📊 Standard Users,44.13,19.7,1885.93,No,Monthly
+CUST01272,0,💰 Budget-Conscious,48.66,18.86,484.94,No,Monthly
+CUST01273,0,💰 Budget-Conscious,36.92,13.62,1017.69,No,Monthly
+CUST01274,0,💰 Budget-Conscious,21.03,4.9,942.28,No,Monthly
+CUST01275,2,📊 Standard Users,46.72,11.95,1174.35,No,Annual
+CUST01276,2,📊 Standard Users,35.22,15.82,1430.0,No,Quarterly
+CUST01277,3,⚠️ At-Risk,37.31,16.49,42.29,No,Annual
+CUST01278,1,📊 Standard Users,55.53,27.2,1628.86,No,Monthly
+CUST01279,2,📊 Standard Users,37.47,9.63,1788.57,No,Annual
+CUST01280,0,💰 Budget-Conscious,29.33,2.35,104.61,No,Annual
+CUST01281,1,📊 Standard Users,51.6,39.17,2516.25,No,Quarterly
+CUST01282,0,💰 Budget-Conscious,45.14,14.94,907.25,No,Quarterly
+CUST01283,0,💰 Budget-Conscious,47.98,14.58,257.5,No,Monthly
+CUST01284,0,💰 Budget-Conscious,36.4,17.32,764.5,No,Annual
+CUST01285,1,📊 Standard Users,70.23,25.99,4218.72,No,Monthly
+CUST01286,2,📊 Standard Users,34.05,9.65,1242.79,No,Monthly
+CUST01287,1,📊 Standard Users,51.23,37.41,201.5,No,Monthly
+CUST01288,0,💰 Budget-Conscious,30.77,6.36,442.08,No,Annual
+CUST01289,0,💰 Budget-Conscious,19.51,4.48,211.35,No,Annual
+CUST01290,0,💰 Budget-Conscious,19.3,9.93,867.13,No,Annual
+CUST01291,0,💰 Budget-Conscious,29.85,2.3,641.85,No,Quarterly
+CUST01292,2,📊 Standard Users,35.12,12.85,1848.66,No,Monthly
+CUST01293,1,📊 Standard Users,77.59,13.77,2144.19,No,Monthly
+CUST01294,1,📊 Standard Users,55.48,32.66,3224.99,No,Monthly
+CUST01295,1,📊 Standard Users,56.83,54.67,3201.15,No,Monthly
+CUST01296,0,💰 Budget-Conscious,35.44,17.33,532.84,Yes,Monthly
+CUST01297,2,📊 Standard Users,45.92,11.93,1646.99,No,Monthly
+CUST01298,1,📊 Standard Users,79.59,56.81,1602.46,No,Monthly
+CUST01299,0,💰 Budget-Conscious,25.28,1.52,144.97,No,Annual
+CUST01300,1,📊 Standard Users,51.84,39.54,1766.14,No,Monthly
+CUST01301,2,📊 Standard Users,47.89,15.32,1107.86,No,Annual
+CUST01302,0,💰 Budget-Conscious,49.66,13.76,288.02,Yes,Quarterly
+CUST01303,1,📊 Standard Users,72.02,43.07,3068.18,No,Monthly
+CUST01304,2,📊 Standard Users,48.19,9.09,1664.26,No,Monthly
+CUST01305,1,📊 Standard Users,54.05,38.13,958.52,No,Monthly
+CUST01306,2,📊 Standard Users,46.65,15.93,1321.65,No,Monthly
+CUST01307,2,📊 Standard Users,45.33,10.64,2522.05,No,Quarterly
+CUST01308,0,💰 Budget-Conscious,31.27,24.75,138.64,No,Monthly
+CUST01309,1,📊 Standard Users,56.89,33.18,2070.62,No,Monthly
+CUST01310,0,💰 Budget-Conscious,49.41,14.31,373.9,No,Monthly
+CUST01311,2,📊 Standard Users,35.5,9.86,2010.56,No,Annual
+CUST01312,1,📊 Standard Users,57.46,33.37,1164.6,No,Quarterly
+CUST01313,0,💰 Budget-Conscious,37.35,26.67,522.85,No,Quarterly
+CUST01314,1,📊 Standard Users,63.12,32.47,2592.02,No,Monthly
+CUST01315,1,📊 Standard Users,53.07,40.19,1031.38,No,Quarterly
+CUST01316,2,📊 Standard Users,48.56,19.75,2429.39,Yes,Quarterly
+CUST01317,2,📊 Standard Users,30.35,14.09,1571.07,Yes,Quarterly
+CUST01318,2,📊 Standard Users,37.87,12.95,1348.27,No,Annual
+CUST01319,1,📊 Standard Users,74.38,39.72,4155.2,No,Monthly
+CUST01320,2,📊 Standard Users,20.45,4.52,1173.92,No,Annual
+CUST01321,2,📊 Standard Users,33.5,13.34,1498.51,No,Annual
+CUST01322,1,📊 Standard Users,62.43,44.4,1055.15,No,Monthly
+CUST01323,2,📊 Standard Users,43.27,14.65,1851.96,No,Monthly
+CUST01324,2,📊 Standard Users,41.48,21.07,1316.27,No,Annual
+CUST01325,1,📊 Standard Users,66.14,34.08,989.86,No,Monthly
+CUST01326,0,💰 Budget-Conscious,48.48,8.41,300.58,No,Monthly
+CUST01327,0,💰 Budget-Conscious,39.07,0.5,754.09,No,Annual
+CUST01328,2,📊 Standard Users,40.92,5.81,2037.75,No,Quarterly
+CUST01329,2,📊 Standard Users,49.47,6.67,1896.24,No,Monthly
+CUST01330,1,📊 Standard Users,61.03,37.67,2135.91,No,Quarterly
+CUST01331,2,📊 Standard Users,44.04,10.14,1506.19,No,Monthly
+CUST01332,2,📊 Standard Users,39.7,5.13,1937.49,No,Monthly
+CUST01333,1,📊 Standard Users,60.63,33.69,1980.46,Yes,Monthly
+CUST01334,0,💰 Budget-Conscious,31.57,9.59,334.65,No,Quarterly
+CUST01335,2,📊 Standard Users,35.78,17.32,1558.78,No,Monthly
+CUST01336,0,💰 Budget-Conscious,33.92,17.19,254.37,No,Quarterly
+CUST01337,0,💰 Budget-Conscious,37.44,17.72,782.52,Yes,Quarterly
+CUST01338,2,📊 Standard Users,41.82,2.21,2195.39,No,Monthly
+CUST01339,0,💰 Budget-Conscious,46.99,15.23,855.24,No,Quarterly
+CUST01340,2,📊 Standard Users,39.86,14.39,2243.05,No,Monthly
+CUST01341,2,📊 Standard Users,47.39,8.89,1412.36,No,Quarterly
+CUST01342,1,📊 Standard Users,57.96,13.63,2262.48,No,Monthly
+CUST01343,0,💰 Budget-Conscious,29.77,4.78,828.65,No,Annual
+CUST01344,1,📊 Standard Users,57.64,45.64,2328.68,No,Monthly
+CUST01345,1,📊 Standard Users,59.0,9.18,1659.9,No,Monthly
+CUST01346,0,💰 Budget-Conscious,22.39,3.33,191.81,No,Quarterly
+CUST01347,0,💰 Budget-Conscious,49.4,15.66,403.45,No,Monthly
+CUST01348,2,📊 Standard Users,37.4,20.62,1218.12,No,Monthly
+CUST01349,1,📊 Standard Users,53.03,31.88,3091.69,No,Quarterly
+CUST01350,3,⚠️ At-Risk,34.83,24.66,51.09,No,Quarterly
+CUST01351,0,💰 Budget-Conscious,26.61,1.41,1073.08,No,Quarterly
+CUST01352,2,📊 Standard Users,44.55,4.92,2526.14,No,Monthly
+CUST01353,2,📊 Standard Users,31.03,20.09,1359.13,No,Quarterly
+CUST01354,1,📊 Standard Users,57.74,11.5,2329.0,Yes,Monthly
+CUST01355,0,💰 Budget-Conscious,31.91,17.31,80.85,No,Quarterly
+CUST01356,0,💰 Budget-Conscious,39.82,13.53,468.61,No,Quarterly
+CUST01357,1,📊 Standard Users,68.19,25.99,1984.25,No,Monthly
+CUST01358,1,📊 Standard Users,61.48,30.73,3561.62,No,Monthly
+CUST01359,3,⚠️ At-Risk,52.17,22.11,276.49,No,Monthly
+CUST01360,2,📊 Standard Users,43.09,13.41,2102.61,Yes,Monthly
+CUST01361,1,📊 Standard Users,50.74,35.17,209.74,No,Monthly
+CUST01362,1,📊 Standard Users,55.33,30.84,1209.99,No,Monthly
+CUST01363,0,💰 Budget-Conscious,30.13,12.08,787.5,No,Quarterly
+CUST01364,1,📊 Standard Users,57.77,37.54,2590.02,Yes,Monthly
+CUST01365,0,💰 Budget-Conscious,26.19,8.32,718.38,No,Annual
+CUST01366,1,📊 Standard Users,53.59,32.34,2386.4,No,Monthly
+CUST01367,0,💰 Budget-Conscious,28.93,6.64,94.51,No,Quarterly
+CUST01368,1,📊 Standard Users,59.63,25.34,3404.76,No,Quarterly
+CUST01369,3,⚠️ At-Risk,56.45,21.66,75.27,No,Monthly
+CUST01370,0,💰 Budget-Conscious,21.66,5.91,943.64,Yes,Monthly
+CUST01371,2,📊 Standard Users,39.99,13.83,1201.06,Yes,Quarterly
+CUST01372,0,💰 Budget-Conscious,37.18,20.65,717.55,No,Monthly
+CUST01373,0,💰 Budget-Conscious,29.88,7.65,1182.34,No,Annual
+CUST01374,2,📊 Standard Users,47.21,19.2,1166.0,No,Monthly
+CUST01375,0,💰 Budget-Conscious,27.58,6.63,47.8,No,Annual
+CUST01376,2,📊 Standard Users,56.42,0.75,1587.34,No,Monthly
+CUST01377,0,💰 Budget-Conscious,47.05,17.22,588.08,No,Quarterly
+CUST01378,0,💰 Budget-Conscious,43.51,19.31,480.11,No,Quarterly
+CUST01379,0,💰 Budget-Conscious,39.8,8.64,520.12,No,Quarterly
+CUST01380,1,📊 Standard Users,54.9,35.09,777.71,No,Monthly
+CUST01381,0,💰 Budget-Conscious,47.91,9.79,394.49,No,Quarterly
+CUST01382,1,📊 Standard Users,51.82,45.28,293.67,No,Monthly
+CUST01383,2,📊 Standard Users,26.88,3.09,1495.49,No,Quarterly
+CUST01384,0,💰 Budget-Conscious,33.17,11.04,1091.43,Yes,Monthly
+CUST01385,2,📊 Standard Users,32.86,12.68,1383.22,No,Annual
+CUST01386,0,💰 Budget-Conscious,22.86,9.5,772.77,No,Monthly
+CUST01387,2,📊 Standard Users,36.79,20.02,1253.38,No,Annual
+CUST01388,2,📊 Standard Users,46.29,23.06,2585.96,No,Annual
+CUST01389,2,📊 Standard Users,45.01,5.93,2504.25,No,Annual
+CUST01390,1,📊 Standard Users,56.09,22.31,1602.43,No,Monthly
+CUST01391,1,📊 Standard Users,55.92,48.39,1327.07,No,Monthly
+CUST01392,2,📊 Standard Users,52.72,17.4,2658.96,No,Annual
+CUST01393,1,📊 Standard Users,57.66,28.28,1985.36,No,Monthly
+CUST01394,1,📊 Standard Users,58.88,55.55,755.68,No,Monthly
+CUST01395,0,💰 Budget-Conscious,25.61,3.07,885.28,Yes,Quarterly
+CUST01396,1,📊 Standard Users,53.33,16.79,2447.76,No,Quarterly
+CUST01397,1,📊 Standard Users,50.98,35.47,2015.31,No,Monthly
+CUST01398,2,📊 Standard Users,39.2,6.1,1198.28,No,Quarterly
+CUST01399,0,💰 Budget-Conscious,32.38,21.19,168.37,No,Annual
+CUST01400,2,📊 Standard Users,36.77,10.53,1420.59,No,Monthly
+CUST01401,2,📊 Standard Users,45.05,9.52,1558.88,No,Annual
+CUST01402,0,💰 Budget-Conscious,44.57,15.15,940.52,No,Monthly
+CUST01403,2,📊 Standard Users,37.32,12.98,1780.39,No,Monthly
+CUST01404,2,📊 Standard Users,33.43,16.26,1162.14,No,Monthly
+CUST01405,0,💰 Budget-Conscious,47.56,17.61,126.82,Yes,Monthly
+CUST01406,2,📊 Standard Users,32.12,13.91,1158.57,No,Annual
+CUST01407,2,📊 Standard Users,36.18,9.19,1827.28,No,Monthly
+CUST01408,0,💰 Budget-Conscious,24.27,6.46,1091.24,Yes,Monthly
+CUST01409,1,📊 Standard Users,59.39,28.07,2672.57,No,Monthly
+CUST01410,2,📊 Standard Users,38.62,10.65,2290.15,No,Quarterly
+CUST01411,0,💰 Budget-Conscious,29.15,5.29,785.04,No,Quarterly
+CUST01412,2,📊 Standard Users,40.93,5.36,1992.0,No,Monthly
+CUST01413,1,📊 Standard Users,53.24,38.91,3233.26,No,Monthly
+CUST01414,0,💰 Budget-Conscious,35.23,15.98,989.98,No,Annual
+CUST01415,2,📊 Standard Users,47.86,20.61,2658.1,No,Monthly
+CUST01416,2,📊 Standard Users,45.64,12.5,2218.02,No,Monthly
+CUST01417,0,💰 Budget-Conscious,25.85,7.65,1205.34,No,Monthly
+CUST01418,2,📊 Standard Users,49.49,17.65,2762.92,No,Quarterly
+CUST01419,0,💰 Budget-Conscious,19.38,4.95,290.0,Yes,Monthly
+CUST01420,1,📊 Standard Users,51.92,53.17,2137.5,No,Monthly
+CUST01421,1,📊 Standard Users,54.23,35.95,1829.48,No,Monthly
+CUST01422,0,💰 Budget-Conscious,33.24,12.41,946.27,No,Annual
+CUST01423,1,📊 Standard Users,50.3,36.24,1767.25,No,Monthly
+CUST01424,0,💰 Budget-Conscious,37.23,12.31,739.61,No,Quarterly
+CUST01425,1,📊 Standard Users,50.48,38.74,673.1,No,Monthly
+CUST01426,1,📊 Standard Users,59.89,48.21,1926.59,No,Monthly
+CUST01427,0,💰 Budget-Conscious,32.08,14.96,737.81,No,Quarterly
+CUST01428,1,📊 Standard Users,55.11,35.9,2726.08,No,Monthly
+CUST01429,2,📊 Standard Users,48.54,18.99,1614.74,No,Annual
+CUST01430,2,📊 Standard Users,37.12,20.94,1685.09,No,Annual
+CUST01431,2,📊 Standard Users,30.98,12.74,1228.68,No,Annual
+CUST01432,1,📊 Standard Users,78.95,36.72,607.9,No,Monthly
+CUST01433,2,📊 Standard Users,40.89,19.01,2029.36,No,Quarterly
+CUST01434,0,💰 Budget-Conscious,48.47,16.65,552.59,No,Monthly
+CUST01435,0,💰 Budget-Conscious,37.02,5.69,180.16,No,Annual
+CUST01436,2,📊 Standard Users,44.48,19.91,2548.63,No,Quarterly
+CUST01437,0,💰 Budget-Conscious,32.29,17.61,1039.71,No,Annual
+CUST01438,0,💰 Budget-Conscious,47.85,17.97,963.38,No,Monthly
+CUST01439,1,📊 Standard Users,59.28,23.08,539.47,No,Monthly
+CUST01440,0,💰 Budget-Conscious,39.4,15.76,743.33,Yes,Monthly
+CUST01441,2,📊 Standard Users,35.8,19.22,1974.97,No,Quarterly
+CUST01442,0,💰 Budget-Conscious,40.62,10.6,140.81,Yes,Monthly
+CUST01443,0,💰 Budget-Conscious,28.53,3.76,394.71,No,Monthly
+CUST01444,2,📊 Standard Users,33.17,19.3,1396.52,No,Quarterly
+CUST01445,0,💰 Budget-Conscious,32.76,11.66,550.44,No,Quarterly
+CUST01446,0,💰 Budget-Conscious,44.99,13.96,670.38,No,Monthly
+CUST01447,0,💰 Budget-Conscious,48.36,9.83,606.13,No,Quarterly
+CUST01448,1,📊 Standard Users,66.81,53.2,3522.89,No,Monthly
+CUST01449,0,💰 Budget-Conscious,45.86,17.6,1022.63,Yes,Monthly
+CUST01450,1,📊 Standard Users,51.85,32.45,1672.93,No,Monthly
+CUST01451,2,📊 Standard Users,48.65,12.79,1595.75,No,Monthly
+CUST01452,0,💰 Budget-Conscious,15.0,2.54,452.5,No,Monthly
+CUST01453,0,💰 Budget-Conscious,28.52,4.78,752.96,No,Quarterly
+CUST01454,1,📊 Standard Users,56.42,41.65,2316.94,Yes,Monthly
+CUST01455,1,📊 Standard Users,57.88,26.9,2382.61,No,Monthly
+CUST01456,0,💰 Budget-Conscious,41.68,15.53,962.92,No,Annual
+CUST01457,3,⚠️ At-Risk,42.33,13.16,76.2,No,Monthly
+CUST01458,0,💰 Budget-Conscious,15.08,7.76,619.68,No,Monthly
+CUST01459,0,💰 Budget-Conscious,29.71,3.73,731.97,No,Quarterly
+CUST01460,2,📊 Standard Users,28.0,6.55,1450.19,No,Annual
+CUST01461,2,📊 Standard Users,46.29,21.97,1873.11,No,Quarterly
+CUST01462,0,💰 Budget-Conscious,36.43,13.11,250.13,Yes,Quarterly
+CUST01463,0,💰 Budget-Conscious,48.52,12.06,507.88,No,Annual
+CUST01464,3,⚠️ At-Risk,67.01,44.23,205.51,No,Monthly
+CUST01465,2,📊 Standard Users,48.39,6.09,1664.6,No,Annual
+CUST01466,0,💰 Budget-Conscious,31.25,17.15,719.84,No,Monthly
+CUST01467,0,💰 Budget-Conscious,38.93,7.12,901.81,No,Annual
+CUST01468,0,💰 Budget-Conscious,37.84,21.11,233.33,No,Monthly
+CUST01469,2,📊 Standard Users,43.28,13.74,2195.67,No,Quarterly
+CUST01470,0,💰 Budget-Conscious,32.92,14.55,1209.11,No,Monthly
+CUST01471,1,📊 Standard Users,52.26,27.76,1735.08,No,Quarterly
+CUST01472,0,💰 Budget-Conscious,33.2,7.09,971.54,No,Monthly
+CUST01473,0,💰 Budget-Conscious,19.42,7.53,736.1,No,Annual
+CUST01474,1,📊 Standard Users,51.27,33.29,2416.54,No,Annual
+CUST01475,1,📊 Standard Users,51.64,67.09,1235.86,Yes,Monthly
+CUST01476,0,💰 Budget-Conscious,26.45,3.38,156.04,No,Annual
+CUST01477,2,📊 Standard Users,38.38,11.77,2152.97,No,Quarterly
+CUST01478,0,💰 Budget-Conscious,34.23,10.51,423.33,No,Quarterly
+CUST01479,0,💰 Budget-Conscious,45.09,14.12,758.95,No,Monthly
+CUST01480,1,📊 Standard Users,57.04,50.75,2121.95,Yes,Monthly
+CUST01481,1,📊 Standard Users,54.69,45.1,3197.35,No,Monthly
+CUST01482,2,📊 Standard Users,48.81,7.48,2298.76,No,Monthly
+CUST01483,0,💰 Budget-Conscious,35.04,21.02,689.16,No,Annual
+CUST01484,1,📊 Standard Users,61.18,41.83,726.0,Yes,Monthly
+CUST01485,2,📊 Standard Users,19.6,5.96,1190.15,No,Annual
+CUST01486,2,📊 Standard Users,33.77,11.58,2013.58,No,Monthly
+CUST01487,2,📊 Standard Users,30.32,11.95,1206.74,No,Monthly
+CUST01488,1,📊 Standard Users,50.06,36.37,1700.46,No,Quarterly
+CUST01489,0,💰 Budget-Conscious,29.09,3.89,236.58,No,Annual
+CUST01490,0,💰 Budget-Conscious,25.71,7.63,397.66,Yes,Monthly
+CUST01491,1,📊 Standard Users,53.24,29.04,1740.95,Yes,Monthly
+CUST01492,0,💰 Budget-Conscious,31.37,5.27,786.31,No,Monthly
+CUST01493,2,📊 Standard Users,39.74,8.49,1816.08,No,Monthly
+CUST01494,1,📊 Standard Users,80.72,22.62,164.12,No,Monthly
+CUST01495,1,📊 Standard Users,56.81,32.37,1323.6,Yes,Monthly
+CUST01496,0,💰 Budget-Conscious,41.83,16.08,437.87,Yes,Monthly
+CUST01497,2,📊 Standard Users,38.79,15.27,1755.84,No,Quarterly
+CUST01498,1,📊 Standard Users,58.61,39.61,894.81,No,Monthly
+CUST01499,1,📊 Standard Users,54.94,32.48,2802.1,No,Monthly
+CUST01500,0,💰 Budget-Conscious,46.13,13.92,484.41,No,Monthly
+CUST01501,2,📊 Standard Users,41.04,23.76,1637.32,No,Quarterly
+CUST01502,0,💰 Budget-Conscious,23.16,7.41,1140.3,No,Annual
+CUST01503,0,💰 Budget-Conscious,19.65,5.82,702.15,No,Monthly
+CUST01504,3,⚠️ At-Risk,38.23,19.58,59.9,No,Quarterly
+CUST01505,0,💰 Budget-Conscious,35.5,5.37,944.32,No,Monthly
+CUST01506,1,📊 Standard Users,53.79,26.77,1109.89,No,Monthly
+CUST01507,2,📊 Standard Users,47.96,12.84,2276.39,No,Monthly
+CUST01508,2,📊 Standard Users,33.41,10.95,1367.52,No,Monthly
+CUST01509,2,📊 Standard Users,41.63,7.27,1441.85,No,Quarterly
+CUST01510,0,💰 Budget-Conscious,31.65,17.1,235.3,No,Annual
+CUST01511,1,📊 Standard Users,76.0,48.86,1345.18,No,Monthly
+CUST01512,2,📊 Standard Users,43.86,14.94,1486.94,No,Quarterly
+CUST01513,0,💰 Budget-Conscious,24.39,6.3,948.11,No,Quarterly
+CUST01514,1,📊 Standard Users,72.31,34.57,344.67,No,Monthly
+CUST01515,2,📊 Standard Users,35.5,12.79,1508.87,No,Monthly
+CUST01516,2,📊 Standard Users,30.38,19.6,1752.87,No,Monthly
+CUST01517,1,📊 Standard Users,77.16,20.72,2510.12,No,Monthly
+CUST01518,2,📊 Standard Users,50.19,16.37,1438.71,No,Monthly
+CUST01519,1,📊 Standard Users,55.51,20.58,3140.1,No,Monthly
+CUST01520,1,📊 Standard Users,56.0,43.54,2458.22,No,Monthly
+CUST01521,2,📊 Standard Users,37.94,15.44,1206.5,No,Quarterly
+CUST01522,3,⚠️ At-Risk,34.28,16.88,95.97,No,Quarterly
+CUST01523,2,📊 Standard Users,31.73,23.38,1793.57,No,Annual
+CUST01524,1,📊 Standard Users,69.13,23.37,1910.38,No,Monthly
+CUST01525,0,💰 Budget-Conscious,42.04,21.02,1130.82,No,Quarterly
+CUST01526,2,📊 Standard Users,45.5,13.02,2291.85,No,Annual
+CUST01527,0,💰 Budget-Conscious,39.24,12.26,249.8,No,Quarterly
+CUST01528,2,📊 Standard Users,33.67,15.41,1608.27,No,Monthly
+CUST01529,0,💰 Budget-Conscious,25.58,5.48,98.9,No,Quarterly
+CUST01530,3,⚠️ At-Risk,54.72,32.89,153.22,Yes,Monthly
+CUST01531,1,📊 Standard Users,70.41,41.1,3588.64,No,Monthly
+CUST01532,2,📊 Standard Users,31.71,15.43,1301.18,No,Monthly
+CUST01533,2,📊 Standard Users,45.13,14.0,2172.44,No,Quarterly
+CUST01534,0,💰 Budget-Conscious,24.37,4.17,1138.69,No,Monthly
+CUST01535,2,📊 Standard Users,30.55,16.19,1080.61,No,Annual
+CUST01536,2,📊 Standard Users,42.68,8.22,1226.32,No,Quarterly
+CUST01537,0,💰 Budget-Conscious,19.08,2.85,217.46,Yes,Monthly
+CUST01538,0,💰 Budget-Conscious,34.86,13.16,915.55,No,Annual
+CUST01539,0,💰 Budget-Conscious,32.45,17.72,510.54,No,Monthly
+CUST01540,2,📊 Standard Users,39.84,25.71,2416.84,No,Annual
+CUST01541,0,💰 Budget-Conscious,42.52,14.2,505.98,Yes,Monthly
+CUST01542,1,📊 Standard Users,59.09,17.26,2180.48,No,Monthly
+CUST01543,0,💰 Budget-Conscious,37.2,11.05,979.71,No,Quarterly
+CUST01544,0,💰 Budget-Conscious,26.38,6.32,1135.94,No,Quarterly
+CUST01545,0,💰 Budget-Conscious,25.13,3.06,1073.91,No,Quarterly
+CUST01546,0,💰 Budget-Conscious,19.73,2.39,399.82,No,Annual
+CUST01547,2,📊 Standard Users,46.33,18.27,1704.93,No,Quarterly
+CUST01548,1,📊 Standard Users,65.58,39.65,3632.98,No,Quarterly
+CUST01549,2,📊 Standard Users,38.48,7.64,2125.48,No,Annual
+CUST01550,1,📊 Standard Users,56.72,26.05,1958.75,Yes,Quarterly
+CUST01551,1,📊 Standard Users,62.0,47.45,2721.96,No,Monthly
+CUST01552,2,📊 Standard Users,30.85,19.26,1512.84,No,Annual
+CUST01553,1,📊 Standard Users,63.98,23.03,266.58,No,Monthly
+CUST01554,2,📊 Standard Users,35.21,5.06,1339.32,No,Quarterly
+CUST01555,2,📊 Standard Users,31.33,16.34,1181.15,No,Annual
+CUST01556,2,📊 Standard Users,37.91,13.52,1694.76,No,Quarterly
+CUST01557,2,📊 Standard Users,38.39,15.91,1500.97,No,Quarterly
+CUST01558,2,📊 Standard Users,46.61,18.17,1309.84,No,Quarterly
+CUST01559,0,💰 Budget-Conscious,34.94,10.22,605.57,Yes,Monthly
+CUST01560,0,💰 Budget-Conscious,42.11,12.84,675.21,No,Annual
+CUST01561,1,📊 Standard Users,58.12,26.01,3008.74,No,Monthly
+CUST01562,1,📊 Standard Users,50.14,26.37,324.27,No,Monthly
+CUST01563,1,📊 Standard Users,74.09,40.65,521.13,Yes,Monthly
+CUST01564,1,📊 Standard Users,64.31,36.44,1067.56,Yes,Monthly
+CUST01565,1,📊 Standard Users,61.05,19.37,1910.74,No,Monthly
+CUST01566,0,💰 Budget-Conscious,35.53,18.63,904.81,No,Annual
+CUST01567,1,📊 Standard Users,50.28,31.5,1427.85,No,Monthly
+CUST01568,1,📊 Standard Users,52.86,42.71,1714.33,No,Monthly
+CUST01569,3,⚠️ At-Risk,45.2,9.93,54.24,Yes,Monthly
+CUST01570,0,💰 Budget-Conscious,39.37,10.37,471.09,No,Monthly
+CUST01571,0,💰 Budget-Conscious,15.94,5.5,427.27,No,Quarterly
+CUST01572,1,📊 Standard Users,55.77,24.04,3208.43,Yes,Monthly
+CUST01573,1,📊 Standard Users,60.62,32.25,363.73,No,Monthly
+CUST01574,0,💰 Budget-Conscious,27.58,2.58,1046.32,No,Monthly
+CUST01575,1,📊 Standard Users,54.08,31.09,317.25,Yes,Monthly
+CUST01576,2,📊 Standard Users,36.13,14.84,2019.5,No,Monthly
+CUST01577,2,📊 Standard Users,39.5,15.08,1888.2,No,Monthly
+CUST01578,1,📊 Standard Users,53.11,31.35,1671.12,No,Quarterly
+CUST01579,2,📊 Standard Users,27.07,5.67,1444.9,No,Annual
+CUST01580,2,📊 Standard Users,30.12,15.74,1343.25,No,Monthly
+CUST01581,2,📊 Standard Users,49.44,14.55,1201.36,No,Annual
+CUST01582,3,⚠️ At-Risk,42.82,11.87,158.42,Yes,Monthly
+CUST01583,1,📊 Standard Users,63.7,45.68,1152.94,No,Monthly
+CUST01584,0,💰 Budget-Conscious,22.21,5.77,624.85,Yes,Annual
+CUST01585,0,💰 Budget-Conscious,22.22,2.93,546.64,No,Monthly
+CUST01586,2,📊 Standard Users,27.7,6.3,1454.99,No,Annual
+CUST01587,2,📊 Standard Users,37.78,19.38,975.93,No,Monthly
+CUST01588,0,💰 Budget-Conscious,23.95,4.84,839.87,No,Monthly
+CUST01589,1,📊 Standard Users,50.54,34.85,2424.21,No,Monthly
+CUST01590,0,💰 Budget-Conscious,44.35,4.71,1087.95,No,Quarterly
+CUST01591,0,💰 Budget-Conscious,31.02,10.78,516.98,No,Quarterly
+CUST01592,2,📊 Standard Users,31.81,19.22,1242.87,No,Quarterly
+CUST01593,0,💰 Budget-Conscious,34.7,11.09,491.56,No,Monthly
+CUST01594,2,📊 Standard Users,27.53,4.68,1454.33,No,Monthly
+CUST01595,0,💰 Budget-Conscious,15.0,3.28,145.0,No,Monthly
+CUST01596,2,📊 Standard Users,43.72,16.15,1215.54,No,Monthly
+CUST01597,0,💰 Budget-Conscious,31.56,16.97,1012.96,No,Annual
+CUST01598,2,📊 Standard Users,40.08,17.1,1748.73,No,Monthly
+CUST01599,2,📊 Standard Users,26.91,2.72,1602.68,No,Annual
+CUST01600,2,📊 Standard Users,41.48,15.53,1291.53,No,Annual
+CUST01601,1,📊 Standard Users,81.38,50.77,3469.54,No,Monthly
+CUST01602,2,📊 Standard Users,31.66,18.74,1167.17,No,Quarterly
+CUST01603,1,📊 Standard Users,66.0,35.93,2131.65,No,Monthly
+CUST01604,2,📊 Standard Users,50.5,15.69,2614.2,No,Monthly
+CUST01605,2,📊 Standard Users,45.53,13.75,2366.11,No,Monthly
+CUST01606,0,💰 Budget-Conscious,36.56,23.23,1076.05,No,Quarterly
+CUST01607,2,📊 Standard Users,43.75,21.59,2066.54,No,Monthly
+CUST01608,1,📊 Standard Users,62.24,39.61,2765.7,No,Monthly
+CUST01609,0,💰 Budget-Conscious,27.93,3.56,579.06,Yes,Monthly
+CUST01610,0,💰 Budget-Conscious,40.87,15.26,1012.33,No,Monthly
+CUST01611,1,📊 Standard Users,52.49,42.73,2118.85,No,Quarterly
+CUST01612,2,📊 Standard Users,49.84,19.7,1098.08,No,Quarterly
+CUST01613,3,⚠️ At-Risk,28.16,5.63,82.61,Yes,Monthly
+CUST01614,2,📊 Standard Users,42.26,19.28,2507.49,No,Monthly
+CUST01615,0,💰 Budget-Conscious,47.28,14.71,247.43,Yes,Quarterly
+CUST01616,1,📊 Standard Users,54.95,33.97,1401.26,No,Monthly
+CUST01617,2,📊 Standard Users,49.75,12.71,1243.78,No,Quarterly
+CUST01618,1,📊 Standard Users,50.76,39.25,1976.42,No,Monthly
+CUST01619,1,📊 Standard Users,53.28,45.0,2241.28,No,Monthly
+CUST01620,1,📊 Standard Users,50.14,42.08,927.63,No,Monthly
+CUST01621,1,📊 Standard Users,68.7,22.82,1259.43,No,Monthly
+CUST01622,0,💰 Budget-Conscious,35.78,9.18,692.98,Yes,Quarterly
+CUST01623,0,💰 Budget-Conscious,45.72,20.52,405.41,No,Monthly
+CUST01624,0,💰 Budget-Conscious,29.85,5.35,1327.34,No,Quarterly
+CUST01625,0,💰 Budget-Conscious,25.3,5.43,1190.97,No,Annual
+CUST01626,2,📊 Standard Users,49.87,15.97,2084.75,No,Monthly
+CUST01627,2,📊 Standard Users,32.76,23.76,1977.5,No,Quarterly
+CUST01628,2,📊 Standard Users,44.13,12.77,1958.11,No,Monthly
+CUST01629,1,📊 Standard Users,69.27,46.17,2973.83,Yes,Monthly
+CUST01630,1,📊 Standard Users,55.6,37.34,969.28,No,Quarterly
+CUST01631,3,⚠️ At-Risk,78.36,18.99,86.2,No,Monthly
+CUST01632,1,📊 Standard Users,56.38,26.75,1306.06,No,Quarterly
+CUST01633,1,📊 Standard Users,81.05,28.93,1272.41,No,Monthly
+CUST01634,3,⚠️ At-Risk,44.37,20.47,85.77,No,Quarterly
+CUST01635,0,💰 Budget-Conscious,27.78,7.45,1075.85,No,Annual
+CUST01636,0,💰 Budget-Conscious,27.0,5.71,575.03,No,Annual
+CUST01637,1,📊 Standard Users,53.96,29.77,3201.82,No,Quarterly
+CUST01638,2,📊 Standard Users,40.52,10.45,1126.35,No,Quarterly
+CUST01639,0,💰 Budget-Conscious,41.26,20.69,143.04,No,Quarterly
+CUST01640,0,💰 Budget-Conscious,34.51,8.58,997.32,No,Quarterly
+CUST01641,2,📊 Standard Users,38.56,14.48,1541.21,No,Monthly
+CUST01642,1,📊 Standard Users,50.76,58.64,265.63,No,Monthly
+CUST01643,3,⚠️ At-Risk,29.17,3.96,69.04,No,Monthly
+CUST01644,2,📊 Standard Users,37.06,8.64,1740.45,No,Annual
+CUST01645,1,📊 Standard Users,67.67,17.35,157.89,No,Monthly
+CUST01646,0,💰 Budget-Conscious,15.0,9.81,481.5,No,Monthly
+CUST01647,0,💰 Budget-Conscious,21.88,5.7,45.95,No,Monthly
+CUST01648,2,📊 Standard Users,46.76,10.65,1667.63,No,Quarterly
+CUST01649,1,📊 Standard Users,53.64,33.11,3093.22,No,Quarterly
+CUST01650,2,📊 Standard Users,37.65,11.69,1513.59,No,Monthly
+CUST01651,0,💰 Budget-Conscious,15.03,1.27,514.4,No,Monthly
+CUST01652,2,📊 Standard Users,46.46,18.94,2215.92,No,Annual
+CUST01653,0,💰 Budget-Conscious,32.83,15.17,675.29,Yes,Monthly
+CUST01654,2,📊 Standard Users,39.58,18.52,2179.61,No,Monthly
+CUST01655,2,📊 Standard Users,43.19,15.03,2421.54,No,Quarterly
+CUST01656,0,💰 Budget-Conscious,29.67,5.26,366.9,No,Annual
+CUST01657,0,💰 Budget-Conscious,31.86,3.83,59.47,No,Monthly
+CUST01658,2,📊 Standard Users,31.42,19.54,1403.52,No,Quarterly
+CUST01659,2,📊 Standard Users,49.86,9.56,1121.93,No,Annual
+CUST01660,1,📊 Standard Users,62.39,26.68,1580.65,No,Monthly
+CUST01661,0,💰 Budget-Conscious,39.6,12.36,260.01,No,Annual
+CUST01662,0,💰 Budget-Conscious,18.14,0.88,386.29,No,Quarterly
+CUST01663,0,💰 Budget-Conscious,45.78,12.09,453.24,No,Quarterly
+CUST01664,2,📊 Standard Users,45.24,11.74,2717.54,No,Quarterly
+CUST01665,0,💰 Budget-Conscious,25.83,4.24,731.79,No,Monthly
+CUST01666,0,💰 Budget-Conscious,48.88,6.49,788.61,No,Monthly
+CUST01667,1,📊 Standard Users,60.77,44.28,1894.07,Yes,Monthly
+CUST01668,1,📊 Standard Users,53.54,38.98,3101.78,No,Monthly
+CUST01669,2,📊 Standard Users,34.8,10.68,1686.52,No,Monthly
+CUST01670,2,📊 Standard Users,35.11,12.09,1112.86,No,Annual
+CUST01671,2,📊 Standard Users,40.84,19.19,1375.04,No,Annual
+CUST01672,2,📊 Standard Users,40.59,13.71,2068.97,No,Quarterly
+CUST01673,0,💰 Budget-Conscious,45.03,8.8,1097.34,No,Annual
+CUST01674,0,💰 Budget-Conscious,43.96,14.58,971.45,No,Quarterly
+CUST01675,1,📊 Standard Users,56.29,24.12,3022.98,No,Monthly
+CUST01676,1,📊 Standard Users,57.32,27.92,3112.53,No,Monthly
+CUST01677,0,💰 Budget-Conscious,29.0,4.9,153.7,No,Monthly
+CUST01678,2,📊 Standard Users,40.5,20.28,1416.15,No,Quarterly
+CUST01679,2,📊 Standard Users,40.01,25.12,1888.69,No,Monthly
+CUST01680,1,📊 Standard Users,50.44,48.63,2955.69,Yes,Quarterly
+CUST01681,1,📊 Standard Users,51.95,34.28,1468.41,No,Monthly
+CUST01682,0,💰 Budget-Conscious,38.12,26.29,917.37,No,Quarterly
+CUST01683,0,💰 Budget-Conscious,24.75,6.12,1109.41,No,Annual
+CUST01684,0,💰 Budget-Conscious,24.03,3.04,1140.67,No,Quarterly
+CUST01685,0,💰 Budget-Conscious,37.48,15.47,1028.28,No,Annual
+CUST01686,3,⚠️ At-Risk,29.26,3.69,56.57,No,Annual
+CUST01687,0,💰 Budget-Conscious,40.33,8.76,239.29,No,Annual
+CUST01688,0,💰 Budget-Conscious,21.85,2.65,982.74,No,Annual
+CUST01689,3,⚠️ At-Risk,47.74,14.26,63.66,No,Annual
+CUST01690,2,📊 Standard Users,46.64,18.77,2432.98,No,Quarterly
+CUST01691,2,📊 Standard Users,46.49,20.34,1092.46,No,Monthly
+CUST01692,1,📊 Standard Users,70.25,22.55,2730.22,No,Monthly
+CUST01693,0,💰 Budget-Conscious,49.48,13.48,356.29,No,Quarterly
+CUST01694,0,💰 Budget-Conscious,37.87,17.43,1055.45,No,Monthly
+CUST01695,2,📊 Standard Users,46.16,15.76,1189.48,No,Monthly
+CUST01696,0,💰 Budget-Conscious,19.29,6.39,822.86,No,Annual
+CUST01697,2,📊 Standard Users,43.51,12.83,1976.96,No,Annual
+CUST01698,0,💰 Budget-Conscious,32.63,21.36,138.14,No,Annual
+CUST01699,0,💰 Budget-Conscious,15.34,4.99,42.96,No,Monthly
+CUST01700,0,💰 Budget-Conscious,27.27,6.52,592.72,No,Monthly
+CUST01701,1,📊 Standard Users,58.06,31.19,1341.27,No,Monthly
+CUST01702,1,📊 Standard Users,69.21,35.58,1815.53,No,Monthly
+CUST01703,0,💰 Budget-Conscious,45.31,7.02,656.94,No,Monthly
+CUST01704,0,💰 Budget-Conscious,30.27,10.82,98.88,Yes,Monthly
+CUST01705,0,💰 Budget-Conscious,23.63,4.59,1075.35,No,Annual
+CUST01706,1,📊 Standard Users,54.15,36.0,2422.14,No,Quarterly
+CUST01707,1,📊 Standard Users,51.74,61.81,3130.39,No,Monthly
+CUST01708,2,📊 Standard Users,40.05,13.09,2137.22,No,Monthly
+CUST01709,0,💰 Budget-Conscious,36.48,8.12,948.37,No,Monthly
+CUST01710,1,📊 Standard Users,55.08,52.02,2204.93,No,Monthly
+CUST01711,2,📊 Standard Users,40.15,20.39,2034.5,No,Annual
+CUST01712,2,📊 Standard Users,31.55,9.22,1884.66,No,Monthly
+CUST01713,0,💰 Budget-Conscious,27.86,5.93,1204.67,No,Monthly
+CUST01714,2,📊 Standard Users,28.62,6.67,1473.05,No,Monthly
+CUST01715,2,📊 Standard Users,37.98,15.82,1249.43,No,Monthly
+CUST01716,2,📊 Standard Users,33.1,16.63,1721.31,No,Quarterly
+CUST01717,1,📊 Standard Users,56.18,28.68,737.84,No,Quarterly
+CUST01718,0,💰 Budget-Conscious,34.96,17.52,595.52,No,Quarterly
+CUST01719,0,💰 Budget-Conscious,26.26,4.02,201.29,No,Monthly
+CUST01720,0,💰 Budget-Conscious,28.07,0.5,171.2,No,Quarterly
+CUST01721,2,📊 Standard Users,38.16,15.98,1911.83,No,Quarterly
+CUST01722,0,💰 Budget-Conscious,20.42,1.65,1057.91,No,Annual
+CUST01723,0,💰 Budget-Conscious,44.1,20.07,149.93,No,Monthly
+CUST01724,0,💰 Budget-Conscious,24.96,2.74,617.27,No,Monthly
+CUST01725,0,💰 Budget-Conscious,51.59,10.47,558.85,No,Quarterly
+CUST01726,2,📊 Standard Users,41.17,6.15,1468.24,No,Quarterly
+CUST01727,1,📊 Standard Users,76.82,34.59,4337.51,No,Monthly
+CUST01728,2,📊 Standard Users,41.58,15.93,1760.09,Yes,Monthly
+CUST01729,0,💰 Budget-Conscious,15.0,2.17,45.0,No,Monthly
+CUST01730,2,📊 Standard Users,46.66,9.64,1505.61,No,Annual
+CUST01731,1,📊 Standard Users,52.53,34.92,2922.35,No,Monthly
+CUST01732,0,💰 Budget-Conscious,40.26,19.86,95.27,No,Annual
+CUST01733,3,⚠️ At-Risk,29.96,2.58,53.93,No,Monthly
+CUST01734,2,📊 Standard Users,34.66,16.9,1261.52,No,Annual
+CUST01735,0,💰 Budget-Conscious,36.49,6.31,194.62,No,Annual
+CUST01736,2,📊 Standard Users,41.43,16.58,2142.07,No,Monthly
+CUST01737,0,💰 Budget-Conscious,21.13,6.51,902.75,No,Annual
+CUST01738,1,📊 Standard Users,86.53,40.24,395.16,No,Monthly
+CUST01739,0,💰 Budget-Conscious,41.69,19.97,279.3,No,Annual
+CUST01740,2,📊 Standard Users,44.21,19.64,2192.61,No,Quarterly
+CUST01741,1,📊 Standard Users,64.71,53.47,3302.28,No,Monthly
+CUST01742,0,💰 Budget-Conscious,46.44,15.54,202.8,No,Quarterly
+CUST01743,0,💰 Budget-Conscious,29.58,8.7,882.54,No,Annual
+CUST01744,1,📊 Standard Users,63.75,25.56,1175.06,No,Monthly
+CUST01745,0,💰 Budget-Conscious,48.52,13.97,491.69,No,Quarterly
+CUST01746,2,📊 Standard Users,33.61,14.42,1866.32,No,Quarterly
+CUST01747,2,📊 Standard Users,41.32,9.79,1510.94,No,Annual
+CUST01748,0,💰 Budget-Conscious,41.39,3.2,1167.24,No,Monthly
+CUST01749,2,📊 Standard Users,48.13,19.35,1581.78,No,Monthly
+CUST01750,1,📊 Standard Users,53.99,25.7,1925.81,No,Monthly
+CUST01751,1,📊 Standard Users,53.68,30.99,642.43,No,Quarterly
+CUST01752,2,📊 Standard Users,35.31,22.92,1909.1,No,Monthly
+CUST01753,2,📊 Standard Users,37.92,17.86,1959.18,No,Annual
+CUST01754,3,⚠️ At-Risk,75.24,52.4,102.82,Yes,Monthly
+CUST01755,2,📊 Standard Users,38.24,15.6,1747.55,No,Quarterly
+CUST01756,2,📊 Standard Users,47.95,17.78,2629.17,No,Monthly
+CUST01757,1,📊 Standard Users,75.21,32.59,614.24,No,Monthly
+CUST01758,1,📊 Standard Users,54.56,26.51,669.3,No,Monthly
+CUST01759,0,💰 Budget-Conscious,22.89,6.1,526.48,No,Monthly
+CUST01760,0,💰 Budget-Conscious,32.05,12.82,1211.31,No,Quarterly
+CUST01761,2,📊 Standard Users,40.52,18.22,2403.99,No,Annual
+CUST01762,2,📊 Standard Users,44.23,12.15,2267.53,No,Quarterly
+CUST01763,0,💰 Budget-Conscious,36.3,14.12,487.64,No,Annual
+CUST01764,1,📊 Standard Users,52.29,34.05,1751.71,No,Annual
+CUST01765,0,💰 Budget-Conscious,33.83,20.38,833.23,No,Quarterly
+CUST01766,2,📊 Standard Users,34.4,12.88,1436.97,No,Annual
+CUST01767,0,💰 Budget-Conscious,20.37,7.37,1079.55,No,Quarterly
+CUST01768,1,📊 Standard Users,62.41,25.95,1029.76,No,Monthly
+CUST01769,2,📊 Standard Users,32.01,16.35,1218.57,No,Quarterly
+CUST01770,1,📊 Standard Users,60.86,28.12,2679.74,No,Monthly
+CUST01771,2,📊 Standard Users,49.52,20.58,2819.36,No,Quarterly
+CUST01772,1,📊 Standard Users,63.49,26.81,3436.98,No,Quarterly
+CUST01773,1,📊 Standard Users,54.74,27.83,945.16,No,Monthly
+CUST01774,2,📊 Standard Users,39.66,8.72,2103.23,No,Monthly
+CUST01775,0,💰 Budget-Conscious,38.63,15.52,97.86,No,Annual
+CUST01776,2,📊 Standard Users,32.41,17.96,1448.61,Yes,Quarterly
+CUST01777,2,📊 Standard Users,49.79,17.42,1339.28,No,Monthly
+CUST01778,2,📊 Standard Users,37.99,14.28,1353.75,No,Quarterly
+CUST01779,0,💰 Budget-Conscious,39.3,11.7,969.32,No,Quarterly
+CUST01780,0,💰 Budget-Conscious,31.52,13.61,451.85,No,Monthly
+CUST01781,2,📊 Standard Users,37.4,13.8,1259.25,No,Annual
+CUST01782,2,📊 Standard Users,48.24,16.26,1831.6,No,Quarterly
+CUST01783,0,💰 Budget-Conscious,20.22,5.37,188.03,No,Monthly
+CUST01784,0,💰 Budget-Conscious,29.49,8.48,412.88,No,Annual
+CUST01785,0,💰 Budget-Conscious,36.34,15.2,440.98,No,Annual
+CUST01786,0,💰 Budget-Conscious,15.0,5.72,329.0,No,Monthly
+CUST01787,1,📊 Standard Users,71.1,35.71,3725.85,Yes,Monthly
+CUST01788,0,💰 Budget-Conscious,34.33,13.37,189.98,No,Monthly
+CUST01789,0,💰 Budget-Conscious,30.62,16.77,930.82,No,Quarterly
+CUST01790,0,💰 Budget-Conscious,37.93,12.9,906.45,No,Quarterly
+CUST01791,2,📊 Standard Users,41.37,14.71,2139.02,No,Quarterly
+CUST01792,0,💰 Budget-Conscious,28.95,7.32,825.99,No,Annual
+CUST01793,2,📊 Standard Users,49.8,12.57,1255.06,No,Quarterly
+CUST01794,1,📊 Standard Users,51.0,38.87,2600.78,No,Monthly
+CUST01795,0,💰 Budget-Conscious,32.44,2.59,673.7,No,Monthly
+CUST01796,2,📊 Standard Users,37.16,14.07,1580.71,No,Monthly
+CUST01797,0,💰 Budget-Conscious,22.25,4.02,755.71,No,Monthly
+CUST01798,0,💰 Budget-Conscious,27.47,5.24,367.14,No,Quarterly
+CUST01799,2,📊 Standard Users,38.1,13.82,1224.31,No,Annual
+CUST01800,0,💰 Budget-Conscious,32.6,15.71,1112.65,Yes,Monthly
+CUST01801,1,📊 Standard Users,58.04,31.21,833.88,Yes,Quarterly
+CUST01802,2,📊 Standard Users,40.71,16.93,2030.03,No,Quarterly
+CUST01803,0,💰 Budget-Conscious,24.71,1.57,1270.8,No,Monthly
+CUST01804,0,💰 Budget-Conscious,27.85,5.22,597.84,No,Monthly
+CUST01805,1,📊 Standard Users,60.79,25.63,2687.12,Yes,Monthly
+CUST01806,2,📊 Standard Users,43.85,20.84,2308.09,No,Monthly
+CUST01807,2,📊 Standard Users,42.94,10.23,1734.61,No,Annual
+CUST01808,2,📊 Standard Users,39.5,19.98,1586.69,No,Monthly
+CUST01809,2,📊 Standard Users,36.6,14.94,1249.16,No,Monthly
+CUST01810,2,📊 Standard Users,61.79,16.71,1336.76,Yes,Monthly
+CUST01811,0,💰 Budget-Conscious,28.13,3.25,203.48,No,Annual
+CUST01812,1,📊 Standard Users,52.34,43.48,2007.95,No,Monthly
+CUST01813,0,💰 Budget-Conscious,41.82,18.96,223.06,No,Monthly
+CUST01814,1,📊 Standard Users,58.18,22.01,1617.43,No,Monthly
+CUST01815,1,📊 Standard Users,72.28,50.63,2948.91,No,Monthly
+CUST01816,2,📊 Standard Users,39.12,14.88,1258.27,No,Monthly
+CUST01817,0,💰 Budget-Conscious,34.53,19.42,1168.22,No,Quarterly
+CUST01818,1,📊 Standard Users,54.99,22.88,388.58,No,Monthly
+CUST01819,0,💰 Budget-Conscious,28.77,4.09,970.51,Yes,Monthly
+CUST01820,0,💰 Budget-Conscious,47.93,17.08,627.91,No,Annual
+CUST01821,1,📊 Standard Users,66.69,31.87,151.16,No,Monthly
+CUST01822,2,📊 Standard Users,30.01,0.5,1580.7,No,Monthly
+CUST01823,0,💰 Budget-Conscious,21.25,4.62,372.64,No,Monthly
+CUST01824,2,📊 Standard Users,25.72,1.07,1344.91,No,Annual
+CUST01825,0,💰 Budget-Conscious,27.82,2.86,1300.1,No,Monthly
+CUST01826,2,📊 Standard Users,41.41,7.99,1395.65,No,Annual
+CUST01827,1,📊 Standard Users,55.49,46.33,1757.24,No,Quarterly
+CUST01828,1,📊 Standard Users,56.85,49.46,2747.84,Yes,Monthly
+CUST01829,0,💰 Budget-Conscious,33.11,16.71,828.87,No,Annual
+CUST01830,1,📊 Standard Users,50.14,32.7,2028.9,No,Monthly
+CUST01831,0,💰 Budget-Conscious,31.95,15.14,47.93,Yes,Monthly
+CUST01832,0,💰 Budget-Conscious,43.78,20.66,761.73,No,Annual
+CUST01833,2,📊 Standard Users,44.32,5.08,2184.99,No,Quarterly
+CUST01834,2,📊 Standard Users,47.73,9.62,1847.23,No,Quarterly
+CUST01835,2,📊 Standard Users,34.09,20.02,1048.74,No,Monthly
+CUST01836,2,📊 Standard Users,42.47,21.06,2127.8,No,Monthly
+CUST01837,0,💰 Budget-Conscious,47.25,17.95,535.51,Yes,Quarterly
+CUST01838,1,📊 Standard Users,66.65,24.55,1706.31,No,Monthly
+CUST01839,2,📊 Standard Users,35.88,19.95,1462.65,No,Monthly
+CUST01840,1,📊 Standard Users,56.71,48.61,1086.88,No,Monthly
+CUST01841,0,💰 Budget-Conscious,34.32,18.59,506.78,No,Monthly
+CUST01842,0,💰 Budget-Conscious,51.94,10.06,484.75,No,Annual
+CUST01843,2,📊 Standard Users,38.78,15.62,1018.56,No,Monthly
+CUST01844,2,📊 Standard Users,40.15,17.93,1597.89,No,Annual
+CUST01845,2,📊 Standard Users,47.48,12.42,2100.38,Yes,Monthly
+CUST01846,1,📊 Standard Users,66.05,36.87,3234.4,No,Quarterly
+CUST01847,2,📊 Standard Users,48.45,12.43,2682.43,No,Monthly
+CUST01848,2,📊 Standard Users,37.27,10.69,2226.51,No,Monthly
+CUST01849,1,📊 Standard Users,54.59,50.11,1987.17,No,Monthly
+CUST01850,1,📊 Standard Users,54.26,37.15,1524.67,No,Monthly
+CUST01851,0,💰 Budget-Conscious,42.64,9.47,82.43,No,Monthly
+CUST01852,0,💰 Budget-Conscious,26.24,2.25,863.36,No,Annual
+CUST01853,0,💰 Budget-Conscious,34.72,10.7,585.61,Yes,Quarterly
+CUST01854,1,📊 Standard Users,58.22,26.44,673.44,No,Monthly
+CUST01855,0,💰 Budget-Conscious,18.79,5.29,171.6,No,Monthly
+CUST01856,2,📊 Standard Users,41.28,17.43,1069.13,No,Monthly
+CUST01857,2,📊 Standard Users,49.95,17.42,1208.76,No,Quarterly
+CUST01858,0,💰 Budget-Conscious,39.07,11.25,391.95,No,Quarterly
+CUST01859,1,📊 Standard Users,52.39,44.21,2607.26,No,Annual
+CUST01860,2,📊 Standard Users,18.83,7.46,1130.44,Yes,Monthly
+CUST01861,2,📊 Standard Users,30.58,13.7,1316.96,No,Monthly
+CUST01862,0,💰 Budget-Conscious,15.0,2.94,203.0,Yes,Monthly
+CUST01863,1,📊 Standard Users,59.94,36.0,589.38,No,Quarterly
+CUST01864,0,💰 Budget-Conscious,30.55,25.8,972.51,No,Quarterly
+CUST01865,0,💰 Budget-Conscious,20.13,2.88,637.47,No,Quarterly
+CUST01866,2,📊 Standard Users,33.88,12.37,1594.66,No,Quarterly
+CUST01867,0,💰 Budget-Conscious,24.11,5.11,296.53,Yes,Monthly
+CUST01868,0,💰 Budget-Conscious,33.95,17.71,473.07,No,Quarterly
+CUST01869,0,💰 Budget-Conscious,45.62,5.07,921.49,No,Monthly
+CUST01870,2,📊 Standard Users,48.05,21.53,2790.06,No,Quarterly
+CUST01871,3,⚠️ At-Risk,42.38,21.46,45.21,No,Monthly
+CUST01872,2,📊 Standard Users,45.38,12.88,2241.74,No,Monthly
+CUST01873,2,📊 Standard Users,30.35,28.53,1208.83,No,Annual
+CUST01874,0,💰 Budget-Conscious,22.91,7.46,309.24,No,Annual
+CUST01875,2,📊 Standard Users,20.23,7.35,1161.74,No,Annual
+CUST01876,0,💰 Budget-Conscious,39.53,20.94,465.17,No,Monthly
+CUST01877,0,💰 Budget-Conscious,40.85,20.79,238.27,No,Quarterly
+CUST01878,0,💰 Budget-Conscious,38.42,14.89,412.38,No,Monthly
+CUST01879,2,📊 Standard Users,20.53,4.76,1175.42,No,Annual
+CUST01880,0,💰 Budget-Conscious,48.02,10.28,737.92,No,Monthly
+CUST01881,2,📊 Standard Users,48.03,12.11,1175.24,No,Annual
+CUST01882,0,💰 Budget-Conscious,34.08,13.45,1111.1,No,Annual
+CUST01883,0,💰 Budget-Conscious,34.2,15.33,700.06,No,Quarterly
+CUST01884,0,💰 Budget-Conscious,44.09,22.99,629.05,Yes,Monthly
+CUST01885,0,💰 Budget-Conscious,28.43,0.8,801.85,No,Monthly
+CUST01886,0,💰 Budget-Conscious,25.65,7.69,1194.38,No,Annual
+CUST01887,1,📊 Standard Users,51.77,24.88,1713.63,No,Monthly
+CUST01888,2,📊 Standard Users,42.92,14.48,1706.89,Yes,Annual
+CUST01889,0,💰 Budget-Conscious,42.79,11.38,308.11,No,Monthly
+CUST01890,3,⚠️ At-Risk,15.39,8.71,46.18,No,Monthly
+CUST01891,2,📊 Standard Users,37.83,12.5,1220.54,No,Annual
+CUST01892,1,📊 Standard Users,60.67,40.21,2898.19,No,Quarterly
+CUST01893,0,💰 Budget-Conscious,37.56,17.87,925.25,No,Quarterly
+CUST01894,0,💰 Budget-Conscious,38.22,9.2,1065.11,No,Quarterly
+CUST01895,2,📊 Standard Users,31.91,14.52,1588.08,No,Monthly
+CUST01896,2,📊 Standard Users,44.81,21.02,2049.47,Yes,Quarterly
+CUST01897,2,📊 Standard Users,34.94,10.63,1577.91,No,Monthly
+CUST01898,2,📊 Standard Users,43.17,19.14,2010.38,No,Annual
+CUST01899,0,💰 Budget-Conscious,29.74,4.34,39.65,No,Annual
+CUST01900,1,📊 Standard Users,50.13,46.64,1863.05,No,Monthly
+CUST01901,0,💰 Budget-Conscious,39.54,23.74,336.06,No,Quarterly
+CUST01902,2,📊 Standard Users,55.55,14.92,2233.15,No,Quarterly
+CUST01903,1,📊 Standard Users,51.14,21.62,3007.16,Yes,Monthly
+CUST01904,0,💰 Budget-Conscious,46.1,12.81,911.17,No,Annual
+CUST01905,2,📊 Standard Users,46.63,22.33,1245.0,No,Monthly
+CUST01906,2,📊 Standard Users,42.44,17.66,2297.36,No,Monthly
+CUST01907,2,📊 Standard Users,44.43,8.78,2424.24,No,Monthly
+CUST01908,2,📊 Standard Users,33.43,18.39,1908.79,No,Monthly
+CUST01909,2,📊 Standard Users,45.32,10.43,2459.19,No,Quarterly
+CUST01910,2,📊 Standard Users,33.1,19.35,1503.68,Yes,Quarterly
+CUST01911,2,📊 Standard Users,41.12,17.69,1252.93,No,Quarterly
+CUST01912,2,📊 Standard Users,48.55,10.41,2097.45,No,Quarterly
+CUST01913,1,📊 Standard Users,68.75,34.34,3543.08,No,Monthly
+CUST01914,2,📊 Standard Users,47.44,21.12,2244.05,No,Monthly
+CUST01915,2,📊 Standard Users,57.92,16.08,2670.02,No,Monthly
+CUST01916,1,📊 Standard Users,56.13,38.01,2170.29,No,Monthly
+CUST01917,0,💰 Budget-Conscious,36.18,9.47,307.5,No,Quarterly
+CUST01918,1,📊 Standard Users,76.62,34.84,2181.03,No,Monthly
+CUST01919,0,💰 Budget-Conscious,36.36,17.29,299.33,Yes,Monthly
+CUST01920,2,📊 Standard Users,46.36,25.07,1492.95,Yes,Monthly
+CUST01921,2,📊 Standard Users,46.63,14.87,1215.57,No,Annual
+CUST01922,0,💰 Budget-Conscious,46.44,22.33,828.1,No,Annual
+CUST01923,0,💰 Budget-Conscious,40.14,10.8,385.37,No,Quarterly
+CUST01924,2,📊 Standard Users,42.92,12.52,2246.32,No,Annual
+CUST01925,0,💰 Budget-Conscious,37.76,17.94,104.47,Yes,Quarterly
+CUST01926,2,📊 Standard Users,35.11,16.01,1287.48,No,Quarterly
+CUST01927,0,💰 Budget-Conscious,26.81,4.34,675.57,No,Monthly
+CUST01928,2,📊 Standard Users,47.24,13.22,1130.58,No,Quarterly
+CUST01929,2,📊 Standard Users,48.29,21.67,2533.73,No,Quarterly
+CUST01930,2,📊 Standard Users,34.32,13.56,1317.93,No,Quarterly
+CUST01931,2,📊 Standard Users,42.68,9.9,1526.56,Yes,Quarterly
+CUST01932,1,📊 Standard Users,84.76,26.45,5102.84,No,Monthly
+CUST01933,1,📊 Standard Users,51.47,41.7,2789.5,No,Quarterly
+CUST01934,2,📊 Standard Users,27.79,9.51,1429.24,No,Annual
+CUST01935,1,📊 Standard Users,60.02,29.76,896.35,No,Monthly
+CUST01936,0,💰 Budget-Conscious,31.03,25.74,743.72,No,Quarterly
+CUST01937,0,💰 Budget-Conscious,15.0,4.98,439.5,Yes,Monthly
+CUST01938,0,💰 Budget-Conscious,39.8,13.6,120.71,Yes,Quarterly
+CUST01939,1,📊 Standard Users,55.63,25.9,2221.57,No,Quarterly
+CUST01940,1,📊 Standard Users,65.96,33.02,538.69,No,Monthly
+CUST01941,0,💰 Budget-Conscious,43.77,11.22,46.69,No,Quarterly
+CUST01942,0,💰 Budget-Conscious,36.87,10.82,232.31,No,Monthly
+CUST01943,2,📊 Standard Users,44.86,6.74,2679.91,No,Quarterly
+CUST01944,2,📊 Standard Users,40.96,23.83,1105.99,No,Monthly
+CUST01945,2,📊 Standard Users,34.86,20.32,1363.16,No,Quarterly
+CUST01946,1,📊 Standard Users,60.93,37.72,1872.58,No,Monthly
+CUST01947,2,📊 Standard Users,34.74,14.28,1322.42,No,Quarterly
+CUST01948,1,📊 Standard Users,61.91,34.94,738.78,No,Monthly
+CUST01949,0,💰 Budget-Conscious,30.26,11.12,614.33,No,Annual
+CUST01950,1,📊 Standard Users,51.47,23.66,2418.99,No,Annual
+CUST01951,2,📊 Standard Users,21.87,6.43,1212.6,No,Annual
+CUST01952,2,📊 Standard Users,30.43,13.69,1339.02,No,Quarterly
+CUST01953,2,📊 Standard Users,38.45,16.63,2140.18,No,Quarterly
+CUST01954,0,💰 Budget-Conscious,15.24,1.68,498.33,No,Monthly
+CUST01955,0,💰 Budget-Conscious,15.0,4.37,688.0,No,Monthly
+CUST01956,0,💰 Budget-Conscious,15.37,2.69,340.16,No,Monthly
+CUST01957,2,📊 Standard Users,37.08,17.42,1256.98,No,Quarterly
+CUST01958,2,📊 Standard Users,32.87,19.98,1746.3,No,Annual
+CUST01959,2,📊 Standard Users,49.99,22.3,2836.38,No,Monthly
+CUST01960,2,📊 Standard Users,33.42,11.86,1390.44,No,Annual
+CUST01961,2,📊 Standard Users,43.0,9.36,1361.51,No,Quarterly
+CUST01962,0,💰 Budget-Conscious,35.5,12.91,907.56,Yes,Quarterly
+CUST01963,1,📊 Standard Users,55.72,28.01,2572.51,No,Monthly
+CUST01964,1,📊 Standard Users,53.91,39.31,357.63,No,Monthly
+CUST01965,0,💰 Budget-Conscious,36.73,7.99,673.44,Yes,Quarterly
+CUST01966,2,📊 Standard Users,45.33,6.23,2290.68,No,Quarterly
+CUST01967,3,⚠️ At-Risk,42.14,13.27,96.92,No,Monthly
+CUST01968,2,📊 Standard Users,24.78,6.45,1313.17,No,Quarterly
+CUST01969,2,📊 Standard Users,42.24,9.86,1849.94,No,Annual
+CUST01970,2,📊 Standard Users,27.75,6.7,1339.18,No,Annual
+CUST01971,2,📊 Standard Users,42.15,16.83,1382.54,No,Annual
+CUST01972,2,📊 Standard Users,49.86,22.73,2125.72,No,Monthly
+CUST01973,2,📊 Standard Users,43.73,10.99,1476.69,No,Monthly
+CUST01974,0,💰 Budget-Conscious,21.23,1.79,832.93,No,Quarterly
+CUST01975,1,📊 Standard Users,68.1,40.99,2278.95,No,Monthly
+CUST01976,0,💰 Budget-Conscious,39.55,16.4,88.34,No,Monthly
+CUST01977,1,📊 Standard Users,54.52,37.02,648.77,No,Monthly
+CUST01978,2,📊 Standard Users,43.29,9.76,1881.69,Yes,Monthly
+CUST01979,2,📊 Standard Users,40.93,18.88,1676.7,No,Monthly
+CUST01980,2,📊 Standard Users,47.89,11.83,2642.05,No,Monthly
+CUST01981,2,📊 Standard Users,45.4,16.01,1427.03,No,Monthly
+CUST01982,0,💰 Budget-Conscious,41.0,12.7,660.02,No,Monthly
+CUST01983,0,💰 Budget-Conscious,39.45,16.77,86.78,No,Quarterly
+CUST01984,2,📊 Standard Users,44.27,9.02,2020.22,No,Quarterly
+CUST01985,2,📊 Standard Users,44.98,17.5,2610.23,No,Quarterly
+CUST01986,2,📊 Standard Users,45.65,18.29,1524.72,No,Monthly
+CUST01987,1,📊 Standard Users,54.31,36.16,1493.64,No,Monthly
+CUST01988,2,📊 Standard Users,35.76,23.22,1194.36,No,Quarterly
+CUST01989,1,📊 Standard Users,62.25,37.07,1290.63,No,Quarterly
+CUST01990,1,📊 Standard Users,67.28,44.19,2617.34,Yes,Monthly
+CUST01991,1,📊 Standard Users,56.44,35.92,2056.18,No,Monthly
+CUST01992,0,💰 Budget-Conscious,19.47,6.66,878.63,No,Annual
+CUST01993,0,💰 Budget-Conscious,54.09,19.67,456.16,No,Monthly
+CUST01994,0,💰 Budget-Conscious,39.95,15.16,462.09,Yes,Monthly
+CUST01995,0,💰 Budget-Conscious,30.21,9.37,380.69,No,Quarterly
+CUST01996,0,💰 Budget-Conscious,39.57,15.7,189.93,No,Monthly
+CUST01997,0,💰 Budget-Conscious,31.98,16.92,775.04,Yes,Monthly
+CUST01998,1,📊 Standard Users,52.6,43.07,2412.68,No,Monthly
+CUST01999,1,📊 Standard Users,56.16,39.9,3034.51,No,Quarterly
+CUST02000,1,📊 Standard Users,57.39,31.63,2090.92,No,Monthly
+CUST02001,1,📊 Standard Users,86.44,27.46,198.81,No,Monthly
+CUST02002,2,📊 Standard Users,21.7,0.5,1303.2,Yes,Monthly
+CUST02003,2,📊 Standard Users,30.95,15.34,1384.57,No,Annual
+CUST02004,2,📊 Standard Users,30.85,20.69,1352.46,No,Monthly
+CUST02005,0,💰 Budget-Conscious,44.83,15.54,366.15,No,Annual
+CUST02006,2,📊 Standard Users,41.69,14.58,1667.67,Yes,Monthly
+CUST02007,0,💰 Budget-Conscious,36.52,15.72,444.28,No,Annual
+CUST02008,2,📊 Standard Users,40.07,13.06,1630.83,No,Annual
+CUST02009,0,💰 Budget-Conscious,23.18,5.39,93.49,No,Monthly
+CUST02010,0,💰 Budget-Conscious,35.68,12.98,454.32,No,Monthly
+CUST02011,1,📊 Standard Users,59.96,26.01,1199.18,No,Monthly
+CUST02012,2,📊 Standard Users,36.78,14.62,1990.95,No,Monthly
+CUST02013,0,💰 Budget-Conscious,22.86,4.81,643.99,No,Quarterly
+CUST02014,2,📊 Standard Users,31.47,24.38,1818.74,No,Monthly
+CUST02015,0,💰 Budget-Conscious,40.71,10.97,1099.06,No,Monthly
+CUST02016,0,💰 Budget-Conscious,47.5,14.2,620.69,No,Monthly
+CUST02017,0,💰 Budget-Conscious,34.43,13.72,672.6,No,Annual
+CUST02018,2,📊 Standard Users,35.79,12.76,1667.66,No,Monthly
+CUST02019,1,📊 Standard Users,59.09,40.13,3439.02,No,Monthly
+CUST02020,2,📊 Standard Users,43.06,26.19,1755.58,No,Monthly
+CUST02021,0,💰 Budget-Conscious,36.68,13.4,470.67,No,Annual
+CUST02022,0,💰 Budget-Conscious,34.39,17.58,252.2,No,Quarterly
+CUST02023,1,📊 Standard Users,67.63,15.88,3877.69,No,Monthly
+CUST02024,0,💰 Budget-Conscious,39.13,13.03,588.19,No,Monthly
+CUST02025,2,📊 Standard Users,46.12,22.78,1120.73,No,Monthly
+CUST02026,3,⚠️ At-Risk,60.52,34.45,72.63,No,Monthly
+CUST02027,3,⚠️ At-Risk,37.24,17.51,201.1,Yes,Annual
+CUST02028,2,📊 Standard Users,42.55,11.89,2553.05,No,Quarterly
+CUST02029,0,💰 Budget-Conscious,15.4,5.52,300.72,No,Monthly
+CUST02030,2,📊 Standard Users,40.45,23.16,1152.68,No,Annual
+CUST02031,2,📊 Standard Users,45.83,9.2,1206.96,No,Monthly
+CUST02032,2,📊 Standard Users,45.42,25.93,1641.02,No,Quarterly
+CUST02033,0,💰 Budget-Conscious,36.47,7.27,685.56,No,Annual
+CUST02034,0,💰 Budget-Conscious,36.61,12.57,555.29,No,Monthly
+CUST02035,2,📊 Standard Users,48.94,10.82,2360.69,No,Quarterly
+CUST02036,0,💰 Budget-Conscious,47.97,13.64,1120.94,No,Monthly
+CUST02037,0,💰 Budget-Conscious,25.66,3.3,335.28,No,Monthly
+CUST02038,1,📊 Standard Users,64.63,25.75,3209.85,No,Monthly
+CUST02039,2,📊 Standard Users,23.54,2.63,1352.14,No,Monthly
+CUST02040,2,📊 Standard Users,49.01,18.22,2620.36,No,Quarterly
+CUST02041,0,💰 Budget-Conscious,46.9,13.81,173.51,No,Annual
+CUST02042,0,💰 Budget-Conscious,28.94,4.0,371.36,No,Quarterly
+CUST02043,2,📊 Standard Users,34.02,16.41,1486.58,No,Annual
+CUST02044,2,📊 Standard Users,33.27,7.53,1964.18,No,Annual
+CUST02045,0,💰 Budget-Conscious,42.44,16.53,874.17,Yes,Monthly
+CUST02046,1,📊 Standard Users,72.45,34.06,3808.64,No,Monthly
+CUST02047,0,💰 Budget-Conscious,28.58,4.87,308.66,No,Monthly
+CUST02048,2,📊 Standard Users,36.93,17.6,1572.17,No,Quarterly
+CUST02049,2,📊 Standard Users,47.03,23.22,2473.6,No,Annual
+CUST02050,2,📊 Standard Users,40.16,16.61,1471.04,No,Monthly
+CUST02051,2,📊 Standard Users,30.64,14.0,1756.82,No,Quarterly
+CUST02052,2,📊 Standard Users,42.63,9.09,1656.89,No,Quarterly
+CUST02053,2,📊 Standard Users,48.06,3.05,2060.02,No,Quarterly
+CUST02054,3,⚠️ At-Risk,39.11,15.64,59.96,No,Monthly
+CUST02055,1,📊 Standard Users,53.32,22.4,691.32,No,Monthly
+CUST02056,0,💰 Budget-Conscious,24.35,0.5,1035.72,No,Monthly
+CUST02057,0,💰 Budget-Conscious,25.18,4.3,751.34,No,Monthly
+CUST02058,0,💰 Budget-Conscious,38.4,16.2,933.09,No,Monthly
+CUST02059,0,💰 Budget-Conscious,45.9,18.72,729.81,No,Quarterly
+CUST02060,1,📊 Standard Users,56.42,45.61,1664.46,No,Monthly
+CUST02061,0,💰 Budget-Conscious,25.54,6.75,335.48,No,Annual
+CUST02062,1,📊 Standard Users,55.87,44.03,1311.0,Yes,Monthly
+CUST02063,2,📊 Standard Users,41.67,7.66,1440.22,No,Quarterly
+CUST02064,2,📊 Standard Users,31.81,14.25,1462.29,No,Monthly
+CUST02065,0,💰 Budget-Conscious,26.66,6.16,440.75,No,Quarterly
+CUST02066,0,💰 Budget-Conscious,36.84,15.23,543.98,No,Annual
+CUST02067,1,📊 Standard Users,64.34,33.45,3234.33,No,Monthly
+CUST02068,0,💰 Budget-Conscious,45.53,15.14,933.42,No,Monthly
+CUST02069,2,📊 Standard Users,30.65,16.23,1313.9,No,Quarterly
+CUST02070,0,💰 Budget-Conscious,16.98,4.85,722.77,No,Monthly
+CUST02071,1,📊 Standard Users,67.94,26.54,2316.83,No,Monthly
+CUST02072,1,📊 Standard Users,60.63,17.97,2960.66,No,Monthly
+CUST02073,0,💰 Budget-Conscious,49.53,13.98,992.27,No,Monthly
+CUST02074,1,📊 Standard Users,54.78,35.57,664.66,No,Quarterly
+CUST02075,2,📊 Standard Users,48.36,15.23,2055.25,Yes,Monthly
+CUST02076,3,⚠️ At-Risk,30.75,19.76,67.65,No,Annual
+CUST02077,2,📊 Standard Users,45.55,20.65,1545.71,No,Quarterly
+CUST02078,0,💰 Budget-Conscious,31.7,14.48,324.42,No,Quarterly
+CUST02079,2,📊 Standard Users,30.04,14.52,1250.81,No,Quarterly
+CUST02080,2,📊 Standard Users,41.17,17.87,1296.94,No,Annual
+CUST02081,1,📊 Standard Users,57.84,39.27,989.0,No,Monthly
+CUST02082,0,💰 Budget-Conscious,24.81,4.11,1070.97,No,Annual
+CUST02083,0,💰 Budget-Conscious,27.63,6.32,1268.31,No,Quarterly
+CUST02084,0,💰 Budget-Conscious,35.55,14.27,900.59,Yes,Quarterly
+CUST02085,0,💰 Budget-Conscious,32.89,14.37,242.27,No,Quarterly
+CUST02086,1,📊 Standard Users,52.15,39.34,1859.92,Yes,Monthly
+CUST02087,0,💰 Budget-Conscious,45.72,13.49,842.79,No,Monthly
+CUST02088,1,📊 Standard Users,51.65,35.95,1630.39,No,Quarterly
+CUST02089,0,💰 Budget-Conscious,49.76,16.49,713.21,No,Monthly
+CUST02090,0,💰 Budget-Conscious,33.55,19.09,1023.4,No,Quarterly
+CUST02091,0,💰 Budget-Conscious,16.63,6.5,406.96,No,Monthly
+CUST02092,3,⚠️ At-Risk,47.69,16.34,81.08,Yes,Monthly
+CUST02093,0,💰 Budget-Conscious,19.35,0.5,324.35,No,Monthly
+CUST02094,2,📊 Standard Users,35.15,16.22,1374.2,No,Monthly
+CUST02095,0,💰 Budget-Conscious,34.17,16.99,272.25,Yes,Monthly
+CUST02096,0,💰 Budget-Conscious,37.37,18.0,417.34,No,Monthly
+CUST02097,0,💰 Budget-Conscious,24.47,3.09,1079.2,No,Annual
+CUST02098,0,💰 Budget-Conscious,32.75,4.39,800.12,No,Quarterly
+CUST02099,1,📊 Standard Users,62.19,43.06,1484.23,No,Monthly
+CUST02100,1,📊 Standard Users,51.43,22.75,538.32,No,Quarterly
+CUST02101,2,📊 Standard Users,47.26,21.11,1173.62,No,Annual
+CUST02102,2,📊 Standard Users,40.1,12.11,2311.18,No,Quarterly
+CUST02103,2,📊 Standard Users,49.07,9.86,1295.4,Yes,Monthly
+CUST02104,2,📊 Standard Users,44.28,16.75,1889.49,No,Annual
+CUST02105,0,💰 Budget-Conscious,25.29,6.23,823.72,No,Quarterly
+CUST02106,1,📊 Standard Users,57.08,40.57,780.15,No,Monthly
+CUST02107,1,📊 Standard Users,64.54,40.02,1051.92,No,Monthly
+CUST02108,0,💰 Budget-Conscious,31.11,11.46,1099.23,No,Quarterly
+CUST02109,1,📊 Standard Users,65.74,19.73,127.1,Yes,Monthly
+CUST02110,1,📊 Standard Users,51.46,31.1,1605.61,No,Annual
+CUST02111,1,📊 Standard Users,56.67,23.54,2051.37,Yes,Monthly
+CUST02112,2,📊 Standard Users,39.76,17.16,2251.52,No,Annual
+CUST02113,0,💰 Budget-Conscious,28.8,6.75,871.75,No,Quarterly
+CUST02114,1,📊 Standard Users,61.04,36.73,219.74,No,Monthly
+CUST02115,0,💰 Budget-Conscious,29.62,5.0,963.51,Yes,Monthly
+CUST02116,0,💰 Budget-Conscious,43.7,13.45,710.81,Yes,Quarterly
+CUST02117,0,💰 Budget-Conscious,44.71,19.9,892.73,Yes,Quarterly
+CUST02118,0,💰 Budget-Conscious,15.0,1.34,795.5,No,Quarterly
+CUST02119,2,📊 Standard Users,51.09,22.94,2613.95,No,Monthly
+CUST02120,1,📊 Standard Users,84.32,53.27,4168.32,No,Monthly
+CUST02121,0,💰 Budget-Conscious,15.0,2.49,383.5,Yes,Monthly
+CUST02122,2,📊 Standard Users,39.46,17.66,1759.96,No,Quarterly
+CUST02123,0,💰 Budget-Conscious,15.79,6.47,286.91,No,Monthly
+CUST02124,0,💰 Budget-Conscious,31.59,5.37,1212.97,No,Monthly
+CUST02125,0,💰 Budget-Conscious,20.7,1.53,293.97,No,Quarterly
+CUST02126,2,📊 Standard Users,36.28,21.32,1864.6,No,Annual
+CUST02127,1,📊 Standard Users,56.9,25.27,128.98,No,Monthly
+CUST02128,1,📊 Standard Users,51.15,25.54,2257.25,No,Monthly
+CUST02129,0,💰 Budget-Conscious,30.7,12.4,937.32,Yes,Quarterly
+CUST02130,0,💰 Budget-Conscious,33.91,10.15,933.55,No,Quarterly
+CUST02131,0,💰 Budget-Conscious,49.08,17.63,304.32,No,Monthly
+CUST02132,0,💰 Budget-Conscious,27.81,2.64,1045.6,No,Annual
+CUST02133,0,💰 Budget-Conscious,24.37,1.07,741.65,No,Annual
+CUST02134,2,📊 Standard Users,41.41,20.78,1633.06,No,Monthly
+CUST02135,2,📊 Standard Users,30.83,9.34,1788.1,Yes,Monthly
+CUST02136,1,📊 Standard Users,51.17,27.48,1710.9,Yes,Monthly
+CUST02137,1,📊 Standard Users,52.99,43.3,2008.21,Yes,Quarterly
+CUST02138,1,📊 Standard Users,83.96,35.7,3008.7,No,Monthly
+CUST02139,2,📊 Standard Users,43.38,20.56,2186.39,No,Quarterly
+CUST02140,2,📊 Standard Users,46.46,19.23,2465.46,No,Quarterly
+CUST02141,2,📊 Standard Users,36.01,12.73,2112.6,No,Monthly
+CUST02142,2,📊 Standard Users,34.63,20.11,1013.39,No,Quarterly
+CUST02143,2,📊 Standard Users,45.27,15.84,2165.53,No,Annual
+CUST02144,0,💰 Budget-Conscious,40.86,12.01,1058.15,No,Monthly
+CUST02145,2,📊 Standard Users,46.09,16.45,2293.96,No,Monthly
+CUST02146,1,📊 Standard Users,63.34,21.91,3498.74,No,Monthly
+CUST02147,0,💰 Budget-Conscious,32.85,19.17,1114.74,No,Annual
+CUST02148,0,💰 Budget-Conscious,47.0,18.52,78.34,No,Annual
+CUST02149,1,📊 Standard Users,53.6,36.2,593.12,No,Monthly
+CUST02150,2,📊 Standard Users,44.55,5.41,1333.65,Yes,Quarterly
+CUST02151,0,💰 Budget-Conscious,35.28,20.77,132.88,No,Monthly
+CUST02152,1,📊 Standard Users,52.64,39.37,3003.81,No,Monthly
+CUST02153,2,📊 Standard Users,38.56,14.89,1935.93,No,Monthly
+CUST02154,1,📊 Standard Users,52.04,33.19,2497.97,No,Monthly
+CUST02155,2,📊 Standard Users,43.47,12.32,2260.58,Yes,Monthly
+CUST02156,2,📊 Standard Users,49.67,13.28,2168.84,No,Quarterly
+CUST02157,2,📊 Standard Users,44.52,18.85,888.98,No,Monthly
+CUST02158,1,📊 Standard Users,51.3,29.83,1646.82,No,Annual
+CUST02159,2,📊 Standard Users,40.87,13.63,2152.32,No,Monthly
+CUST02160,2,📊 Standard Users,36.98,14.36,1497.75,No,Monthly
+CUST02161,1,📊 Standard Users,50.19,34.0,2034.44,No,Monthly
+CUST02162,1,📊 Standard Users,50.78,28.82,1756.94,No,Quarterly
+CUST02163,1,📊 Standard Users,61.05,33.3,1672.81,No,Monthly
+CUST02164,2,📊 Standard Users,47.5,16.72,1299.96,No,Monthly
+CUST02165,2,📊 Standard Users,37.71,10.48,1982.43,No,Annual
+CUST02166,1,📊 Standard Users,50.11,33.34,2211.44,No,Monthly
+CUST02167,0,💰 Budget-Conscious,28.83,8.86,500.71,Yes,Monthly
+CUST02168,0,💰 Budget-Conscious,43.19,14.68,341.22,No,Annual
+CUST02169,2,📊 Standard Users,26.13,3.14,1386.75,No,Monthly
+CUST02170,2,📊 Standard Users,28.86,2.91,1574.8,No,Monthly
+CUST02171,2,📊 Standard Users,45.83,8.67,1700.12,Yes,Monthly
+CUST02172,0,💰 Budget-Conscious,40.2,23.14,615.09,No,Monthly
+CUST02173,1,📊 Standard Users,56.94,45.08,1924.65,No,Monthly
+CUST02174,1,📊 Standard Users,51.71,22.1,2947.49,No,Monthly
+CUST02175,2,📊 Standard Users,47.07,16.07,2601.57,No,Monthly
+CUST02176,2,📊 Standard Users,28.12,7.45,1276.51,No,Monthly
+CUST02177,0,💰 Budget-Conscious,40.27,14.8,736.86,Yes,Quarterly
+CUST02178,0,💰 Budget-Conscious,44.21,12.54,913.72,No,Monthly
+CUST02179,2,📊 Standard Users,48.33,26.2,1739.98,Yes,Monthly
+CUST02180,2,📊 Standard Users,31.56,5.47,1829.41,No,Annual
+CUST02181,2,📊 Standard Users,45.23,28.16,2434.78,No,Quarterly
+CUST02182,0,💰 Budget-Conscious,39.8,15.3,302.49,No,Monthly
+CUST02183,0,💰 Budget-Conscious,38.43,21.45,532.94,Yes,Annual
+CUST02184,1,📊 Standard Users,56.94,22.99,717.45,No,Monthly
+CUST02185,0,💰 Budget-Conscious,36.98,11.37,1219.14,Yes,Monthly
+CUST02186,0,💰 Budget-Conscious,32.28,9.6,776.83,No,Quarterly
+CUST02187,1,📊 Standard Users,52.15,33.99,2761.97,No,Monthly
+CUST02188,0,💰 Budget-Conscious,25.18,5.62,341.66,No,Monthly
+CUST02189,1,📊 Standard Users,61.67,45.67,1907.81,No,Monthly
+CUST02190,2,📊 Standard Users,45.16,6.44,1422.68,Yes,Monthly
+CUST02191,2,📊 Standard Users,43.28,15.78,2324.06,No,Monthly
+CUST02192,0,💰 Budget-Conscious,39.37,19.47,729.62,No,Annual
+CUST02193,1,📊 Standard Users,52.26,45.82,2100.82,No,Monthly
+CUST02194,0,💰 Budget-Conscious,35.05,12.8,891.49,No,Annual
+CUST02195,0,💰 Budget-Conscious,48.79,12.86,382.16,No,Quarterly
+CUST02196,0,💰 Budget-Conscious,29.62,4.82,477.88,No,Annual
+CUST02197,2,📊 Standard Users,47.12,15.93,2082.86,No,Quarterly
+CUST02198,0,💰 Budget-Conscious,29.21,7.61,1255.22,No,Quarterly
+CUST02199,1,📊 Standard Users,52.66,22.9,3147.3,No,Monthly
+CUST02200,0,💰 Budget-Conscious,40.08,11.07,734.83,No,Monthly
+CUST02201,2,📊 Standard Users,25.33,2.34,1461.76,No,Monthly
+CUST02202,2,📊 Standard Users,37.05,17.14,1291.92,No,Annual
+CUST02203,2,📊 Standard Users,34.72,20.51,1140.12,No,Annual
+CUST02204,0,💰 Budget-Conscious,21.86,2.16,550.12,No,Monthly
+CUST02205,0,💰 Budget-Conscious,15.0,5.18,521.5,No,Monthly
+CUST02206,0,💰 Budget-Conscious,42.72,20.15,754.65,No,Monthly
+CUST02207,1,📊 Standard Users,56.18,42.85,273.42,No,Quarterly
+CUST02208,0,💰 Budget-Conscious,49.82,18.86,689.11,No,Monthly
+CUST02209,2,📊 Standard Users,33.32,9.05,1551.46,No,Quarterly
+CUST02210,0,💰 Budget-Conscious,43.65,18.85,892.02,No,Annual
+CUST02211,1,📊 Standard Users,58.61,33.14,828.33,No,Monthly
+CUST02212,1,📊 Standard Users,64.07,45.7,2385.68,No,Monthly
+CUST02213,1,📊 Standard Users,55.26,39.49,3260.25,No,Monthly
+CUST02214,1,📊 Standard Users,58.29,26.84,1457.21,No,Monthly
+CUST02215,1,📊 Standard Users,55.97,37.79,188.42,No,Monthly
+CUST02216,0,💰 Budget-Conscious,37.84,19.09,382.16,No,Monthly
+CUST02217,0,💰 Budget-Conscious,21.9,3.99,1002.37,No,Annual
+CUST02218,0,💰 Budget-Conscious,37.18,15.64,454.87,No,Monthly
+CUST02219,1,📊 Standard Users,61.57,21.63,2912.45,No,Monthly
+CUST02220,2,📊 Standard Users,31.95,17.75,1648.72,No,Annual
+CUST02221,0,💰 Budget-Conscious,38.55,14.72,817.16,Yes,Quarterly
+CUST02222,0,💰 Budget-Conscious,27.51,6.83,178.84,Yes,Monthly
+CUST02223,2,📊 Standard Users,34.49,17.6,1835.97,No,Quarterly
+CUST02224,3,⚠️ At-Risk,44.86,12.96,59.82,Yes,Monthly
+CUST02225,2,📊 Standard Users,44.93,10.77,2027.64,No,Quarterly
+CUST02226,0,💰 Budget-Conscious,35.41,9.62,894.78,No,Quarterly
+CUST02227,0,💰 Budget-Conscious,34.71,12.46,960.44,No,Quarterly
+CUST02228,1,📊 Standard Users,57.63,43.87,251.66,No,Monthly
+CUST02229,2,📊 Standard Users,37.6,6.22,1852.53,No,Annual
+CUST02230,1,📊 Standard Users,51.73,24.64,2491.67,No,Monthly
+CUST02231,1,📊 Standard Users,67.92,43.59,1829.44,No,Monthly
+CUST02232,0,💰 Budget-Conscious,37.42,21.64,303.13,No,Monthly
+CUST02233,2,📊 Standard Users,44.26,10.08,2573.26,No,Monthly
+CUST02234,1,📊 Standard Users,53.27,24.53,2025.94,No,Monthly
+CUST02235,2,📊 Standard Users,28.03,7.81,1500.43,No,Annual
+CUST02236,0,💰 Budget-Conscious,36.83,14.38,527.93,No,Annual
+CUST02237,0,💰 Budget-Conscious,45.33,10.53,932.35,No,Monthly
+CUST02238,1,📊 Standard Users,86.66,45.45,2651.78,No,Monthly
+CUST02239,2,📊 Standard Users,46.5,17.52,1703.38,No,Monthly
+CUST02240,1,📊 Standard Users,62.35,42.37,3585.36,No,Monthly
+CUST02241,1,📊 Standard Users,57.45,26.58,2903.1,No,Monthly
+CUST02242,0,💰 Budget-Conscious,25.75,5.75,532.97,No,Annual
+CUST02243,0,💰 Budget-Conscious,21.77,7.49,988.98,No,Monthly
+CUST02244,2,📊 Standard Users,48.71,18.2,1849.17,Yes,Monthly
+CUST02245,1,📊 Standard Users,63.86,44.2,257.57,No,Monthly
+CUST02246,2,📊 Standard Users,37.3,22.02,2130.02,No,Annual
+CUST02247,0,💰 Budget-Conscious,40.79,17.14,954.45,No,Quarterly
+CUST02248,0,💰 Budget-Conscious,32.73,12.17,810.55,No,Annual
+CUST02249,0,💰 Budget-Conscious,26.76,6.75,860.79,No,Quarterly
+CUST02250,0,💰 Budget-Conscious,30.59,9.47,276.35,No,Monthly
+CUST02251,3,⚠️ At-Risk,20.67,4.56,21.35,Yes,Monthly
+CUST02252,0,💰 Budget-Conscious,28.97,6.18,245.28,No,Quarterly
+CUST02253,0,💰 Budget-Conscious,37.11,0.5,1026.71,No,Monthly
+CUST02254,2,📊 Standard Users,47.76,16.26,2862.43,No,Quarterly
+CUST02255,0,💰 Budget-Conscious,38.32,16.5,789.47,No,Monthly
+CUST02256,0,💰 Budget-Conscious,48.83,9.32,236.03,No,Monthly
+CUST02257,2,📊 Standard Users,47.03,16.63,2694.73,No,Monthly
+CUST02258,2,📊 Standard Users,44.99,15.95,1420.2,No,Quarterly
+CUST02259,0,💰 Budget-Conscious,29.65,5.07,1142.58,No,Quarterly
+CUST02260,1,📊 Standard Users,60.89,46.89,452.6,No,Monthly
+CUST02261,0,💰 Budget-Conscious,23.89,6.76,970.83,Yes,Monthly
+CUST02262,0,💰 Budget-Conscious,38.28,18.2,1148.48,No,Monthly
+CUST02263,0,💰 Budget-Conscious,44.69,9.88,177.26,No,Monthly
+CUST02264,1,📊 Standard Users,56.4,34.83,3269.45,No,Monthly
+CUST02265,1,📊 Standard Users,65.69,46.84,330.64,No,Monthly
+CUST02266,1,📊 Standard Users,56.52,32.85,324.05,No,Monthly
+CUST02267,1,📊 Standard Users,66.24,50.54,2258.74,No,Monthly
+CUST02268,0,💰 Budget-Conscious,32.56,18.35,146.53,No,Monthly
+CUST02269,1,📊 Standard Users,62.86,52.1,1919.19,No,Monthly
+CUST02270,1,📊 Standard Users,60.28,24.33,918.26,No,Monthly
+CUST02271,0,💰 Budget-Conscious,15.0,4.69,679.0,No,Monthly
+CUST02272,0,💰 Budget-Conscious,41.69,14.7,480.86,No,Monthly
+CUST02273,0,💰 Budget-Conscious,46.02,18.03,1018.58,No,Quarterly
+CUST02274,0,💰 Budget-Conscious,37.27,11.31,47.21,No,Monthly
+CUST02275,0,💰 Budget-Conscious,28.71,1.78,768.54,Yes,Monthly
+CUST02276,1,📊 Standard Users,76.71,38.78,2879.28,No,Monthly
+CUST02277,2,📊 Standard Users,41.11,13.17,1934.93,No,Quarterly
+CUST02278,0,💰 Budget-Conscious,36.11,12.65,303.3,No,Annual
+CUST02279,2,📊 Standard Users,26.91,3.61,1317.7,No,Quarterly
+CUST02280,0,💰 Budget-Conscious,33.88,15.62,657.2,No,Quarterly
+CUST02281,2,📊 Standard Users,31.53,9.62,1495.69,No,Monthly
+CUST02282,1,📊 Standard Users,50.79,33.06,1261.28,No,Quarterly
+CUST02283,2,📊 Standard Users,45.05,10.86,1977.53,No,Quarterly
+CUST02284,2,📊 Standard Users,36.44,11.95,2117.25,No,Monthly
+CUST02285,1,📊 Standard Users,53.41,38.54,2440.72,No,Monthly
+CUST02286,2,📊 Standard Users,41.2,18.26,1561.37,No,Monthly
+CUST02287,2,📊 Standard Users,36.88,13.47,1685.23,No,Annual
+CUST02288,3,⚠️ At-Risk,48.45,19.84,226.08,No,Monthly
+CUST02289,0,💰 Budget-Conscious,44.2,10.14,412.56,No,Quarterly
+CUST02290,0,💰 Budget-Conscious,49.49,7.4,679.73,Yes,Monthly
+CUST02291,3,⚠️ At-Risk,51.32,21.64,61.58,Yes,Monthly
+CUST02292,1,📊 Standard Users,63.84,24.25,1038.42,No,Monthly
+CUST02293,2,📊 Standard Users,54.61,21.87,2069.66,No,Monthly
+CUST02294,0,💰 Budget-Conscious,32.3,25.11,255.21,No,Annual
+CUST02295,0,💰 Budget-Conscious,39.02,7.25,1208.33,No,Quarterly
+CUST02296,1,📊 Standard Users,63.45,44.37,3052.07,No,Monthly
+CUST02297,2,📊 Standard Users,35.9,14.87,1635.82,No,Annual
+CUST02298,0,💰 Budget-Conscious,39.39,16.12,66.96,No,Monthly
+CUST02299,0,💰 Budget-Conscious,29.95,3.19,438.28,No,Annual
+CUST02300,2,📊 Standard Users,49.1,16.63,1512.14,Yes,Monthly
+CUST02301,0,💰 Budget-Conscious,32.18,10.43,583.48,Yes,Monthly
+CUST02302,1,📊 Standard Users,64.27,44.23,2528.03,No,Monthly
+CUST02303,0,💰 Budget-Conscious,29.43,7.01,822.15,No,Monthly
+CUST02304,1,📊 Standard Users,67.17,33.65,3925.03,No,Monthly
+CUST02305,0,💰 Budget-Conscious,37.15,14.65,1118.15,Yes,Quarterly
+CUST02306,3,⚠️ At-Risk,26.39,5.87,37.82,No,Annual
+CUST02307,2,📊 Standard Users,41.89,16.91,1396.39,No,Quarterly
+CUST02308,0,💰 Budget-Conscious,30.7,20.12,1030.64,No,Monthly
+CUST02309,2,📊 Standard Users,45.52,19.98,1582.42,No,Monthly
+CUST02310,2,📊 Standard Users,36.34,14.86,1289.96,No,Monthly
+CUST02311,1,📊 Standard Users,59.18,30.23,228.81,No,Monthly
+CUST02312,2,📊 Standard Users,41.37,19.06,2174.55,No,Quarterly
+CUST02313,0,💰 Budget-Conscious,27.17,4.69,849.59,No,Monthly
+CUST02314,2,📊 Standard Users,36.04,15.57,1910.36,No,Monthly
+CUST02315,1,📊 Standard Users,55.57,40.3,2508.25,No,Monthly
+CUST02316,2,📊 Standard Users,45.3,19.88,1956.82,No,Annual
+CUST02317,0,💰 Budget-Conscious,44.32,16.3,223.08,No,Monthly
+CUST02318,0,💰 Budget-Conscious,29.33,3.83,1173.36,No,Monthly
+CUST02319,1,📊 Standard Users,60.81,52.97,3283.77,No,Monthly
+CUST02320,1,📊 Standard Users,55.51,50.3,1441.37,Yes,Monthly
+CUST02321,1,📊 Standard Users,64.6,24.82,3033.96,No,Monthly
+CUST02322,0,💰 Budget-Conscious,49.35,10.44,1174.6,Yes,Monthly
+CUST02323,2,📊 Standard Users,34.79,11.07,2071.4,No,Quarterly
+CUST02324,1,📊 Standard Users,52.75,43.49,2961.22,No,Monthly
+CUST02325,0,💰 Budget-Conscious,43.26,24.18,487.43,No,Quarterly
+CUST02326,0,💰 Budget-Conscious,30.4,12.47,733.68,No,Annual
+CUST02327,0,💰 Budget-Conscious,41.99,15.85,443.66,No,Quarterly
+CUST02328,0,💰 Budget-Conscious,42.07,11.24,471.24,No,Monthly
+CUST02329,1,📊 Standard Users,56.15,52.0,3082.8,No,Monthly
+CUST02330,2,📊 Standard Users,44.92,19.12,1411.99,No,Quarterly
+CUST02331,2,📊 Standard Users,29.48,3.35,1745.46,No,Quarterly
+CUST02332,0,💰 Budget-Conscious,27.71,0.8,638.34,No,Monthly
+CUST02333,0,💰 Budget-Conscious,39.1,20.19,753.36,No,Quarterly
+CUST02334,2,📊 Standard Users,45.49,12.14,2130.56,No,Monthly
+CUST02335,1,📊 Standard Users,56.41,43.43,641.25,Yes,Monthly
+CUST02336,1,📊 Standard Users,52.7,37.94,1584.5,No,Monthly
+CUST02337,1,📊 Standard Users,66.88,16.66,2479.03,No,Monthly
+CUST02338,2,📊 Standard Users,37.99,10.97,2147.82,Yes,Monthly
+CUST02339,0,💰 Budget-Conscious,34.76,13.23,1104.12,No,Quarterly
+CUST02340,2,📊 Standard Users,30.6,11.62,1802.5,No,Monthly
+CUST02341,1,📊 Standard Users,56.24,36.16,1469.77,No,Monthly
+CUST02342,3,⚠️ At-Risk,45.33,17.01,96.7,No,Monthly
+CUST02343,0,💰 Budget-Conscious,17.2,8.58,271.7,Yes,Monthly
+CUST02344,0,💰 Budget-Conscious,48.03,17.36,195.33,Yes,Monthly
+CUST02345,2,📊 Standard Users,42.66,22.46,1791.71,No,Quarterly
+CUST02346,0,💰 Budget-Conscious,38.56,12.62,490.95,No,Quarterly
+CUST02347,2,📊 Standard Users,42.97,20.83,1334.83,No,Quarterly
+CUST02348,0,💰 Budget-Conscious,27.8,4.24,1283.32,No,Quarterly
+CUST02349,1,📊 Standard Users,69.62,25.83,2067.58,No,Monthly
+CUST02350,1,📊 Standard Users,50.7,25.41,3005.05,No,Monthly
+CUST02351,0,💰 Budget-Conscious,18.39,0.5,115.27,No,Monthly
+CUST02352,2,📊 Standard Users,44.91,19.27,1476.09,No,Monthly
+CUST02353,0,💰 Budget-Conscious,38.25,8.55,67.58,No,Annual
+CUST02354,0,💰 Budget-Conscious,28.31,7.82,408.55,No,Monthly
+CUST02355,1,📊 Standard Users,53.0,33.26,1473.52,No,Monthly
+CUST02356,0,💰 Budget-Conscious,48.45,7.23,880.13,No,Annual
+CUST02357,0,💰 Budget-Conscious,29.85,2.76,757.07,No,Annual
+CUST02358,2,📊 Standard Users,44.28,15.95,2091.7,No,Quarterly
+CUST02359,2,📊 Standard Users,48.13,5.6,2302.17,No,Monthly
+CUST02360,1,📊 Standard Users,59.52,40.9,1113.11,No,Monthly
+CUST02361,2,📊 Standard Users,43.37,7.42,1423.9,No,Monthly
+CUST02362,0,💰 Budget-Conscious,29.0,3.52,174.96,No,Monthly
+CUST02363,1,📊 Standard Users,58.56,36.99,3152.63,No,Monthly
+CUST02364,2,📊 Standard Users,29.89,5.94,1735.68,No,Monthly
+CUST02365,2,📊 Standard Users,49.47,18.99,1609.45,No,Annual
+CUST02366,1,📊 Standard Users,53.41,21.93,1134.11,No,Monthly
+CUST02367,2,📊 Standard Users,34.01,13.46,1893.28,No,Quarterly
+CUST02368,1,📊 Standard Users,51.09,45.93,764.59,No,Quarterly
+CUST02369,2,📊 Standard Users,44.86,13.46,1948.51,No,Monthly
+CUST02370,2,📊 Standard Users,37.79,16.47,1473.65,No,Quarterly
+CUST02371,0,💰 Budget-Conscious,34.79,15.81,1037.81,No,Monthly
+CUST02372,0,💰 Budget-Conscious,16.83,7.6,877.82,Yes,Monthly
+CUST02373,2,📊 Standard Users,46.04,12.67,2751.89,No,Quarterly
+CUST02374,0,💰 Budget-Conscious,20.58,2.22,416.36,Yes,Monthly
+CUST02375,0,💰 Budget-Conscious,28.65,3.06,347.66,No,Annual
+CUST02376,1,📊 Standard Users,51.49,36.89,2524.86,No,Monthly
+CUST02377,0,💰 Budget-Conscious,34.99,7.15,1120.95,No,Quarterly
+CUST02378,0,💰 Budget-Conscious,47.36,12.28,511.46,No,Monthly
+CUST02379,0,💰 Budget-Conscious,26.79,5.15,700.23,No,Monthly
+CUST02380,2,📊 Standard Users,39.77,11.17,1887.9,No,Monthly
+CUST02381,0,💰 Budget-Conscious,41.63,16.63,298.38,Yes,Quarterly
+CUST02382,0,💰 Budget-Conscious,27.39,6.45,1185.91,No,Annual
+CUST02383,2,📊 Standard Users,48.49,17.27,1076.5,No,Annual
+CUST02384,2,📊 Standard Users,35.44,7.26,1560.48,No,Monthly
+CUST02385,1,📊 Standard Users,53.78,35.79,3040.6,No,Quarterly
+CUST02386,2,📊 Standard Users,38.32,15.79,1647.84,No,Quarterly
+CUST02387,0,💰 Budget-Conscious,24.32,4.24,453.07,No,Quarterly
+CUST02388,2,📊 Standard Users,27.95,5.63,1495.14,No,Monthly
+CUST02389,3,⚠️ At-Risk,41.76,16.39,69.6,Yes,Quarterly
+CUST02390,2,📊 Standard Users,43.26,14.55,1355.55,No,Annual
+CUST02391,1,📊 Standard Users,71.55,24.96,4268.95,Yes,Monthly
+CUST02392,0,💰 Budget-Conscious,36.03,14.87,1075.97,No,Annual
+CUST02393,0,💰 Budget-Conscious,28.23,8.73,774.38,No,Quarterly
+CUST02394,2,📊 Standard Users,49.18,13.04,2578.53,No,Monthly
+CUST02395,0,💰 Budget-Conscious,32.62,20.24,140.27,No,Monthly
+CUST02396,1,📊 Standard Users,50.88,35.39,1324.65,No,Monthly
+CUST02397,0,💰 Budget-Conscious,30.88,11.0,521.84,No,Monthly
+CUST02398,0,💰 Budget-Conscious,18.28,4.41,1006.81,No,Annual
+CUST02399,1,📊 Standard Users,64.75,34.83,2916.04,No,Monthly
+CUST02400,0,💰 Budget-Conscious,33.19,18.28,1071.99,No,Annual
+CUST02401,0,💰 Budget-Conscious,35.4,26.9,654.85,No,Annual
+CUST02402,1,📊 Standard Users,59.95,35.55,725.4,No,Monthly
+CUST02403,3,⚠️ At-Risk,50.03,22.69,51.7,No,Annual
+CUST02404,0,💰 Budget-Conscious,40.76,6.73,548.91,No,Annual
+CUST02405,0,💰 Budget-Conscious,41.03,12.89,440.39,No,Quarterly
+CUST02406,2,📊 Standard Users,44.63,9.36,1288.28,No,Quarterly
+CUST02407,2,📊 Standard Users,32.64,17.79,1125.05,No,Annual
+CUST02408,0,💰 Budget-Conscious,40.36,17.83,783.01,No,Quarterly
+CUST02409,0,💰 Budget-Conscious,47.17,14.27,545.63,No,Monthly
+CUST02410,2,📊 Standard Users,28.71,6.31,1487.98,No,Annual
+CUST02411,0,💰 Budget-Conscious,40.21,15.32,549.56,No,Quarterly
+CUST02412,2,📊 Standard Users,43.67,24.34,2439.75,No,Quarterly
+CUST02413,3,⚠️ At-Risk,52.76,41.26,75.62,No,Monthly
+CUST02414,0,💰 Budget-Conscious,44.37,19.48,788.36,No,Quarterly
+CUST02415,0,💰 Budget-Conscious,24.91,2.1,215.93,No,Monthly
+CUST02416,2,📊 Standard Users,44.83,9.14,1699.21,No,Annual
+CUST02417,1,📊 Standard Users,62.19,39.79,329.63,No,Monthly
+CUST02418,2,📊 Standard Users,43.56,7.25,2607.66,No,Monthly
+CUST02419,1,📊 Standard Users,51.83,28.76,1497.96,No,Monthly
+CUST02420,2,📊 Standard Users,41.75,20.9,1667.28,No,Monthly
+CUST02421,2,📊 Standard Users,47.52,11.77,1457.27,No,Quarterly
+CUST02422,0,💰 Budget-Conscious,28.49,2.58,54.12,No,Annual
+CUST02423,0,💰 Budget-Conscious,45.74,18.34,144.84,No,Annual
+CUST02424,1,📊 Standard Users,55.53,55.74,2250.94,No,Monthly
+CUST02425,1,📊 Standard Users,55.88,26.91,2388.0,No,Monthly
+CUST02426,0,💰 Budget-Conscious,34.16,21.12,330.21,No,Annual
+CUST02427,0,💰 Budget-Conscious,23.7,3.13,1186.53,No,Annual
+CUST02428,1,📊 Standard Users,58.26,33.88,2868.29,No,Monthly
+CUST02429,0,💰 Budget-Conscious,24.31,4.86,396.2,No,Monthly
+CUST02430,1,📊 Standard Users,58.44,27.18,3368.07,No,Monthly
+CUST02431,0,💰 Budget-Conscious,28.82,6.75,317.05,No,Annual
+CUST02432,0,💰 Budget-Conscious,24.13,1.92,762.49,Yes,Quarterly
+CUST02433,2,📊 Standard Users,45.01,15.98,2034.68,No,Monthly
+CUST02434,1,📊 Standard Users,62.74,45.74,660.88,Yes,Monthly
+CUST02435,0,💰 Budget-Conscious,27.28,6.58,1316.48,No,Annual
+CUST02436,1,📊 Standard Users,68.99,39.91,2444.39,No,Monthly
+CUST02437,1,📊 Standard Users,54.85,50.85,3217.93,Yes,Monthly
+CUST02438,0,💰 Budget-Conscious,41.57,13.9,913.1,Yes,Quarterly
+CUST02439,0,💰 Budget-Conscious,38.47,7.38,383.37,No,Monthly
+CUST02440,0,💰 Budget-Conscious,39.51,15.68,817.89,No,Monthly
+CUST02441,2,📊 Standard Users,38.44,14.37,2124.52,No,Annual
+CUST02442,2,📊 Standard Users,41.77,4.42,1215.46,No,Annual
+CUST02443,0,💰 Budget-Conscious,30.25,9.37,898.49,No,Annual
+CUST02444,2,📊 Standard Users,28.55,2.49,1345.56,No,Annual
+CUST02445,2,📊 Standard Users,37.86,10.93,1653.3,No,Quarterly
+CUST02446,0,💰 Budget-Conscious,46.15,13.24,249.2,No,Annual
+CUST02447,0,💰 Budget-Conscious,26.75,4.37,1184.88,No,Monthly
+CUST02448,1,📊 Standard Users,51.42,27.21,2975.78,No,Quarterly
+CUST02449,2,📊 Standard Users,35.34,8.73,1179.12,No,Annual
+CUST02450,0,💰 Budget-Conscious,20.21,5.75,365.11,No,Monthly
+CUST02451,0,💰 Budget-Conscious,38.08,15.58,434.06,No,Monthly
+CUST02452,1,📊 Standard Users,54.15,36.47,1091.92,No,Monthly
+CUST02453,1,📊 Standard Users,72.03,52.79,2196.83,No,Monthly
+CUST02454,0,💰 Budget-Conscious,25.09,5.33,1118.15,No,Monthly
+CUST02455,0,💰 Budget-Conscious,15.0,4.27,587.0,No,Annual
+CUST02456,0,💰 Budget-Conscious,24.52,4.79,948.24,No,Annual
+CUST02457,1,📊 Standard Users,61.96,35.99,1478.69,No,Monthly
+CUST02458,0,💰 Budget-Conscious,18.09,6.23,758.13,No,Monthly
+CUST02459,1,📊 Standard Users,67.46,34.55,436.23,Yes,Monthly
+CUST02460,0,💰 Budget-Conscious,44.72,5.29,497.87,No,Annual
+CUST02461,2,📊 Standard Users,47.87,12.82,2473.05,No,Monthly
+CUST02462,2,📊 Standard Users,35.6,15.01,1999.79,No,Monthly
+CUST02463,2,📊 Standard Users,45.83,21.52,2457.96,No,Monthly
+CUST02464,1,📊 Standard Users,54.17,27.14,334.03,No,Monthly
+CUST02465,1,📊 Standard Users,51.88,18.65,2455.52,No,Monthly
+CUST02466,2,📊 Standard Users,48.92,15.32,2889.38,No,Annual
+CUST02467,0,💰 Budget-Conscious,37.4,19.33,809.06,Yes,Quarterly
+CUST02468,0,💰 Budget-Conscious,26.99,4.21,1173.23,No,Quarterly
+CUST02469,0,💰 Budget-Conscious,22.84,9.77,750.7,No,Monthly
+CUST02470,0,💰 Budget-Conscious,23.23,9.29,281.05,No,Quarterly
+CUST02471,2,📊 Standard Users,41.96,14.64,2370.9,No,Quarterly
+CUST02472,2,📊 Standard Users,41.48,15.93,1380.05,No,Monthly
+CUST02473,0,💰 Budget-Conscious,40.33,21.84,725.88,No,Quarterly
+CUST02474,2,📊 Standard Users,36.94,14.55,1657.56,No,Monthly
+CUST02475,0,💰 Budget-Conscious,26.12,3.39,934.18,No,Annual
+CUST02476,1,📊 Standard Users,54.22,43.89,562.03,No,Monthly
+CUST02477,0,💰 Budget-Conscious,15.3,5.93,421.14,No,Annual
+CUST02478,0,💰 Budget-Conscious,32.98,10.96,1158.56,No,Monthly
+CUST02479,0,💰 Budget-Conscious,47.86,16.4,236.13,No,Quarterly
+CUST02480,0,💰 Budget-Conscious,30.99,14.2,1123.96,No,Quarterly
+CUST02481,0,💰 Budget-Conscious,43.92,13.07,332.3,No,Quarterly
+CUST02482,0,💰 Budget-Conscious,33.0,11.07,565.33,Yes,Monthly
+CUST02483,2,📊 Standard Users,38.16,15.61,2302.46,No,Monthly
+CUST02484,2,📊 Standard Users,45.75,13.67,1695.77,No,Quarterly
+CUST02485,0,💰 Budget-Conscious,25.83,5.57,745.69,No,Monthly
+CUST02486,1,📊 Standard Users,56.18,43.2,2273.38,No,Monthly
+CUST02487,2,📊 Standard Users,40.46,16.16,1399.89,No,Quarterly
+CUST02488,1,📊 Standard Users,63.85,37.49,1532.32,Yes,Monthly
+CUST02489,2,📊 Standard Users,48.12,12.29,2019.53,No,Monthly
+CUST02490,0,💰 Budget-Conscious,28.96,7.35,1028.0,No,Monthly
+CUST02491,1,📊 Standard Users,70.92,26.51,1226.91,No,Monthly
+CUST02492,0,💰 Budget-Conscious,30.14,6.94,306.43,No,Quarterly
+CUST02493,0,💰 Budget-Conscious,37.73,9.65,908.0,Yes,Quarterly
+CUST02494,0,💰 Budget-Conscious,42.66,20.17,385.36,No,Annual
+CUST02495,0,💰 Budget-Conscious,19.96,5.92,844.33,No,Annual
+CUST02496,1,📊 Standard Users,66.6,48.12,2894.66,No,Monthly
+CUST02497,0,💰 Budget-Conscious,27.74,2.35,143.31,Yes,Monthly
+CUST02498,0,💰 Budget-Conscious,38.18,26.6,313.04,No,Monthly
+CUST02499,2,📊 Standard Users,49.33,13.58,2234.78,No,Monthly
+CUST02500,2,📊 Standard Users,34.67,6.2,1430.56,No,Annual
+CUST02501,1,📊 Standard Users,56.84,56.96,2068.89,No,Monthly
+CUST02502,0,💰 Budget-Conscious,20.99,2.38,892.68,No,Monthly
+CUST02503,1,📊 Standard Users,55.91,31.02,2305.43,No,Monthly
+CUST02504,0,💰 Budget-Conscious,48.07,13.97,839.67,No,Quarterly
+CUST02505,1,📊 Standard Users,50.29,39.44,764.44,No,Quarterly
+CUST02506,0,💰 Budget-Conscious,21.16,3.42,868.06,No,Monthly
+CUST02507,0,💰 Budget-Conscious,23.25,7.08,734.65,No,Annual
+CUST02508,2,📊 Standard Users,39.86,18.77,1967.97,No,Monthly
+CUST02509,0,💰 Budget-Conscious,24.59,5.04,1103.98,No,Monthly
+CUST02510,0,💰 Budget-Conscious,20.57,7.65,123.41,No,Annual
+CUST02511,0,💰 Budget-Conscious,39.22,14.66,539.9,No,Monthly
+CUST02512,2,📊 Standard Users,36.87,13.62,2078.39,No,Annual
+CUST02513,1,📊 Standard Users,57.39,54.98,644.7,No,Annual
+CUST02514,2,📊 Standard Users,45.49,16.48,2106.04,No,Quarterly
+CUST02515,1,📊 Standard Users,57.52,25.14,1486.0,No,Quarterly
+CUST02516,2,📊 Standard Users,44.34,10.75,1361.17,No,Monthly
+CUST02517,0,💰 Budget-Conscious,39.48,15.09,531.62,No,Annual
+CUST02518,2,📊 Standard Users,42.81,3.01,1513.97,No,Monthly
+CUST02519,1,📊 Standard Users,66.83,28.67,3105.42,No,Quarterly
+CUST02520,0,💰 Budget-Conscious,29.52,4.8,155.45,No,Annual
+CUST02521,0,💰 Budget-Conscious,30.6,14.16,1064.89,No,Annual
+CUST02522,0,💰 Budget-Conscious,41.37,8.71,962.6,No,Annual
+CUST02523,2,📊 Standard Users,48.11,12.76,2253.25,No,Monthly
+CUST02524,2,📊 Standard Users,31.61,20.9,1486.57,No,Annual
+CUST02525,0,💰 Budget-Conscious,49.6,19.87,902.79,No,Quarterly
+CUST02526,2,📊 Standard Users,34.67,15.48,1789.01,No,Annual
+CUST02527,0,💰 Budget-Conscious,39.52,14.66,151.49,No,Quarterly
+CUST02528,2,📊 Standard Users,48.46,14.19,1983.58,No,Monthly
+CUST02529,0,💰 Budget-Conscious,18.99,5.47,788.64,No,Monthly
+CUST02530,0,💰 Budget-Conscious,24.07,5.21,272.76,No,Quarterly
+CUST02531,1,📊 Standard Users,50.87,38.24,1987.28,No,Quarterly
+CUST02532,2,📊 Standard Users,34.85,17.51,1476.29,No,Monthly
+CUST02533,0,💰 Budget-Conscious,38.67,8.94,587.79,No,Quarterly
+CUST02534,1,📊 Standard Users,69.19,31.9,3383.22,No,Monthly
+CUST02535,0,💰 Budget-Conscious,34.3,15.99,163.48,No,Annual
+CUST02536,2,📊 Standard Users,41.85,10.17,1671.16,No,Monthly
+CUST02537,1,📊 Standard Users,58.44,28.26,3099.33,No,Monthly
+CUST02538,2,📊 Standard Users,36.03,13.91,2042.68,No,Monthly
+CUST02539,1,📊 Standard Users,63.04,33.31,697.69,No,Monthly
+CUST02540,1,📊 Standard Users,58.13,37.17,1497.9,No,Monthly
+CUST02541,1,📊 Standard Users,72.45,26.52,1490.16,No,Monthly
+CUST02542,2,📊 Standard Users,34.64,19.84,1173.31,No,Monthly
+CUST02543,0,💰 Budget-Conscious,45.94,14.11,572.67,No,Annual
+CUST02544,0,💰 Budget-Conscious,39.43,15.73,1108.06,No,Annual
+CUST02545,0,💰 Budget-Conscious,25.12,4.26,694.97,No,Monthly
+CUST02546,0,💰 Budget-Conscious,15.0,5.47,527.0,No,Annual
+CUST02547,2,📊 Standard Users,33.03,23.36,1321.18,No,Monthly
+CUST02548,2,📊 Standard Users,42.92,13.1,1917.25,Yes,Quarterly
+CUST02549,2,📊 Standard Users,44.37,12.28,2524.85,No,Quarterly
+CUST02550,2,📊 Standard Users,44.11,10.85,1626.33,No,Monthly
+CUST02551,2,📊 Standard Users,44.25,14.7,2001.49,No,Monthly
+CUST02552,2,📊 Standard Users,43.11,14.64,1612.32,Yes,Monthly
+CUST02553,1,📊 Standard Users,60.47,35.51,786.09,No,Monthly
+CUST02554,2,📊 Standard Users,25.64,5.94,1414.31,No,Quarterly
+CUST02555,2,📊 Standard Users,49.02,16.71,2080.27,No,Monthly
+CUST02556,2,📊 Standard Users,32.66,14.89,1131.08,No,Monthly
+CUST02557,0,💰 Budget-Conscious,31.4,24.77,767.25,No,Monthly
+CUST02558,1,📊 Standard Users,62.64,41.91,1261.22,No,Monthly
+CUST02559,2,📊 Standard Users,30.25,9.55,1651.71,No,Monthly
+CUST02560,2,📊 Standard Users,42.91,7.27,1736.31,No,Monthly
+CUST02561,1,📊 Standard Users,50.67,28.04,2928.61,No,Annual
+CUST02562,1,📊 Standard Users,57.57,36.53,2191.54,No,Monthly
+CUST02563,0,💰 Budget-Conscious,38.18,11.1,912.39,No,Monthly
+CUST02564,0,💰 Budget-Conscious,36.28,11.86,979.46,No,Quarterly
+CUST02565,0,💰 Budget-Conscious,26.59,5.05,544.25,No,Monthly
+CUST02566,1,📊 Standard Users,53.01,31.58,3198.06,No,Quarterly
+CUST02567,2,📊 Standard Users,50.11,14.52,1032.34,No,Quarterly
+CUST02568,1,📊 Standard Users,55.3,45.77,2234.08,No,Monthly
+CUST02569,1,📊 Standard Users,56.95,43.45,983.38,No,Monthly
+CUST02570,0,💰 Budget-Conscious,33.38,8.57,1112.74,No,Monthly
+CUST02571,0,💰 Budget-Conscious,21.78,5.11,999.76,No,Monthly
+CUST02572,2,📊 Standard Users,53.41,23.83,2960.59,No,Monthly
+CUST02573,1,📊 Standard Users,58.33,28.91,2788.1,No,Monthly
+CUST02574,1,📊 Standard Users,69.11,39.86,2660.57,No,Monthly
+CUST02575,0,💰 Budget-Conscious,41.99,19.05,731.97,No,Monthly
+CUST02576,2,📊 Standard Users,36.53,18.93,2066.52,No,Quarterly
+CUST02577,2,📊 Standard Users,37.61,16.22,2089.72,Yes,Quarterly
+CUST02578,3,⚠️ At-Risk,55.06,47.75,88.1,No,Monthly
+CUST02579,2,📊 Standard Users,40.77,11.95,2047.95,No,Monthly
+CUST02580,2,📊 Standard Users,34.58,13.06,1769.45,No,Annual
+CUST02581,2,📊 Standard Users,48.31,2.03,2652.25,No,Quarterly
+CUST02582,0,💰 Budget-Conscious,29.99,4.81,425.91,No,Annual
+CUST02583,1,📊 Standard Users,65.87,40.8,2261.44,No,Monthly
+CUST02584,2,📊 Standard Users,46.33,16.43,2057.09,No,Quarterly
+CUST02585,0,💰 Budget-Conscious,17.14,3.75,502.65,No,Monthly
+CUST02586,2,📊 Standard Users,37.27,19.22,1761.61,Yes,Monthly
+CUST02587,0,💰 Budget-Conscious,15.0,4.85,692.0,No,Monthly
+CUST02588,2,📊 Standard Users,42.05,18.83,2374.41,No,Monthly
+CUST02589,2,📊 Standard Users,37.53,17.43,1747.43,No,Monthly
+CUST02590,1,📊 Standard Users,57.52,49.25,1631.73,Yes,Monthly
+CUST02591,0,💰 Budget-Conscious,31.19,16.7,503.2,No,Quarterly
+CUST02592,2,📊 Standard Users,38.1,18.05,2100.68,No,Annual
+CUST02593,1,📊 Standard Users,53.53,34.23,1345.46,No,Monthly
+CUST02594,2,📊 Standard Users,48.86,12.49,2781.64,No,Monthly
+CUST02595,1,📊 Standard Users,62.1,39.91,2314.33,No,Monthly
+CUST02596,1,📊 Standard Users,60.68,50.03,2283.7,Yes,Quarterly
+CUST02597,2,📊 Standard Users,46.68,11.92,1151.42,Yes,Monthly
+CUST02598,0,💰 Budget-Conscious,38.24,13.76,219.25,No,Annual
+CUST02599,0,💰 Budget-Conscious,31.8,15.13,1002.63,No,Monthly
+CUST02600,0,💰 Budget-Conscious,29.71,6.37,848.63,No,Monthly
+CUST02601,1,📊 Standard Users,50.34,38.45,1063.82,No,Quarterly
+CUST02602,2,📊 Standard Users,42.21,19.57,2147.19,No,Annual
+CUST02603,2,📊 Standard Users,29.56,8.95,1448.23,No,Monthly
+CUST02604,0,💰 Budget-Conscious,25.38,3.72,282.53,No,Monthly
+CUST02605,0,💰 Budget-Conscious,29.81,6.22,760.16,No,Annual
+CUST02606,2,📊 Standard Users,42.88,16.6,2215.43,No,Monthly
+CUST02607,0,💰 Budget-Conscious,31.73,15.1,338.42,No,Annual
+CUST02608,0,💰 Budget-Conscious,47.41,18.03,207.01,No,Monthly
+CUST02609,2,📊 Standard Users,49.17,13.67,2163.51,No,Quarterly
+CUST02610,2,📊 Standard Users,44.62,16.62,1332.68,No,Quarterly
+CUST02611,1,📊 Standard Users,53.04,21.95,1762.76,No,Monthly
+CUST02612,0,💰 Budget-Conscious,15.39,3.92,859.15,No,Annual
+CUST02613,0,💰 Budget-Conscious,20.79,7.1,695.13,No,Monthly
+CUST02614,0,💰 Budget-Conscious,33.05,20.05,959.64,No,Monthly
+CUST02615,2,📊 Standard Users,33.69,16.3,1112.76,No,Quarterly
+CUST02616,1,📊 Standard Users,57.6,30.47,1864.24,No,Monthly
+CUST02617,2,📊 Standard Users,31.21,19.13,1098.63,No,Quarterly
+CUST02618,1,📊 Standard Users,55.0,47.36,209.01,No,Monthly
+CUST02619,0,💰 Budget-Conscious,33.22,12.94,395.36,No,Monthly
+CUST02620,0,💰 Budget-Conscious,26.99,2.09,760.13,No,Monthly
+CUST02621,2,📊 Standard Users,27.68,5.9,1386.93,No,Monthly
+CUST02622,1,📊 Standard Users,78.87,44.14,1269.87,Yes,Monthly
+CUST02623,0,💰 Budget-Conscious,31.93,17.94,700.25,No,Quarterly
+CUST02624,2,📊 Standard Users,40.53,22.83,1721.08,No,Annual
+CUST02625,0,💰 Budget-Conscious,22.53,8.14,906.63,No,Annual
+CUST02626,1,📊 Standard Users,66.28,31.95,1533.37,Yes,Monthly
+CUST02627,1,📊 Standard Users,50.24,36.99,68.66,No,Monthly
+CUST02628,2,📊 Standard Users,49.11,12.52,1941.47,No,Monthly
+CUST02629,1,📊 Standard Users,51.21,24.78,568.4,No,Monthly
+CUST02630,1,📊 Standard Users,52.86,25.37,2371.65,No,Monthly
+CUST02631,1,📊 Standard Users,57.14,42.17,1912.15,No,Monthly
+CUST02632,2,📊 Standard Users,36.01,16.51,1624.21,Yes,Monthly
+CUST02633,2,📊 Standard Users,29.74,6.78,1777.42,No,Annual
+CUST02634,2,📊 Standard Users,45.74,27.66,1237.98,Yes,Monthly
+CUST02635,1,📊 Standard Users,55.27,40.0,132.64,Yes,Monthly
+CUST02636,2,📊 Standard Users,44.0,11.06,1427.07,No,Monthly
+CUST02637,1,📊 Standard Users,56.61,45.35,701.95,No,Monthly
+CUST02638,2,📊 Standard Users,39.94,10.97,1836.03,No,Annual
+CUST02639,0,💰 Budget-Conscious,41.75,23.74,733.32,No,Monthly
+CUST02640,0,💰 Budget-Conscious,18.79,1.06,246.18,No,Monthly
+CUST02641,0,💰 Budget-Conscious,37.45,12.27,1148.38,No,Monthly
+CUST02642,1,📊 Standard Users,71.14,41.22,1081.36,No,Monthly
+CUST02643,1,📊 Standard Users,50.1,46.78,1726.81,No,Monthly
+CUST02644,0,💰 Budget-Conscious,29.88,3.65,49.81,No,Annual
+CUST02645,0,💰 Budget-Conscious,37.01,10.71,537.81,No,Annual
+CUST02646,0,💰 Budget-Conscious,46.77,15.74,1010.16,No,Quarterly
+CUST02647,2,📊 Standard Users,35.41,24.54,1232.41,No,Monthly
+CUST02648,0,💰 Budget-Conscious,44.88,7.31,546.08,No,Annual
+CUST02649,1,📊 Standard Users,52.44,31.86,2044.98,No,Monthly
+CUST02650,0,💰 Budget-Conscious,28.5,5.52,1118.2,No,Monthly
+CUST02651,0,💰 Budget-Conscious,48.56,11.02,692.84,Yes,Quarterly
+CUST02652,0,💰 Budget-Conscious,38.86,11.0,1064.65,No,Monthly
+CUST02653,0,💰 Budget-Conscious,42.31,13.83,1049.36,No,Monthly
+CUST02654,0,💰 Budget-Conscious,29.84,5.59,79.57,No,Quarterly
+CUST02655,1,📊 Standard Users,54.47,33.05,640.95,No,Monthly
+CUST02656,0,💰 Budget-Conscious,38.51,22.33,1050.08,No,Quarterly
+CUST02657,1,📊 Standard Users,55.11,40.93,312.27,No,Monthly
+CUST02658,0,💰 Budget-Conscious,30.59,16.92,508.85,No,Annual
+CUST02659,0,💰 Budget-Conscious,29.68,7.06,807.21,No,Annual
+CUST02660,2,📊 Standard Users,29.03,5.8,1342.08,No,Annual
+CUST02661,1,📊 Standard Users,50.94,30.57,1686.13,No,Monthly
+CUST02662,2,📊 Standard Users,34.79,13.68,1202.74,No,Monthly
+CUST02663,0,💰 Budget-Conscious,41.95,9.35,562.17,Yes,Monthly
+CUST02664,2,📊 Standard Users,37.22,25.02,2006.35,No,Monthly
+CUST02665,1,📊 Standard Users,51.6,44.31,899.58,No,Monthly
+CUST02666,0,💰 Budget-Conscious,22.65,0.5,1201.8,No,Quarterly
+CUST02667,2,📊 Standard Users,48.71,21.67,2795.7,No,Monthly
+CUST02668,2,📊 Standard Users,48.85,7.67,1270.12,No,Annual
+CUST02669,1,📊 Standard Users,63.54,40.21,2560.68,No,Monthly
+CUST02670,0,💰 Budget-Conscious,35.75,3.98,381.34,No,Monthly
+CUST02671,1,📊 Standard Users,52.42,30.72,2972.16,No,Monthly
+CUST02672,2,📊 Standard Users,37.4,21.7,1492.44,No,Annual
+CUST02673,1,📊 Standard Users,54.69,48.97,246.12,No,Quarterly
+CUST02674,0,💰 Budget-Conscious,15.0,5.61,736.5,No,Annual
+CUST02675,2,📊 Standard Users,43.9,18.94,1022.94,No,Annual
+CUST02676,2,📊 Standard Users,40.99,7.93,2337.64,No,Monthly
+CUST02677,3,⚠️ At-Risk,33.85,17.69,34.98,No,Monthly
+CUST02678,0,💰 Budget-Conscious,33.42,19.25,688.51,No,Monthly
+CUST02679,0,💰 Budget-Conscious,27.0,10.14,605.72,No,Quarterly
+CUST02680,3,⚠️ At-Risk,35.79,11.88,141.96,No,Monthly
+CUST02681,2,📊 Standard Users,28.8,5.03,1342.27,No,Monthly
+CUST02682,0,💰 Budget-Conscious,36.44,15.39,460.38,No,Annual
+CUST02683,2,📊 Standard Users,39.72,18.49,2001.86,No,Annual
+CUST02684,2,📊 Standard Users,37.43,19.4,1642.12,No,Quarterly
+CUST02685,1,📊 Standard Users,55.0,45.61,2573.87,Yes,Quarterly
+CUST02686,2,📊 Standard Users,34.52,19.94,1335.76,No,Quarterly
+CUST02687,2,📊 Standard Users,40.37,7.59,2205.39,No,Monthly
+CUST02688,0,💰 Budget-Conscious,37.91,1.93,1379.77,No,Monthly
+CUST02689,2,📊 Standard Users,45.99,12.43,1437.83,Yes,Quarterly
+CUST02690,0,💰 Budget-Conscious,47.0,14.82,294.51,No,Quarterly
+CUST02691,1,📊 Standard Users,52.43,28.87,2859.21,No,Monthly
+CUST02692,2,📊 Standard Users,34.01,12.7,1119.97,No,Annual
+CUST02693,0,💰 Budget-Conscious,24.89,4.33,282.92,No,Monthly
+CUST02694,2,📊 Standard Users,40.21,17.89,1734.32,No,Monthly
+CUST02695,1,📊 Standard Users,54.78,24.66,865.55,No,Quarterly
+CUST02696,1,📊 Standard Users,60.2,34.22,656.16,No,Monthly
+CUST02697,2,📊 Standard Users,49.41,14.65,1615.73,Yes,Monthly
+CUST02698,0,💰 Budget-Conscious,39.23,17.77,85.01,Yes,Monthly
+CUST02699,2,📊 Standard Users,39.86,20.81,1510.84,No,Quarterly
+CUST02700,2,📊 Standard Users,39.3,23.42,1971.55,No,Monthly
+CUST02701,1,📊 Standard Users,51.93,27.54,2489.2,Yes,Quarterly
+CUST02702,2,📊 Standard Users,31.61,5.0,1290.76,No,Quarterly
+CUST02703,1,📊 Standard Users,58.86,32.58,2803.46,No,Monthly
+CUST02704,2,📊 Standard Users,30.77,7.06,1782.4,No,Annual
+CUST02705,1,📊 Standard Users,64.81,62.35,3057.06,No,Monthly
+CUST02706,0,💰 Budget-Conscious,38.41,10.64,752.92,No,Annual
+CUST02707,2,📊 Standard Users,33.76,17.82,1035.28,Yes,Monthly
+CUST02708,0,💰 Budget-Conscious,32.53,19.67,184.31,No,Annual
+CUST02709,1,📊 Standard Users,55.67,38.41,1699.93,No,Monthly
+CUST02710,2,📊 Standard Users,37.51,25.38,1464.25,No,Monthly
+CUST02711,2,📊 Standard Users,45.33,13.99,2009.72,No,Monthly
+CUST02712,0,💰 Budget-Conscious,37.31,10.83,938.86,No,Monthly
+CUST02713,1,📊 Standard Users,57.59,26.13,2443.79,Yes,Quarterly
+CUST02714,1,📊 Standard Users,73.97,42.5,2660.31,No,Monthly
+CUST02715,1,📊 Standard Users,54.63,33.1,1001.57,No,Quarterly
+CUST02716,0,💰 Budget-Conscious,43.13,10.57,56.07,No,Monthly
+CUST02717,2,📊 Standard Users,38.96,17.21,1315.51,Yes,Monthly
+CUST02718,0,💰 Budget-Conscious,32.21,18.55,436.96,No,Quarterly
+CUST02719,1,📊 Standard Users,68.04,37.71,3823.61,Yes,Monthly
+CUST02720,2,📊 Standard Users,49.31,19.5,2777.64,No,Quarterly
+CUST02721,2,📊 Standard Users,49.79,15.44,1179.97,No,Quarterly
+CUST02722,0,💰 Budget-Conscious,33.0,12.03,674.31,No,Annual
+CUST02723,0,💰 Budget-Conscious,18.63,6.62,112.41,No,Monthly
+CUST02724,0,💰 Budget-Conscious,24.72,3.22,617.19,No,Quarterly
+CUST02725,2,📊 Standard Users,35.46,9.36,1302.6,No,Annual
+CUST02726,2,📊 Standard Users,34.77,20.78,1399.04,No,Quarterly
+CUST02727,0,💰 Budget-Conscious,35.43,13.26,1048.86,No,Monthly
+CUST02728,2,📊 Standard Users,43.45,23.33,1949.52,No,Quarterly
+CUST02729,1,📊 Standard Users,50.14,43.57,2729.1,No,Quarterly
+CUST02730,0,💰 Budget-Conscious,32.99,12.88,86.87,No,Quarterly
+CUST02731,0,💰 Budget-Conscious,25.42,5.97,587.11,No,Monthly
+CUST02732,0,💰 Budget-Conscious,34.84,27.64,650.31,No,Monthly
+CUST02733,2,📊 Standard Users,26.65,6.51,1478.98,No,Annual
+CUST02734,1,📊 Standard Users,53.89,40.82,1999.41,No,Monthly
+CUST02735,2,📊 Standard Users,39.96,12.03,1625.0,No,Quarterly
+CUST02736,1,📊 Standard Users,73.21,53.45,3062.51,No,Monthly
+CUST02737,1,📊 Standard Users,56.02,48.18,1654.47,No,Monthly
+CUST02738,1,📊 Standard Users,72.21,29.14,421.21,No,Monthly
+CUST02739,0,💰 Budget-Conscious,23.94,8.76,753.37,No,Monthly
+CUST02740,0,💰 Budget-Conscious,15.0,5.33,864.5,No,Annual
+CUST02741,2,📊 Standard Users,36.94,10.8,1258.56,No,Annual
+CUST02742,2,📊 Standard Users,41.23,12.01,2050.61,No,Quarterly
+CUST02743,0,💰 Budget-Conscious,43.16,19.39,389.86,No,Monthly
+CUST02744,0,💰 Budget-Conscious,40.96,10.83,832.81,No,Quarterly
+CUST02745,0,💰 Budget-Conscious,28.76,2.79,686.4,No,Quarterly
+CUST02746,2,📊 Standard Users,45.63,12.81,2454.99,No,Quarterly
+CUST02747,1,📊 Standard Users,56.04,32.1,956.47,No,Monthly
+CUST02748,0,💰 Budget-Conscious,28.0,3.65,1083.7,No,Quarterly
+CUST02749,2,📊 Standard Users,36.46,12.73,1554.57,No,Quarterly
+CUST02750,0,💰 Budget-Conscious,32.67,19.58,764.36,No,Annual
+CUST02751,0,💰 Budget-Conscious,34.94,16.28,768.63,No,Monthly
+CUST02752,0,💰 Budget-Conscious,28.39,3.97,652.94,No,Quarterly
+CUST02753,0,💰 Budget-Conscious,40.13,12.86,924.21,No,Quarterly
+CUST02754,2,📊 Standard Users,48.91,14.34,2421.15,No,Monthly
+CUST02755,0,💰 Budget-Conscious,35.85,14.63,996.55,Yes,Monthly
+CUST02756,2,📊 Standard Users,28.64,4.86,1630.47,No,Monthly
+CUST02757,1,📊 Standard Users,51.16,43.8,763.96,No,Monthly
+CUST02758,2,📊 Standard Users,33.49,15.99,1135.32,No,Monthly
+CUST02759,2,📊 Standard Users,36.91,16.13,1855.24,No,Quarterly
+CUST02760,2,📊 Standard Users,35.64,22.13,1441.01,No,Quarterly
+CUST02761,1,📊 Standard Users,52.46,53.77,2755.75,Yes,Quarterly
+CUST02762,0,💰 Budget-Conscious,29.23,2.54,661.54,No,Annual
+CUST02763,1,📊 Standard Users,70.88,19.21,2358.04,No,Monthly
+CUST02764,1,📊 Standard Users,56.28,31.51,1161.34,Yes,Monthly
+CUST02765,1,📊 Standard Users,58.21,42.83,2192.54,No,Quarterly
+CUST02766,1,📊 Standard Users,54.97,38.76,985.79,No,Monthly
+CUST02767,0,💰 Budget-Conscious,41.68,20.27,653.05,No,Monthly
+CUST02768,2,📊 Standard Users,31.24,13.04,1361.0,No,Monthly
+CUST02769,0,💰 Budget-Conscious,39.67,5.22,1256.18,No,Monthly
+CUST02770,2,📊 Standard Users,46.9,8.17,1249.06,No,Annual
+CUST02771,2,📊 Standard Users,44.28,17.82,2026.59,No,Monthly
+CUST02772,1,📊 Standard Users,54.91,45.62,534.49,No,Monthly
+CUST02773,2,📊 Standard Users,48.1,5.47,2645.75,No,Monthly
+CUST02774,2,📊 Standard Users,42.5,22.05,2423.72,No,Quarterly
+CUST02775,2,📊 Standard Users,49.32,17.32,2642.04,No,Monthly
+CUST02776,2,📊 Standard Users,44.95,14.65,2138.28,No,Quarterly
+CUST02777,0,💰 Budget-Conscious,32.79,11.87,727.9,Yes,Monthly
+CUST02778,2,📊 Standard Users,40.88,22.96,1662.31,Yes,Monthly
+CUST02779,2,📊 Standard Users,49.64,19.49,2988.31,No,Monthly
+CUST02780,0,💰 Budget-Conscious,47.45,17.45,771.89,No,Monthly
+CUST02781,2,📊 Standard Users,38.08,11.34,1304.94,No,Monthly
+CUST02782,1,📊 Standard Users,51.25,51.14,2277.16,No,Monthly
+CUST02783,0,💰 Budget-Conscious,28.83,5.06,700.59,No,Annual
+CUST02784,0,💰 Budget-Conscious,26.65,5.6,294.09,No,Monthly
+CUST02785,2,📊 Standard Users,42.95,15.37,2267.75,No,Quarterly
+CUST02786,2,📊 Standard Users,27.02,3.47,1470.93,No,Monthly
+CUST02787,2,📊 Standard Users,49.2,16.6,2084.52,No,Monthly
+CUST02788,0,💰 Budget-Conscious,15.68,6.39,603.67,No,Monthly
+CUST02789,0,💰 Budget-Conscious,29.2,4.12,567.46,Yes,Annual
+CUST02790,0,💰 Budget-Conscious,40.09,16.17,423.58,No,Monthly
+CUST02791,0,💰 Budget-Conscious,20.9,5.12,849.95,No,Monthly
+CUST02792,0,💰 Budget-Conscious,39.41,19.58,853.88,No,Monthly
+CUST02793,1,📊 Standard Users,62.78,32.01,2165.75,No,Monthly
+CUST02794,0,💰 Budget-Conscious,25.95,5.45,56.21,No,Monthly
+CUST02795,0,💰 Budget-Conscious,36.55,17.19,941.68,No,Quarterly
+CUST02796,1,📊 Standard Users,70.54,31.78,4218.27,No,Monthly
+CUST02797,0,💰 Budget-Conscious,29.07,3.35,370.18,Yes,Monthly
+CUST02798,1,📊 Standard Users,53.97,28.37,3110.6,No,Quarterly
+CUST02799,0,💰 Budget-Conscious,40.81,17.05,138.77,Yes,Monthly
+CUST02800,0,💰 Budget-Conscious,46.53,13.82,1050.0,No,Monthly
+CUST02801,1,📊 Standard Users,64.37,32.51,3016.91,Yes,Monthly
+CUST02802,2,📊 Standard Users,35.15,18.02,1315.75,No,Quarterly
+CUST02803,1,📊 Standard Users,54.47,45.19,824.24,Yes,Monthly
+CUST02804,1,📊 Standard Users,58.27,46.92,1996.68,No,Monthly
+CUST02805,0,💰 Budget-Conscious,35.24,11.94,865.68,No,Monthly
+CUST02806,0,💰 Budget-Conscious,32.39,19.61,636.92,No,Quarterly
+CUST02807,2,📊 Standard Users,41.57,25.42,1187.54,No,Monthly
+CUST02808,2,📊 Standard Users,38.03,15.63,2148.52,No,Quarterly
+CUST02809,0,💰 Budget-Conscious,26.37,4.85,865.76,No,Annual
+CUST02810,0,💰 Budget-Conscious,33.58,13.59,611.23,No,Quarterly
+CUST02811,0,💰 Budget-Conscious,15.0,2.87,228.5,No,Monthly
+CUST02812,2,📊 Standard Users,39.99,19.21,2121.92,No,Monthly
+CUST02813,1,📊 Standard Users,58.42,34.31,368.02,No,Monthly
+CUST02814,0,💰 Budget-Conscious,20.0,4.7,118.66,No,Monthly
+CUST02815,0,💰 Budget-Conscious,38.05,18.44,1021.08,No,Monthly
+CUST02816,1,📊 Standard Users,64.42,42.79,2755.17,No,Quarterly
+CUST02817,2,📊 Standard Users,44.66,12.0,2627.59,No,Monthly
+CUST02818,1,📊 Standard Users,65.35,29.23,3518.11,No,Monthly
+CUST02819,0,💰 Budget-Conscious,29.88,3.76,95.62,No,Quarterly
+CUST02820,2,📊 Standard Users,44.49,25.57,1546.71,No,Quarterly
+CUST02821,0,💰 Budget-Conscious,27.27,7.95,372.65,No,Monthly
+CUST02822,0,💰 Budget-Conscious,38.21,18.54,110.8,No,Annual
+CUST02823,1,📊 Standard Users,57.63,31.25,2520.51,No,Monthly
+CUST02824,0,💰 Budget-Conscious,46.05,13.72,569.48,No,Quarterly
+CUST02825,2,📊 Standard Users,36.55,16.82,1441.31,No,Quarterly
+CUST02826,2,📊 Standard Users,42.75,26.05,1077.28,No,Quarterly
+CUST02827,2,📊 Standard Users,42.84,16.44,1749.5,No,Quarterly
+CUST02828,1,📊 Standard Users,54.99,40.09,1464.56,No,Monthly
+CUST02829,0,💰 Budget-Conscious,43.14,2.26,924.71,No,Monthly
+CUST02830,2,📊 Standard Users,49.31,16.29,2074.37,No,Quarterly
+CUST02831,1,📊 Standard Users,66.52,21.06,849.23,No,Monthly
+CUST02832,2,📊 Standard Users,32.46,12.57,1648.82,No,Annual
+CUST02833,0,💰 Budget-Conscious,45.7,15.23,220.87,No,Monthly
+CUST02834,2,📊 Standard Users,31.43,13.49,1379.68,No,Monthly
+CUST02835,1,📊 Standard Users,50.1,28.64,1154.06,No,Monthly
+CUST02836,1,📊 Standard Users,50.2,28.73,2501.61,No,Monthly
+CUST02837,2,📊 Standard Users,40.58,13.94,2165.61,No,Quarterly
+CUST02838,0,💰 Budget-Conscious,41.33,13.73,664.1,No,Quarterly
+CUST02839,1,📊 Standard Users,59.22,35.2,3020.13,No,Quarterly
+CUST02840,0,💰 Budget-Conscious,15.0,4.89,158.0,No,Annual
+CUST02841,2,📊 Standard Users,31.03,21.39,1402.41,No,Annual
+CUST02842,0,💰 Budget-Conscious,32.25,4.75,1124.46,No,Annual
+CUST02843,1,📊 Standard Users,66.85,37.45,757.68,Yes,Monthly
+CUST02844,0,💰 Budget-Conscious,44.75,15.36,353.55,No,Quarterly
+CUST02845,1,📊 Standard Users,52.5,33.66,1132.15,Yes,Monthly
+CUST02846,1,📊 Standard Users,63.9,27.94,1011.72,No,Monthly
+CUST02847,0,💰 Budget-Conscious,38.2,14.25,890.07,No,Quarterly
+CUST02848,1,📊 Standard Users,54.78,18.66,1208.92,No,Monthly
+CUST02849,0,💰 Budget-Conscious,37.04,16.03,103.71,No,Monthly
+CUST02850,0,💰 Budget-Conscious,29.2,5.78,915.92,Yes,Monthly
+CUST02851,1,📊 Standard Users,71.91,27.96,2552.89,No,Monthly
+CUST02852,0,💰 Budget-Conscious,37.95,24.7,867.84,No,Annual
+CUST02853,1,📊 Standard Users,54.67,33.8,2647.85,No,Monthly
+CUST02854,2,📊 Standard Users,28.8,5.09,1632.81,Yes,Monthly
+CUST02855,1,📊 Standard Users,52.66,48.36,1770.97,No,Monthly
+CUST02856,1,📊 Standard Users,71.67,56.42,1299.68,No,Monthly
+CUST02857,2,📊 Standard Users,32.78,9.38,1867.39,No,Annual
+CUST02858,2,📊 Standard Users,26.16,3.85,1391.0,No,Monthly
+CUST02859,0,💰 Budget-Conscious,47.76,14.49,423.47,No,Monthly
+CUST02860,0,💰 Budget-Conscious,29.64,3.51,1316.06,No,Quarterly
+CUST02861,0,💰 Budget-Conscious,22.54,6.69,283.22,No,Annual
+CUST02862,0,💰 Budget-Conscious,32.65,10.74,714.0,No,Quarterly
+CUST02863,2,📊 Standard Users,31.06,21.33,1197.85,No,Annual
+CUST02864,0,💰 Budget-Conscious,30.19,18.12,663.2,No,Monthly
+CUST02865,1,📊 Standard Users,64.9,46.64,3396.28,No,Monthly
+CUST02866,1,📊 Standard Users,73.34,26.51,3180.69,No,Monthly
+CUST02867,0,💰 Budget-Conscious,39.94,13.08,523.28,No,Annual
+CUST02868,1,📊 Standard Users,50.76,43.98,592.23,Yes,Monthly
+CUST02869,2,📊 Standard Users,42.87,18.58,2409.25,No,Monthly
+CUST02870,0,💰 Budget-Conscious,31.56,13.57,331.33,No,Monthly
+CUST02871,1,📊 Standard Users,69.04,33.55,409.66,No,Monthly
+CUST02872,2,📊 Standard Users,44.06,12.83,1669.77,No,Monthly
+CUST02873,0,💰 Budget-Conscious,31.3,14.14,453.84,No,Annual
+CUST02874,1,📊 Standard Users,60.22,25.35,2021.43,No,Monthly
+CUST02875,0,💰 Budget-Conscious,39.26,9.33,634.77,No,Quarterly
+CUST02876,2,📊 Standard Users,49.77,20.03,2979.74,No,Quarterly
+CUST02877,0,💰 Budget-Conscious,38.85,13.97,1073.66,No,Monthly
+CUST02878,1,📊 Standard Users,60.26,46.51,2438.71,No,Monthly
+CUST02879,1,📊 Standard Users,59.7,40.96,2073.46,No,Monthly
+CUST02880,1,📊 Standard Users,64.87,38.12,1758.04,No,Monthly
+CUST02881,0,💰 Budget-Conscious,32.91,11.45,536.36,No,Quarterly
+CUST02882,2,📊 Standard Users,43.75,8.95,2337.94,No,Monthly
+CUST02883,1,📊 Standard Users,74.22,30.43,3841.94,Yes,Monthly
+CUST02884,2,📊 Standard Users,41.3,22.66,1056.0,No,Monthly
+CUST02885,0,💰 Budget-Conscious,41.49,19.44,744.02,No,Annual
+CUST02886,1,📊 Standard Users,53.32,29.5,3034.17,No,Annual
+CUST02887,0,💰 Budget-Conscious,20.21,4.11,343.53,No,Annual
+CUST02888,2,📊 Standard Users,37.2,10.35,2128.09,No,Quarterly
+CUST02889,0,💰 Budget-Conscious,45.03,7.26,214.63,No,Monthly
+CUST02890,0,💰 Budget-Conscious,22.01,5.2,570.82,No,Quarterly
+CUST02891,2,📊 Standard Users,38.16,23.63,2074.66,No,Monthly
+CUST02892,0,💰 Budget-Conscious,30.29,23.69,393.72,No,Quarterly
+CUST02893,0,💰 Budget-Conscious,48.58,18.04,599.11,No,Quarterly
+CUST02894,0,💰 Budget-Conscious,19.01,3.79,506.31,No,Monthly
+CUST02895,1,📊 Standard Users,58.89,20.51,1550.85,No,Quarterly
+CUST02896,2,📊 Standard Users,40.52,20.24,1347.94,No,Annual
+CUST02897,0,💰 Budget-Conscious,29.19,5.89,465.14,Yes,Monthly
+CUST02898,2,📊 Standard Users,43.21,13.42,1244.49,No,Annual
+CUST02899,1,📊 Standard Users,53.95,30.17,2217.54,No,Monthly
+CUST02900,2,📊 Standard Users,39.61,18.0,2317.32,No,Quarterly
+CUST02901,2,📊 Standard Users,34.18,10.87,1663.34,No,Monthly
+CUST02902,1,📊 Standard Users,53.21,37.39,3049.22,No,Monthly
+CUST02903,2,📊 Standard Users,35.98,8.9,1498.11,No,Annual
+CUST02904,2,📊 Standard Users,29.49,9.46,1492.98,No,Annual
+CUST02905,0,💰 Budget-Conscious,26.57,3.63,301.1,No,Quarterly
+CUST02906,0,💰 Budget-Conscious,32.24,18.24,312.74,No,Monthly
+CUST02907,2,📊 Standard Users,30.97,9.01,1519.77,No,Annual
+CUST02908,1,📊 Standard Users,62.44,33.37,905.34,No,Monthly
+CUST02909,0,💰 Budget-Conscious,41.89,19.42,240.15,No,Annual
+CUST02910,0,💰 Budget-Conscious,38.25,20.5,473.01,No,Monthly
+CUST02911,2,📊 Standard Users,38.83,18.82,1772.04,No,Monthly
+CUST02912,2,📊 Standard Users,49.91,14.31,1920.01,No,Quarterly
+CUST02913,0,💰 Budget-Conscious,49.01,11.67,445.99,No,Monthly
+CUST02914,0,💰 Budget-Conscious,48.8,9.61,844.26,No,Monthly
+CUST02915,3,⚠️ At-Risk,34.45,22.52,47.08,No,Monthly
+CUST02916,2,📊 Standard Users,43.15,15.52,1858.27,No,Monthly
+CUST02917,0,💰 Budget-Conscious,45.06,16.44,886.26,No,Monthly
+CUST02918,3,⚠️ At-Risk,43.63,20.83,103.26,Yes,Monthly
+CUST02919,1,📊 Standard Users,56.01,40.87,1319.99,Yes,Monthly
+CUST02920,1,📊 Standard Users,56.48,33.73,1172.91,No,Monthly
+CUST02921,2,📊 Standard Users,30.81,18.72,1522.03,No,Quarterly
+CUST02922,2,📊 Standard Users,37.5,11.89,1513.62,No,Monthly
+CUST02923,0,💰 Budget-Conscious,29.5,1.9,1247.89,No,Annual
+CUST02924,2,📊 Standard Users,46.11,22.06,2648.15,No,Annual
+CUST02925,1,📊 Standard Users,78.8,29.61,3979.52,No,Monthly
+CUST02926,0,💰 Budget-Conscious,35.36,13.48,192.14,No,Quarterly
+CUST02927,2,📊 Standard Users,33.66,13.92,1256.76,No,Annual
+CUST02928,2,📊 Standard Users,41.74,11.99,1474.76,No,Annual
+CUST02929,0,💰 Budget-Conscious,32.93,20.51,1072.35,No,Quarterly
+CUST02930,1,📊 Standard Users,57.97,38.74,3051.35,Yes,Monthly
+CUST02931,0,💰 Budget-Conscious,39.79,13.48,135.29,No,Quarterly
+CUST02932,0,💰 Budget-Conscious,22.56,2.45,321.89,No,Quarterly
+CUST02933,0,💰 Budget-Conscious,27.0,5.61,1311.99,No,Quarterly
+CUST02934,2,📊 Standard Users,39.93,2.75,2300.09,No,Monthly
+CUST02935,0,💰 Budget-Conscious,44.78,16.16,906.12,No,Annual
+CUST02936,0,💰 Budget-Conscious,27.86,7.69,824.65,No,Annual
+CUST02937,0,💰 Budget-Conscious,36.99,15.32,196.04,No,Monthly
+CUST02938,2,📊 Standard Users,48.17,21.03,1541.34,No,Monthly
+CUST02939,0,💰 Budget-Conscious,19.97,2.54,1011.07,Yes,Monthly
+CUST02940,2,📊 Standard Users,37.39,25.19,1569.07,No,Annual
+CUST02941,2,📊 Standard Users,24.56,7.19,1490.95,Yes,Quarterly
+CUST02942,0,💰 Budget-Conscious,45.67,17.38,449.11,No,Quarterly
+CUST02943,2,📊 Standard Users,32.87,12.01,1742.02,No,Monthly
+CUST02944,0,💰 Budget-Conscious,30.58,11.18,837.88,No,Quarterly
+CUST02945,0,💰 Budget-Conscious,49.09,14.65,461.46,No,Monthly
+CUST02946,1,📊 Standard Users,56.91,47.03,1614.34,No,Monthly
+CUST02947,2,📊 Standard Users,43.76,8.42,1957.65,No,Quarterly
+CUST02948,0,💰 Budget-Conscious,36.66,15.05,235.85,No,Annual
+CUST02949,0,💰 Budget-Conscious,36.77,18.67,152.0,No,Annual
+CUST02950,2,📊 Standard Users,38.06,19.65,1093.55,No,Annual
+CUST02951,1,📊 Standard Users,51.72,42.31,2005.03,Yes,Monthly
+CUST02952,0,💰 Budget-Conscious,39.09,7.91,475.54,No,Monthly
+CUST02953,2,📊 Standard Users,46.55,20.66,1320.33,No,Quarterly
+CUST02954,0,💰 Budget-Conscious,28.61,5.13,254.67,No,Annual
+CUST02955,1,📊 Standard Users,61.37,24.14,838.74,Yes,Monthly
+CUST02956,1,📊 Standard Users,56.74,34.76,2816.03,No,Monthly
+CUST02957,1,📊 Standard Users,77.71,15.41,2403.94,No,Monthly
+CUST02958,0,💰 Budget-Conscious,45.14,17.89,770.36,No,Quarterly
+CUST02959,1,📊 Standard Users,58.64,33.72,1819.69,No,Monthly
+CUST02960,0,💰 Budget-Conscious,21.59,2.46,775.87,No,Monthly
+CUST02961,1,📊 Standard Users,59.13,32.1,3362.27,No,Monthly
+CUST02962,1,📊 Standard Users,62.65,27.93,2443.23,No,Monthly
+CUST02963,0,💰 Budget-Conscious,47.04,11.78,801.21,No,Annual
+CUST02964,2,📊 Standard Users,46.81,3.69,2254.54,No,Monthly
+CUST02965,0,💰 Budget-Conscious,36.58,6.64,1153.52,No,Quarterly
+CUST02966,0,💰 Budget-Conscious,29.1,4.54,992.48,No,Quarterly
+CUST02967,0,💰 Budget-Conscious,27.02,4.2,894.22,No,Annual
+CUST02968,0,💰 Budget-Conscious,44.62,19.87,841.75,No,Monthly
+CUST02969,0,💰 Budget-Conscious,20.99,3.74,791.97,No,Annual
+CUST02970,2,📊 Standard Users,32.32,12.37,1759.17,No,Quarterly
+CUST02971,2,📊 Standard Users,35.72,12.6,1459.6,No,Annual
+CUST02972,2,📊 Standard Users,35.54,14.01,1261.59,No,Annual
+CUST02973,0,💰 Budget-Conscious,30.46,15.46,159.4,No,Monthly
+CUST02974,2,📊 Standard Users,26.49,4.19,1466.78,No,Monthly
+CUST02975,0,💰 Budget-Conscious,28.73,6.14,115.89,No,Monthly
+CUST02976,2,📊 Standard Users,41.69,26.5,2370.61,No,Monthly
+CUST02977,1,📊 Standard Users,76.95,26.75,1467.12,No,Monthly
+CUST02978,1,📊 Standard Users,60.91,38.92,1776.4,Yes,Monthly
+CUST02979,2,📊 Standard Users,48.21,15.15,2547.25,No,Monthly
+CUST02980,1,📊 Standard Users,53.31,45.47,3040.35,No,Monthly
+CUST02981,1,📊 Standard Users,60.24,37.03,2044.08,No,Monthly
+CUST02982,1,📊 Standard Users,55.13,27.74,874.8,No,Monthly
+CUST02983,0,💰 Budget-Conscious,40.38,9.17,563.93,No,Monthly
+CUST02984,0,💰 Budget-Conscious,32.32,18.05,755.12,No,Monthly
+CUST02985,3,⚠️ At-Risk,43.12,9.58,103.49,No,Monthly
+CUST02986,1,📊 Standard Users,60.06,46.84,566.6,No,Monthly
+CUST02987,2,📊 Standard Users,32.84,17.77,1294.87,No,Annual
+CUST02988,0,💰 Budget-Conscious,28.43,5.17,1054.75,No,Monthly
+CUST02989,0,💰 Budget-Conscious,19.15,2.38,441.69,No,Monthly
+CUST02990,0,💰 Budget-Conscious,43.18,18.38,713.98,No,Monthly
+CUST02991,0,💰 Budget-Conscious,26.79,8.23,282.24,No,Annual
+CUST02992,2,📊 Standard Users,31.51,12.87,1092.27,No,Annual
+CUST02993,2,📊 Standard Users,46.65,11.29,2441.34,No,Annual
+CUST02994,2,📊 Standard Users,39.46,14.54,1999.38,No,Quarterly
+CUST02995,0,💰 Budget-Conscious,33.74,17.33,907.69,Yes,Monthly
+CUST02996,0,💰 Budget-Conscious,49.63,12.34,618.74,No,Monthly
+CUST02997,1,📊 Standard Users,73.81,43.99,1650.98,No,Monthly
+CUST02998,0,💰 Budget-Conscious,34.03,24.55,466.27,No,Annual
+CUST02999,0,💰 Budget-Conscious,16.44,5.66,394.13,Yes,Quarterly
+CUST03000,2,📊 Standard Users,46.5,13.38,2024.33,No,Quarterly
