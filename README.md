@@ -1,8 +1,8 @@
-# 📊 Telecom Customer Segmentation Analysis
+# Telecom Customer Segmentation Analysis
 
 A data-driven approach to understanding customer behavior and identifying distinct customer segments in a small telecom company using machine learning clustering techniques.
 
-## 🎯 Business Problem
+## Business Problem
 
 As a growing telecom service provider with ~3,000 customers, the company needed to:
 - Understand different customer groups and their behaviors
@@ -11,11 +11,11 @@ As a growing telecom service provider with ~3,000 customers, the company needed 
 - Create targeted marketing campaigns
 - Optimize resource allocation
 
-## 📈 Project Overview
+## Project Overview
 
 This project uses **K-Means clustering** to segment customers based on their usage patterns, payment behavior, and lifetime value. The analysis reveals 4 distinct customer segments, each requiring different business strategies.
 
-## 🔍 Key Findings
+## Key Findings
 
 - **4 Distinct Segments** identified with clear behavioral patterns
 - **11.3% overall churn rate** with significant variation across segments
@@ -23,7 +23,7 @@ This project uses **K-Means clustering** to segment customers based on their usa
 - **At-risk segment** identified for immediate intervention
 - **Budget-conscious users** present upsell opportunities
 
-## 💻 Technologies Used
+## Technologies Used
 
 - **Python 3.13**
 - **pandas** & **numpy** - Data manipulation
@@ -31,7 +31,7 @@ This project uses **K-Means clustering** to segment customers based on their usa
 - **scikit-learn** - Machine learning (K-Means clustering, StandardScaler)
 - **Jupyter Notebook** - Interactive analysis
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 telecom-customer-segmentation/
@@ -43,7 +43,7 @@ telecom-customer-segmentation/
 └── README.md                               # Project documentation
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -81,7 +81,7 @@ conda install jupyter pandas numpy matplotlib seaborn scikit-learn
    - Run all cells (Cell → Run All)
    - Explore the visualizations and insights
 
-## 📊 Analysis Workflow
+## Analysis Workflow
 
 1. **Data Loading & Exploration**
    - Load customer data
@@ -115,36 +115,36 @@ conda install jupyter pandas numpy matplotlib seaborn scikit-learn
    - Revenue impact calculations
    - Actionable next steps
 
-## 🎯 Customer Segments Identified
+## Customer Segments Identified
 
-### 💎 Premium High-Value
+### Premium High Value
 - **Characteristics**: Highest monthly charges ($50+), heavy data users, long tenure
 - **Size**: ~20% of customer base
 - **Strategy**: VIP retention, exclusive perks, proactive service
 
-### ⚠️ At-Risk
+### At Risk
 - **Characteristics**: High churn rate (15%+), frequent support calls, payment issues
 - **Size**: ~25% of customer base
 - **Strategy**: Immediate intervention, personalized retention offers
 
-### 💰 Budget-Conscious
+###  Budget Conscious
 - **Characteristics**: Low monthly charges (<$35), minimal usage, price-sensitive
 - **Size**: ~30% of customer base
 - **Strategy**: Value packages, gradual upselling, reliability focus
 
-### 📊 Standard Users
+### Standard Users
 - **Characteristics**: Moderate usage and charges, stable, long-term customers
 - **Size**: ~25% of customer base
 - **Strategy**: Maintain satisfaction, identify upsell opportunities
 
-## 📈 Business Impact
+## Business Impact
 
 - **Targeted Marketing**: 4x more effective campaigns by segment
 - **Churn Reduction**: Identified at-risk customers worth $X,XXX in monthly revenue
 - **Revenue Optimization**: Clear upsell paths for budget and standard segments
 - **Resource Efficiency**: Better allocation of customer support and sales efforts
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Add predictive churn model using supervised learning
 - [ ] Incorporate customer satisfaction scores
@@ -153,7 +153,7 @@ conda install jupyter pandas numpy matplotlib seaborn scikit-learn
 - [ ] Real-time segment assignment for new customers
 - [ ] Dashboard for monitoring segment health
 
-## 📚 Dataset Features
+## Dataset Features
 
 | Feature | Description |
 |---------|-------------|
@@ -173,30 +173,26 @@ conda install jupyter pandas numpy matplotlib seaborn scikit-learn
 | total_revenue | Cumulative lifetime revenue |
 | churned | Whether customer has left (Yes/No) |
 
-## 🤝 Contributing
+## Contributing
 
 This is a portfolio project, but feedback and suggestions are welcome! Feel free to:
 - Open an issue for bugs or improvements
 - Submit a pull request with enhancements
 - Share your own analysis approaches
 
-## 📝 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 👤 Author
+## Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
+- GitHub:
+- LinkedIn: 
+- Email: hennafaizlukhman@gmail.com
+##  Acknowledgments
 
 - Sample data generated to mimic realistic telecom customer behavior
 - Analysis methodology based on industry best practices in customer analytics
 - Inspired by real-world customer segmentation challenges in telecommunications
 
----
-
-*This project demonstrates proficiency in data analysis, machine learning, and business insights generation - key skills for data analyst roles.*
